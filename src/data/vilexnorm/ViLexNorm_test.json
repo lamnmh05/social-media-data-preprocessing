@@ -1,0 +1,5227 @@
+[
+    {
+        "": "0",
+        "original": "K nên bới đồ ăn thật nhưng cũng nên đổi người yêu, nếu là ng yêu mình thì a ấy sẽ tự lấy phần nạc cho m rồi, m cũng k ăn đồ mỡ nè",
+        "normalized": "Không nên bới đồ ăn thật nhưng cũng nên đổi người yêu, nếu là người yêu mình thì anh ấy sẽ tự lấy phần nạc cho mình rồi, mình cũng không ăn đồ mỡ nè"
+    },
+    {
+        "": "1",
+        "original": "Tay này gọt đc k",
+        "normalized": "Tay này gọt được không"
+    },
+    {
+        "": "2",
+        "original": "giống khẩu phần hồi covid của t ha m ha",
+        "normalized": "giống khẩu phần hồi covid của tao ha mày ha"
+    },
+    {
+        "": "3",
+        "original": "Trong gia đình vk ck mà làm vậy đã thấy khó chịu rồi, đằng này còn ra mắt nhà ny lần đầu",
+        "normalized": "Trong gia đình vợ chồng mà làm vậy đã thấy khó chịu rồi, đằng này còn ra mắt nhà người yêu lần đầu"
+    },
+    {
+        "": "4",
+        "original": "Bộ học sjnk dỏi thì phải lun thân thiện còn học sjnk truq bìk thì xấu xa à?",
+        "normalized": "Bộ học sinh giỏi thì phải luôn thân thiện còn học sinh trung bình thì xấu xa à?"
+    },
+    {
+        "": "5",
+        "original": "các founder có nhận fb ko",
+        "normalized": "các founder có nhận fb không"
+    },
+    {
+        "": "6",
+        "original": "Sv đh gia đình chưa cho đi làm:))",
+        "normalized": "Sinh viên đại học gia đình chưa cho đi làm:))"
+    },
+    {
+        "": "7",
+        "original": "đảm bảo dáng ngol, giảm cân cấp tốc là đây chứ k phải trà hay ăn sữa chua yến mạch gì đâu",
+        "normalized": "đảm bảo dáng ngon, giảm cân cấp tốc là đây chứ không phải trà hay ăn sữa chua yến mạch gì đâu"
+    },
+    {
+        "": "8",
+        "original": "giống từ móng tay móng chân,mũi to như bố,da trăng cũng y hệt,giống cả mùi mồ hôi và hahahhaha tôi mới phát hiện nó có tóc bạc y bố nó,tôi hơn nó 30t mà tôi còn chưa có",
+        "normalized": "giống từ móng tay móng chân,mũi to như bố,da trắng cũng y hệt,giống cả mùi mồ hôi và hahahhaha tôi mới phát hiện nó có tóc bạc y bố nó,tôi hơn nó 30t mà tôi còn chưa có"
+    },
+    {
+        "": "9",
+        "original": "bộ này vui vs hài ghê m mốt mua ik t vs m mặc chug ké nhau z ă",
+        "normalized": "bộ này vui với hài ghê mày mốt mua đi tao với mày mặc chung ké nhau vậy á"
+    },
+    {
+        "": "10",
+        "original": "Liệu tết này có còn dc về quê?",
+        "normalized": "Liệu tết này có còn được về quê?"
+    },
+    {
+        "": "11",
+        "original": "Cùng thuyền với bác cháu mình àh?",
+        "normalized": "Cùng thuyền với bác cháu mình à?"
+    },
+    {
+        "": "12",
+        "original": "Nèk, lấy học liệu tiếp đón khách :((",
+        "normalized": "Nè, lấy học liệu tiếp đón khách :(("
+    },
+    {
+        "": "13",
+        "original": "sao e công nghiệp vậy =)))",
+        "normalized": "sao em công nghiệp vậy =)))"
+    },
+    {
+        "": "14",
+        "original": "móa lần nào đọc cũng cười sặc =)))",
+        "normalized": "má lần nào đọc cũng cười sặc =)))"
+    },
+    {
+        "": "15",
+        "original": "Phàm những người phụ nữ ko biết đòi hỏi, ko này ko nọ với ông chồng nên các ông mặc định để cho vợ gánh",
+        "normalized": "Phàm những người phụ nữ không biết đòi hỏi, không này không nọ với ông chồng nên các ông mặc định để cho vợ gánh"
+    },
+    {
+        "": "16",
+        "original": "dang o tieu vuong quoc ma an noi kieu day ha",
+        "normalized": "đang ở tiểu vương quốc mà ăn nói kiểu đấy hả"
+    },
+    {
+        "": "17",
+        "original": "thôi đi có dc ko :))",
+        "normalized": "thôi đi có được không :))"
+    },
+    {
+        "": "18",
+        "original": "sao mệt mỏi quá z",
+        "normalized": "sao mệt mỏi quá vậy"
+    },
+    {
+        "": "19",
+        "original": "thì ảnh hưởng đ gì ?",
+        "normalized": "thì ảnh hưởng đéo gì ?"
+    },
+    {
+        "": "20",
+        "original": "Cũng sợ ngta giận mà nhớ ra mình có tiền đâu mà cho ngta vay :((",
+        "normalized": "Cũng sợ người ta giận mà nhớ ra mình có tiền đâu mà cho người ta vay :(("
+    },
+    {
+        "": "21",
+        "original": "bỏ mẹ lại nhớ đến chị guột cùng nốt ruồi son rồi",
+        "normalized": "bỏ mẹ lại nhớ đến chị ruột cùng nốt ruồi son rồi"
+    },
+    {
+        "": "22",
+        "original": "con mắm này nó dth qué chời á",
+        "normalized": "con mắm này nó dễ thương quá trời á"
+    },
+    {
+        "": "23",
+        "original": "K ngờ workreform vẫn còn sống sau cái vụ antiwork mod và adm phá, cố ý ban sub này  sau drama đó thì antiwork đáng bị ban hơn.",
+        "normalized": "Không ngờ workreform vẫn còn sống sau cái vụ antiwork mod và adm phá, cố ý ban sub này sau drama đó thì antiwork đáng bị ban hơn."
+    },
+    {
+        "": "24",
+        "original": "kêu là a ta mới là người cô yêu a ta tốt với cô..",
+        "normalized": "kêu là anh ta mới là người cô yêu anh ta tốt với cô.."
+    },
+    {
+        "": "25",
+        "original": "nhiều cái đỡ hỏng nỏiii",
+        "normalized": "nhiều cái đỡ không nổi"
+    },
+    {
+        "": "26",
+        "original": "Hình này Đặng Siêu mới chụp hôm qua ó",
+        "normalized": "Hình này Đặng Siêu mới chụp hôm qua á"
+    },
+    {
+        "": "27",
+        "original": "Chăc e nay sn 2005",
+        "normalized": "Chắc em nay sinh năm 2006"
+    },
+    {
+        "": "28",
+        "original": "cậu phải dư lày lày",
+        "normalized": "cậu phải như này này"
+    },
+    {
+        "": "29",
+        "original": "khôm bít 2 bà tới trình độ vày ch",
+        "normalized": "không biết 2 bà tới trình độ vầy chưa"
+    },
+    {
+        "": "30",
+        "original": "Còn phải nói nhỏ nhẹ kiểu nhờ vả để nó trả mà nó còn k thèm trả",
+        "normalized": "Còn phải nói nhỏ nhẹ kiểu nhờ vả để nó trả mà nó còn không thèm trả"
+    },
+    {
+        "": "31",
+        "original": "Huhu hqua đang đọc dở phòng ks 371 cái bị văng ra, quay lại thì bài đó bay màu luôn zị ad",
+        "normalized": "Huhu hôm qua đang đọc dở phòng khách sạn 371 cái bị văng ra, quay lại thì bài đó bay màu luôn vậy ad"
+    },
+    {
+        "": "32",
+        "original": "Nhìn nóa lại nghĩ đến con ngỗng nhà toy",
+        "normalized": "Nhìn nó lại nghĩ đến con ngỗng nhà tôi"
+    },
+    {
+        "": "33",
+        "original": "khoang thắc mắc lúc chạy đuổi theo giả bộ như nào để ông chủ k biết chứ xe máy thì s chạy thua chạy bộ đc",
+        "normalized": "khoan thắc mắc lúc chạy đuổi theo giả bộ như nào để ông chủ không biết chứ xe máy thì sao chạy thua chạy bộ được"
+    },
+    {
+        "": "34",
+        "original": "bn xem có thực sự muốn giữ gìn cuộc hn này chưa rồi tính",
+        "normalized": "bạn xem có thật sự muốn giữ gìn cuộc hôn nhân này chưa rồi tính"
+    },
+    {
+        "": "35",
+        "original": "có khi ny bạn đang trong bụng mẹ",
+        "normalized": "có khi người yêu bạn đang trong bụng mẹ"
+    },
+    {
+        "": "36",
+        "original": "người bạn duy nhất nhớ SN mình khi mình ẩn hết đi.",
+        "normalized": "người bạn duy nhất nhớ sinh nhật mình khi mình ẩn hết đi."
+    },
+    {
+        "": "37",
+        "original": "Nhiều lúc xem tin tuyển dụng thấy yêu cầu phức tạp, nhiều cái ko biết mà nản luôn.",
+        "normalized": "Nhiều lúc xem tin tuyển dụng thấy yêu cầu phức tạp, nhiều cái không biết mà nản luôn."
+    },
+    {
+        "": "38",
+        "original": "Ánh hào quan rực rỡ đây ms đúng sự thật",
+        "normalized": "Ánh hào quang rực rỡ đây mới đúng sự thật"
+    },
+    {
+        "": "39",
+        "original": "Game như hạch, bị dụ chơi cho đỡ stress, tải về chơi còn tr:ầm cả:m hơn",
+        "normalized": "Game như hạch, bị dụ chơi cho đỡ stress, tải về chơi còn trầm cảm hơn"
+    },
+    {
+        "": "40",
+        "original": "Quan trọng là ng ta nét nào ra nét đấy, mặt xinh, bắp tay nhỏ",
+        "normalized": "Quan trọng là người ta nét nào ra nét đấy, mặt xinh, bắp tay nhỏ"
+    },
+    {
+        "": "41",
+        "original": "trong tù k ai lấy nồi của b để kho cá cả :)))",
+        "normalized": "trong tù không ai lấy nồi của bạn để kho cá cả :)))"
+    },
+    {
+        "": "42",
+        "original": "ủa là chị nói thiệt hả e tưởng dỡn",
+        "normalized": "ủa là chị nói thiệt hả em tưởng giỡn"
+    },
+    {
+        "": "43",
+        "original": "Ai k xem trận này phí lắm",
+        "normalized": "Ai không xem trận này phí lắm"
+    },
+    {
+        "": "44",
+        "original": "nếu k qtam thì thả tym giúp t nhé",
+        "normalized": "nếu không quan tâm thì thả tim giúp tôi nhé"
+    },
+    {
+        "": "45",
+        "original": "Nhờ video này t mới biết nguyên liệu làm mì căn ăn dc mấy chục năm r",
+        "normalized": "Nhờ video này tôi mới biết nguyên liệu làm mì căn ăn được mấy chục năm rồi"
+    },
+    {
+        "": "46",
+        "original": "Đến ảnh này thì k thể nhịn cười đc r",
+        "normalized": "Đến ảnh này thì không thể nhịn cười được rồi"
+    },
+    {
+        "": "47",
+        "original": "Nhìn giống Lee Bo Jin ghê ák",
+        "normalized": "Nhìn giống Lee Bo Jin ghê á"
+    },
+    {
+        "": "48",
+        "original": "m nhìn em nhà ngta đi",
+        "normalized": "mày nhìn em nhà người ta đi"
+    },
+    {
+        "": "49",
+        "original": "Phim rất bình thường, chỉ có những người trẻ tuổi xấu xí cho rằng lớp trung niên là ko thể yêu đương lãng mạn hường phấn là ko bình thường thôi.",
+        "normalized": "Phim rất bình thường, chỉ có những người trẻ tuổi xấu xí cho rằng lớp trung niên là không thể yêu đương lãng mạn hường phấn là không bình thường thôi."
+    },
+    {
+        "": "50",
+        "original": "Ở nhà ăn mà bới bới bố mẹ t cho nhịn đói luôn chứ ở đó mà tự nhiên",
+        "normalized": "Ở nhà ăn mà bới bới bố mẹ tôi cho nhịn đói luôn chứ ở đó mà tự nhiên"
+    },
+    {
+        "": "51",
+        "original": "dề trang điểm cho tui bà ưi",
+        "normalized": "về trang điểm cho tui bà ơi"
+    },
+    {
+        "": "52",
+        "original": "nhớ quài cái cảnh khóc trong khách sạn á trời :))",
+        "normalized": "nhớ hoài cái cảnh khóc trong khách sạn á trời :))"
+    },
+    {
+        "": "53",
+        "original": "nhìu khi teo tưởng con mèo nó biết nói thật ạ",
+        "normalized": "nhiều khi tao tưởng con mèo nó biết nói thật ạ"
+    },
+    {
+        "": "54",
+        "original": "Coi ở đâu có sub vậy mn",
+        "normalized": "Coi ở đâu có sub vậy mọi người"
+    },
+    {
+        "": "55",
+        "original": "cỡ nào dữ dị =)))",
+        "normalized": "cỡ nào dữ vậy =)))"
+    },
+    {
+        "": "56",
+        "original": "Kon pé koi mà píc trừnk",
+        "normalized": "Con bé coi mà biết chừng"
+    },
+    {
+        "": "57",
+        "original": "mẹ ăn ké bánh chớ mẹ hong có uống sữa đâu nghen",
+        "normalized": "mẹ ăn ké bánh chứ mẹ không có uống sữa đâu nghen"
+    },
+    {
+        "": "58",
+        "original": "Vãi chưởng chứ thấy dv nữ nào đẹp đẹp là ck có pồ ta",
+        "normalized": "Vãi chưởng chứ thấy diễn viên nữ nào đẹp đẹp là chồng có bồ ta"
+    },
+    {
+        "": "59",
+        "original": "chuyên gia xạc xong k rút đt",
+        "normalized": "chuyên gia sạc xong không rút điện thoại"
+    },
+    {
+        "": "60",
+        "original": "Cháu nhà tôi hôm nay đi học sớm nắm bác ạ .",
+        "normalized": "Cháu nhà tôi hôm nay đi học sớm lắm bác ạ ."
+    },
+    {
+        "": "61",
+        "original": "chi pu hú 1 cái cười banh l",
+        "normalized": "chi pu hú 1 cái cười banh lồn"
+    },
+    {
+        "": "62",
+        "original": "đi mát xa khum cậu",
+        "normalized": "đi mát xa không cậu"
+    },
+    {
+        "": "63",
+        "original": "Anh ấy 10d, không có nhưng :))",
+        "normalized": "Anh ấy 10d, nhưng không có :))"
+    },
+    {
+        "": "64",
+        "original": "Xin lõi nhma song tử vô tâm thứ 2 khom ai thứ nhất",
+        "normalized": "Xin lỗi nhưng mà song tử vô tâm thứ 2 không ai thứ nhất"
+    },
+    {
+        "": "65",
+        "original": "rồi thế là xong, dắt tầu lá chuối trả về nơi sản xuất luôn chứ còn gì nữa, con dâu gì lá,o nháo quá vậy",
+        "normalized": "rồi thế là xong, dắt tàu lá chuối trả về nơi sản xuất luôn chứ còn gì nữa, con dâu gì láo nháo quá vậy"
+    },
+    {
+        "": "66",
+        "original": "ck tôi bế con bé,thay vì rơi nước mắt xúc động này kia như phim thì ổng bảo: ui sao nó xấu thế này em ơi?",
+        "normalized": "chồng tôi bế con bé,thay vì rơi nước mắt xúc động này kia như phim thì ổng bảo: ui sao nó xấu thế này em ơi?"
+    },
+    {
+        "": "67",
+        "original": "hôm nay có mấy đứa nó chơi ném bóng nc thế là lớp tôi bị phạt 200 với bị bắt trực sân hôm khai giảng",
+        "normalized": "hôm nay có mấy đứa nó chơi ném bóng nước thế là lớp tôi bị phạt 200 với bị bắt trực sân hôm khai giảng"
+    },
+    {
+        "": "68",
+        "original": "Ở Việt Nam làm lương 5 chẹo mà có dịch vụ này xác định ăn mì cả tháng -.-",
+        "normalized": "Ở Việt Nam làm lương 5 triệu mà có dịch vụ này xác định ăn mì cả tháng -.-"
+    },
+    {
+        "": "69",
+        "original": "Xả quen r nhìn nước bồn cầu trắng khum quen nha",
+        "normalized": "Xả quen rồi nhìn nước bồn cầu trắng không quen nha"
+    },
+    {
+        "": "70",
+        "original": "chill ik ai rồi cũng chết",
+        "normalized": "chill đi ai rồi cũng chết"
+    },
+    {
+        "": "71",
+        "original": "khổ chịu khó tý r cho ăn",
+        "normalized": "khổ chịu khó tý rồi cho ăn"
+    },
+    {
+        "": "72",
+        "original": "Gì chứ đấm nhau thì a chưa ngán ai bao giờ",
+        "normalized": "Gì chứ đấm nhau thì anh chưa ngán ai bao giờ"
+    },
+    {
+        "": "73",
+        "original": "khâu có 5 mũi thôi mà chỉ khâu xuyên qua như thế nào cảm giác dc hết, rạch mổ gì cũng biết mỗi cái ko thấy đau =))))))))))",
+        "normalized": "khâu có 5 mũi thôi mà chỉ khâu xuyên qua như thế nào cảm giác được hết, rạch mổ gì cũng biết mỗi cái không thấy đau =))))))))))"
+    },
+    {
+        "": "74",
+        "original": "tưởng mấy a tây iu thương dữ lắm",
+        "normalized": "tưởng mấy anh tây yêu thương dữ lắm"
+    },
+    {
+        "": "75",
+        "original": "Mẹ t bảo : Bun ăn nhanh lên k mẹ m ăn hết giờ",
+        "normalized": "Mẹ tao bảo : Bun ăn nhanh lên không mẹ mày ăn hết giờ"
+    },
+    {
+        "": "76",
+        "original": "Chị trả lời chí mạng z chị gái ơi",
+        "normalized": "Chị trả lời chí mạng vậy chị gái ơi"
+    },
+    {
+        "": "77",
+        "original": "biết phải lm gì chưa",
+        "normalized": "biết phải làm gì chưa"
+    },
+    {
+        "": "78",
+        "original": "Mn cho mình hỏi trước giờ Việt Nam mình thấy tiếp xúc cũng nhiều nhưng có nghệ sĩ nào có danh phận với luxury brand trước ST chưa ạ?",
+        "normalized": "Mọi người cho mình hỏi trước giờ Việt Nam mình thấy tiếp xúc cũng nhiều nhưng có nghệ sĩ nào có danh phận với luxury brand trước ST chưa ạ?"
+    },
+    {
+        "": "79",
+        "original": "tôi không khóc tôi viết đơn hẻ",
+        "normalized": "tôi không khóc tôi viết đơn hả"
+    },
+    {
+        "": "80",
+        "original": "Cbi tinh thần chưa pà ui",
+        "normalized": "Chuẩn bị tinh thần chưa bà ơi"
+    },
+    {
+        "": "81",
+        "original": "xin lỗi cả nhà vì con đã từng có snghi ích kỷ nvay nhé",
+        "normalized": "xin lỗi cả nhà vì con đã từng có suy nghĩ ích kỷ nvay nhé"
+    },
+    {
+        "": "82",
+        "original": "hàng hiệu đó lấy ko o may cho cái đi học",
+        "normalized": "hàng hiệu đó lấy không ông mày cho cái đi học"
+    },
+    {
+        "": "83",
+        "original": "trấn an mình z đi",
+        "normalized": "trấn an mình vậy đi"
+    },
+    {
+        "": "84",
+        "original": "thường thì khả năng tái tạo chỉ tồn tại trên các đv có tuổi thọ thấp",
+        "normalized": "thường thì khả năng tái tạo chỉ tồn tại trên các động vật có tuổi thọ thấp"
+    },
+    {
+        "": "85",
+        "original": "Ủa zụ này hôm bữa thấy lên tin tức nói nữ sinh tự tạo nick ảo rồi tự tung tin mà sao giờ tin ảo thành thật rồi",
+        "normalized": "Ủa vụ này hôm bữa thấy lên tin tức nói nữ sinh tự tạo nick ảo rồi tự tung tin mà sao giờ tin ảo thành thật rồi"
+    },
+    {
+        "": "86",
+        "original": "ba t thấy cái giỏ của t mà tưởng đâu cái thùng rác k",
+        "normalized": "ba tôi thấy cái giỏ của tôi mà tưởng đâu cái thùng rác không"
+    },
+    {
+        "": "87",
+        "original": "Svien năm 2 nhg ko dám kể vì bm cấm đi làm",
+        "normalized": "Sinh viên năm 2 nhưng không dám kể vì ba mẹ cấm đi làm"
+    },
+    {
+        "": "88",
+        "original": "Chắc mai phãi làm z wa",
+        "normalized": "Chắc mai phải làm vậy quá"
+    },
+    {
+        "": "89",
+        "original": "E bị mắng là vô duyên là vì e có hành động bới đồ ăn chứ k phải là do e k ăn đc thịt mỡ đâu e.",
+        "normalized": "em bị mắng là vô duyên là vì em có hàng động bới đồ ăn chứ không phải là do em không ăn được thịt mỡ đâu em."
+    },
+    {
+        "": "90",
+        "original": "K những thế còn xin ăn ké bim bim với con nữa cơ , hết ck cho tiền bảo con gái mua cho cả mẹ ăn nữa",
+        "normalized": "Không những thế còn xin ăn ké bim bim với con nữa cơ , hết chồng cho tiền bảo con gái mua cho cả mẹ ăn nữa"
+    },
+    {
+        "": "91",
+        "original": "bữa đi đầm sen vs trường thấy nguyên miếng bvs trôi theo dòng nc=))))",
+        "normalized": "bữa đi đầm sen với trường thấy nguyên miếng băng vệ sinh trôi theo dòng nước=))))"
+    },
+    {
+        "": "92",
+        "original": "dùng ko c làm cho cái gởi sang bển",
+        "normalized": "dùng không cậu làm cho cái gửi sang bển"
+    },
+    {
+        "": "93",
+        "original": "Nhìn cũng đáng eo ghê",
+        "normalized": "Nhìn cũng đáng yêu ghê"
+    },
+    {
+        "": "94",
+        "original": "Dù cho lòi truỹ hhhhhkkkk",
+        "normalized": "Dù cho lòi trĩ hhhhhkkkk"
+    },
+    {
+        "": "95",
+        "original": "lỡ cắt tóc mẹ rầu giờ quay hong được",
+        "normalized": "lỡ cắt tóc mẹ rồi giờ quay hông được"
+    },
+    {
+        "": "96",
+        "original": "Cảm ơn cuộc đời zì zờ nài tôi zẫn độc thân :)))",
+        "normalized": "Cảm ơn cuộc đời vì giờ này tôi vẫn độc thân :)))"
+    },
+    {
+        "": "97",
+        "original": "k hiểu kiểu gì luôn",
+        "normalized": "không hiểu kiểu gì luôn"
+    },
+    {
+        "": "98",
+        "original": "doi xiu zo mood da :))",
+        "normalized": "đợi xíu vô mood đã :))"
+    },
+    {
+        "": "99",
+        "original": "sống để bụng chếc thì thui",
+        "normalized": "sống để bụng chết thì thôi"
+    },
+    {
+        "": "100",
+        "original": "casting đi pà lỡ đâu dc đóng vai quằng tử:))",
+        "normalized": "casting đi bà lỡ đâu được đóng vai hoàng tử:))"
+    },
+    {
+        "": "101",
+        "original": "đi casting cbi làm phù thuỷ",
+        "normalized": "đi casting chuẩn bị làm phù thuỷ"
+    },
+    {
+        "": "102",
+        "original": "Chúc cả nhà bủi tối dui dẻ",
+        "normalized": "Chúc cả nhà buổi tối vui vẻ"
+    },
+    {
+        "": "103",
+        "original": "Xem The Boys, Invincible, EEAAO đi ah",
+        "normalized": "Xem The Boys, Invincible, EEAAO đi ạ"
+    },
+    {
+        "": "104",
+        "original": "Bh bay thì gọi t dậy",
+        "normalized": "Bao giờ bay thì gọi tôi dậy"
+    },
+    {
+        "": "105",
+        "original": "bất ngờ chưa bà dà=)))))",
+        "normalized": "bất ngờ chưa bà già=)))))"
+    },
+    {
+        "": "106",
+        "original": "Đúng là chả biết gì, bầy  đặt lớn tiếng, con ko ăn thì mẹ nó ăn chứ chả nhẽ cho bố nó ăn",
+        "normalized": "Đúng là chả biết gì, bày đặt lớn tiếng, con không ăn thì mẹ nó ăn chứ chả nhẽ cho bố nó ăn"
+    },
+    {
+        "": "107",
+        "original": "cứ thử rơi vào e xem, e diễn cho tụi nó ko bao giờ dám manh động luôn ấy chứ",
+        "normalized": "cứ thử rơi vào em xem, em diễn cho tụi nó không bao giờ dám manh động luôn ấy chứ"
+    },
+    {
+        "": "108",
+        "original": "Chắc ổn hok : ổn't",
+        "normalized": "Chắc ổn không : ổn't"
+    },
+    {
+        "": "109",
+        "original": "ở Vn mà có zai đẹp ntn thì e cx đi mát xa quá",
+        "normalized": "ở Vn mà có trai đẹp ntn thì em cũng đi mát xa quá"
+    },
+    {
+        "": "110",
+        "original": "Up ảnh thẻ cũng đc, càng nhiều góc chụp càng tốt",
+        "normalized": "Up ảnh thẻ cũng được, càng nhiều góc chụp càng tốt"
+    },
+    {
+        "": "111",
+        "original": "Kể cho mng nghe, đợt đó em đi coi bói thì anh đó bảo em là người yêu lúc đó sẽ cắm sừng em, không bền đâu.",
+        "normalized": "Kể cho mọi người nghe, đợt đó em đi coi bói thì anh đó bảo em là người yêu lúc đó sẽ cắm sừng em, không bền đâu."
+    },
+    {
+        "": "112",
+        "original": "Cấp 1 chưa dậy thì, răng lại sún nhiều nên chúng nó k thèm chua",
+        "normalized": "Cấp 1 chưa dậy thì, răng lại sún nhiều nên chúng nó không thèm chua"
+    },
+    {
+        "": "113",
+        "original": "Vì vốn dĩ người che ô cũng là người mang mưa đến phải khum",
+        "normalized": "Vì vốn dĩ người che ô cũng là người mang mưa đến phải không"
+    },
+    {
+        "": "114",
+        "original": "mốt mở quán ts dán bảng vậy :))))",
+        "normalized": "mốt mở quán trà sữa dán bảng vậy :))))"
+    },
+    {
+        "": "115",
+        "original": "Kiếm đc nhưng nợ cũng một đống",
+        "normalized": "Kiếm được nhưng nợ cũng một đống"
+    },
+    {
+        "": "116",
+        "original": "gòi tao syn lõi may được chưa",
+        "normalized": "rồi tao xin lỗi mày được chưa"
+    },
+    {
+        "": "117",
+        "original": "nói như đúng rồi xong bảo kệ ko qtam",
+        "normalized": "nói như đúng rồi xong bảo kệ không quan tâm"
+    },
+    {
+        "": "118",
+        "original": "phòng mình chưa tuổi dì luôn =))))",
+        "normalized": "phòng mình chưa tuổi gì luôn =))))"
+    },
+    {
+        "": "119",
+        "original": "Đùi k quan trọng lắm",
+        "normalized": "Đùi không quan trọng lắm"
+    },
+    {
+        "": "120",
+        "original": "Kinda person chụp ảnh mèo sờ mèo lưu meme mèo rồi gửi ngừi eo anywhere anytime",
+        "normalized": "Kinda person chụp ảnh mèo sờ mèo lưu meme mèo rồi gửi người yêu anywhere anytime"
+    },
+    {
+        "": "121",
+        "original": "tự dưng bể bónk cái đùng :))",
+        "normalized": "tự dưng bể bóng cái đùng :))"
+    },
+    {
+        "": "122",
+        "original": "chuẩn bị đê tương lai u tối r đấy",
+        "normalized": "chuẩn bị đê tương lai u tối rồi đấy"
+    },
+    {
+        "": "123",
+        "original": "nhìu khi cừi cho m zui lòng zị đó :))",
+        "normalized": "nhiều khi cười cho mày vui lòng vậy đó :))"
+    },
+    {
+        "": "124",
+        "original": "m chơi gì ack dị",
+        "normalized": "mày chơi gì ác vậy"
+    },
+    {
+        "": "125",
+        "original": "chưa thấy cái chương trình nào hát zở như cái ct nài",
+        "normalized": "chưa thấy cái chương trình nào hát dở như cái chương trình này"
+    },
+    {
+        "": "126",
+        "original": "Thi đh t cũng ngủ quên 15p đầu môn toán",
+        "normalized": "Thi đại học tôi cũng ngủ quên 15p đầu môn toán"
+    },
+    {
+        "": "127",
+        "original": "uầy, mong dũ trụ gửi cho mình 1 anh giống dị",
+        "normalized": "uầy, mong vũ trụ gửi cho mình 1 anh giống vậy"
+    },
+    {
+        "": "128",
+        "original": "Cho hưa ly trờ téc",
+        "normalized": "Cho hai ly trà tắc"
+    },
+    {
+        "": "129",
+        "original": "Quê lương 7-8 triệu nó đẻ 7-8 lứa r kìa, t thì còn chưa biết yêu đương là gì",
+        "normalized": "Quê lương 7-8 triệu nó đẻ 7-8 lứa rồi kìa, tôi thì còn chưa biết yêu đương là gì"
+    },
+    {
+        "": "130",
+        "original": "Bạn CA này thật tuyệt vời",
+        "normalized": "Bạn công an này thật tuyệt vời"
+    },
+    {
+        "": "131",
+        "original": "Tại chưa cao thôi chứ cao với đến là cụng bứt rồi đó   hầy.",
+        "normalized": "Tại chưa cao thôi chứ cao với đến là cũng bứt rồi đó hầy."
+    },
+    {
+        "": "132",
+        "original": "lấy ck kiếm 10tr/tháng thì phải cưới 30 chồng à",
+        "normalized": "lấy chồng kiếm 10tr/tháng thì phải cưới 30 chồng à"
+    },
+    {
+        "": "133",
+        "original": "Mình khum ăn thịt mỡ thì mộng chè ngồi tách mỡ trong miếng thịt ra cho mình ăn phần nạt ",
+        "normalized": "Mình không ăn thịt mỡ thì mộng chè ngồi tách mỡ trong miếng thịt ra cho mình ăn phần nạt"
+    },
+    {
+        "": "134",
+        "original": "mốt hỏng có hỏi z nữa nghe",
+        "normalized": "mốt không có hỏi vậy nữa nghe"
+    },
+    {
+        "": "135",
+        "original": "mă hóng quá, khi nào có mọi người bảo em với nha",
+        "normalized": "má hóng quá, khi nào có mọi người bảo em với nha"
+    },
+    {
+        "": "136",
+        "original": "Chẳng phải lúc đầu 2 bác nói cứ tự nhiên như ở nhà rồi ngta bới có tí đồ ăn tìm thịt nạc thôi mà làm gì căng ẻ",
+        "normalized": "Chẳng phải lúc đầu 2 bác nói cứ tự nhiên như ở nhà rồi người ta bới có tí đồ ăn tìm thịt nạc thôi mà làm gì căng ỉa"
+    },
+    {
+        "": "137",
+        "original": "Em này k nuôi nổi con hay sao mà lại k đủ quyền nuôi con?",
+        "normalized": "Em này không nuôi nổi con hay sao mà lại không đủ quyền nuôi con?"
+    },
+    {
+        "": "138",
+        "original": "Lại còn hay giấu mô hình của ngta",
+        "normalized": "Lại còn hay giấu mô hình của người ta"
+    },
+    {
+        "": "139",
+        "original": "thật pùn zì tụi mềnh đag iu xa ạk",
+        "normalized": "thật buồn vì tụi mình đang yêu xa ạ"
+    },
+    {
+        "": "140",
+        "original": "Hông có thích sân si soi mói ai hết á",
+        "normalized": "không có thích sân si soi mói ai hết á"
+    },
+    {
+        "": "141",
+        "original": "vừa dô tri vừa đ chịu đeo kính:))",
+        "normalized": "vừa vô tri vừa đéo chịu đeo kính:))"
+    },
+    {
+        "": "142",
+        "original": "m khỏi  trân trọng gọi tên những con người chuyên cap màn hình",
+        "normalized": "mình khỏi trân trọng gọi tên những con người chuyên cap màn hình"
+    },
+    {
+        "": "143",
+        "original": "Cái này dt rủ nhậu mà vợ ko cho đi nề haha nhờ vậy mới đi dc",
+        "normalized": "Cái này điện thoại rủ nhậu mà vợ không cho đi nè haha nhờ vậy mới đi được"
+    },
+    {
+        "": "144",
+        "original": "Vn  nói \" hết giai Tao Đợi mày ơ Sân Bay\"",
+        "normalized": "Vn  nói \" hết giải Tao Đợi mày ở Sân Bay\""
+    },
+    {
+        "": "145",
+        "original": "chữa lành cho b lắm đúng k",
+        "normalized": "chữa lành cho bạn lắm đúng không"
+    },
+    {
+        "": "146",
+        "original": "khók trong nòng k lói ra mới xót xa",
+        "normalized": "khóc trong lòng không nói ra mới xót xa"
+    },
+    {
+        "": "147",
+        "original": "Ko ăn đc thì thôi bỏ đi đừng ăn thịt nữa",
+        "normalized": "Không ăn được thì thôi bỏ đi đừng ăn thịt nữa"
+    },
+    {
+        "": "148",
+        "original": "Bao giờ cho xã mê linh làm đc như thế nhỉ",
+        "normalized": "Bao giờ cho xã mê linh làm được như thế nhỉ"
+    },
+    {
+        "": "149",
+        "original": "Đây có được coi là tính cách \"Hải Phòng là ko lòng vòng\" ko mọi người? :-))",
+        "normalized": "Đây có được coi là tính cách \"Hải Phòng là không lòng vòng\" không mọi người? :-))"
+    },
+    {
+        "": "150",
+        "original": "không nhiều, nma tui cũng duy trì thói quen này được hơn 1 năm rùi á, bữa nhảy việc, stress quá quên mất khum thanh toán wifi, mẹ gọi lên hỏi mới biết mình nộp mỗi điện kk",
+        "normalized": "không nhiều, nhưng mà tui cũng duy trì thói quen này được hơn 1 năm rồi á, bữa nhảy việc, stress quá quên mất không thanh toán wifi, mẹ gọi lên hỏi mới biết mình nộp mỗi điện kk"
+    },
+    {
+        "": "151",
+        "original": "Đây là con dâu cho bố mẹ chồng ra ở riêng chứ đâu phải vợ chồng con dâu ra oét riêng",
+        "normalized": "Đây là con dâu cho bố mẹ chồng ra ở riêng chứ đâu phải vợ chồng con dâu ra ở riêng"
+    },
+    {
+        "": "152",
+        "original": "tắt đt bà oi đt sập nguồn đoá",
+        "normalized": "tắt điện thoại bà ơi điện thoại sập nguồn đó"
+    },
+    {
+        "": "153",
+        "original": "mua dề xoq mới nghĩ ra muốn ăn j",
+        "normalized": "mua về xong mới nghĩ ra muốn ăn gì"
+    },
+    {
+        "": "154",
+        "original": "Kể ra thì ngta dùng túi này đi siêu thị đựng đồ thay cho túi nilong hay mà nhỉ, mà túi này thì bền, sử dụng được lâu dài",
+        "normalized": "Kể ra thì người ta dùng túi này đi siêu thị đựng đồ thay cho túi nilong hay mà nhỉ, mà túi này thì bền, sử dụng được lâu dài"
+    },
+    {
+        "": "155",
+        "original": "Mình gửi lại tiền thì anh kh nhận",
+        "normalized": "Mình gửi lại tiền thì anh không nhận"
+    },
+    {
+        "": "156",
+        "original": "Bạn Yu Minh đâu rồi, đang nt vui mà",
+        "normalized": "Bạn Yu Minh đâu rồi, đang nhắn tin vui mà"
+    },
+    {
+        "": "157",
+        "original": "Trong F04 sút từ giữa sân vào thì mấy thg mất não bảo rùa:))",
+        "normalized": "Trong F04 sút từ giữa sân vào thì mấy thằng mất não bảo rùa:))"
+    },
+    {
+        "": "158",
+        "original": "Bt thế phải mua gấp đôi lên ko con nó đói lại còn hỏi nhiều",
+        "normalized": "Biết thế phải mua gấp đôi lên không con nó đói lại còn hỏi nhiều"
+    },
+    {
+        "": "159",
+        "original": "đọc này ik mắc cừi lắm",
+        "normalized": "đọc này đi mắc cười lắm"
+    },
+    {
+        "": "160",
+        "original": "đùa k vui, a đã căng",
+        "normalized": "đùa không vui, anh đã căng"
+    },
+    {
+        "": "161",
+        "original": "À dị để tập làm mấy thằng khốn nạn",
+        "normalized": "À vậy để tập làm mấy thằng khốn nạn"
+    },
+    {
+        "": "162",
+        "original": "Iu quá bác ôi, tui có tận 3 con cá heo bông lunnn =)))",
+        "normalized": "yêu quá bác ôi, tui có tận 3 con cá heo bông luôn =)))"
+    },
+    {
+        "": "163",
+        "original": "Bị thao túng ròii 🫨",
+        "normalized": "Bị thao túng rồi 🫨"
+    },
+    {
+        "": "164",
+        "original": "Nghĩ mình mà đi hông chỉ mẹ mà gia đình bạn bè mình chắc hông trụ nổi, và mình còn nhìu thứ tươi đẹp chưa được trải nghiệm mà phải cùng những người mình yêu quý trải nghiệm chứ đúng hông",
+        "normalized": "Nghĩ mình mà đi không chỉ mẹ mà gia đình bạn bè mình chắc không trụ nổi, và mình còn nhiều thứ tươi đẹp chưa được trải nghiệm mà phải cùng những người mình yêu quý trải nghiệm chứ đúng không"
+    },
+    {
+        "": "165",
+        "original": "Tới tuổi làm cha rồi mà còn nguu như chó nữa :)))) dắt tay thằng nhỏ cái bị tam tai ha gì mà hông dám dắt",
+        "normalized": "Tới tuổi làm cha rồi mà còn ngu như chó nữa :)))) dắt tay thằng nhỏ cái bị tam tai hay gì mà không dám dắt"
+    },
+    {
+        "": "166",
+        "original": "Nhìn là biết sau này đem lại hạnh ph cho vợ rồi nhm là hạnh phúc sau khi ly dị",
+        "normalized": "Nhìn là biết sau này đem lại hạnh phúc cho vợ rồi nhưng mà là hạnh phúc sau khi ly dị"
+    },
+    {
+        "": "167",
+        "original": "xem t dắt m đi chơi nè  ",
+        "normalized": "xem tao dắt mày đi chơi nè"
+    },
+    {
+        "": "168",
+        "original": "mình nghĩ là tuỳ quan điểm thui có ng thấy cuti có người thấy bị kiểm soát =)))",
+        "normalized": "mình nghĩ là tuỳ quan điểm thôi có người thấy cuti có người thấy bị kiểm soát =)))"
+    },
+    {
+        "": "169",
+        "original": "Bình yên trc cơn bão à",
+        "normalized": "Bình yên trước cơn bão à"
+    },
+    {
+        "": "170",
+        "original": "\"Ko ấy thay t bằng con vịt được ko\" Gà said",
+        "normalized": "\"Không ấy thay tôi bằng con vịt được không\" Gà said"
+    },
+    {
+        "": "171",
+        "original": "may quá chưa đi bv :))))",
+        "normalized": "may quá chưa đi bệnh viện :))))"
+    },
+    {
+        "": "172",
+        "original": "trung niên k dc sến sẩm à ",
+        "normalized": "trung niên không được sến sẩm à"
+    },
+    {
+        "": "173",
+        "original": "Có anh e còn ăn nữa là đồ ăn của con :))",
+        "normalized": "Có anh em còn ăn nữa là đồ ăn của con :))"
+    },
+    {
+        "": "174",
+        "original": "Chơi chung zdí thằng bạn gần chục năm , lỡ iu đương zdí nó được 1 tháng nghĩ chơi m* luôn",
+        "normalized": "Chơi chung với thằng bạn gần chục năm , lỡ yêu đương với nó được 1 tháng nghỉ chơi mẹ luôn"
+    },
+    {
+        "": "175",
+        "original": "Đây là cả cđm cùng ns cơ.",
+        "normalized": "Đây là cả cộng đồng mạng cùng nói cơ."
+    },
+    {
+        "": "176",
+        "original": "Trường tôy cũng tăng nghỉ học lấy chồng thoai",
+        "normalized": "Trường tôi cũng tăng nghỉ học lấy chồng thôi"
+    },
+    {
+        "": "177",
+        "original": "này là thái tuế rồi chứ tam tai j nữa",
+        "normalized": "này là thái tuế rồi chứ tam tai gì nữa"
+    },
+    {
+        "": "178",
+        "original": "Mình nghĩ châp nhận vay thì châp nhân trả, chứ muốn vay xong , ko trả thì có thần thánh cũng phải nổi nóng, khi vay hay mua đồ trả góp thì nhân viên cũng tư vấn rõ ràng lãi suất, và mỗi tháng đóng bao nhiêu và đóng bao nhiêu tháng, và có giải thích rõ ràng là đóng trể hạn sẽ bị phạt , và nói rõ ràng khi chuyển qua nợ xâu là bên ngân hàng sẽ chuyển qua nợ quá bên thứ 3 để làm việc, trước kia mình cũng vay và nhân viên làm hồ sơ ký hợp đồng nói rõ ràng mình đồng ý thì mình ký hợp đồng và nhận tiền, chứ đâu ai kề dao vô cổ bắt mình ký mình vay đâu",
+        "normalized": "Mình nghĩ chấp nhận vay thì chấp nhận trả, chứ muốn vay xong , không trả thì có thần thánh cũng phải nổi nóng, khi vay hay mua đồ trả góp thì nhân viên cũng tư vấn rõ ràng lãi suất, và mỗi tháng đóng bao nhiêu và đóng bao nhiêu tháng, và có giải thích rõ ràng là đóng trễ hạn sẽ bị phạt , và nói rõ ràng khi chuyển qua nợ xấu là bên ngân hàng sẽ chuyển qua nợ quá bên thứ 3 để làm việc, trước kia mình cũng vay và nhân viên làm hồ sơ ký hợp đồng nói rõ ràng mình đồng ý thì mình ký hợp đồng và nhận tiền, chứ đâu ai kề dao vô cổ bắt mình ký mình vay đâu"
+    },
+    {
+        "": "179",
+        "original": "Tôi phải bảo vệ nhan sắc ck tôi thôi",
+        "normalized": "Tôi phải bảo vệ nhan sắc chồng tôi thôi"
+    },
+    {
+        "": "180",
+        "original": "Sếp tôi cũng lật mặt nhanh lắm, xong cái cho cả lũ kia nghỉ vì nói xấu cty :))",
+        "normalized": "Sếp tôi cũng lật mặt nhanh lắm, xong cái cho cả lũ kia nghỉ vì nói xấu công ty :))"
+    },
+    {
+        "": "181",
+        "original": "Hông liên quan lắm nhưng bọt rửa bát bị dính lên áo anh zai kìa",
+        "normalized": "Không liên quan lắm nhưng bọt rửa bát bị dính lên áo anh trai kìa"
+    },
+    {
+        "": "182",
+        "original": "uầy, sv giờ chất vãiiu",
+        "normalized": "uầy, sinh viên giờ chất vãi"
+    },
+    {
+        "": "183",
+        "original": "nhân văn quá nên là iu đương cho đỡ lão hóa khom bạn ơi cái gì vui thì mình ưu tiên xem nào",
+        "normalized": "nhân văn quá nên là yêu đương cho đỡ lão hóa không bạn ơi cái gì vui thì mình ưu tiên xem nào"
+    },
+    {
+        "": "184",
+        "original": "mình chỉ iu mỗi mụt anh thui",
+        "normalized": "mình chỉ yêu mỗi một anh thôi"
+    },
+    {
+        "": "185",
+        "original": "chắc là chiếc tifu đáng iu nhất trong lịch sử  phải chuẩn bị tinh thần cho ngày mai rồi lol",
+        "normalized": "chắc là chiếc tifu đáng yêu nhất trong lịch sử  phải chuẩn bị tinh thần cho ngày mai rồi lol"
+    },
+    {
+        "": "186",
+        "original": "có khi nào bức starry night vẽ lúc có mây vầy k ta",
+        "normalized": "có khi nào bức starry night vẽ lúc có mây vậy không ta"
+    },
+    {
+        "": "187",
+        "original": "áp dụngggg liền tr oiii",
+        "normalized": "áp dụng liền trời ơi"
+    },
+    {
+        "": "188",
+        "original": "Ủa sao dị bà, bữa t ko kiếm đc cái hồ đó nên khum bít",
+        "normalized": "Ủa sao vậy bà, bữa tôi không kiếm được cái hồ đó nên không biết"
+    },
+    {
+        "": "189",
+        "original": "coi này mới thấy bên stage ctrinh nước ngoài đỉnh, sân khấu sáng, makeup các thứ với quay đẹp",
+        "normalized": "coi này mới thấy bên stage chương trình nước ngoài đỉnh, sân khấu sáng, makeup các thứ với quay đẹp"
+    },
+    {
+        "": "190",
+        "original": "Trùo này mà thiếu nha đầu ngốc là sai sót lớn đó :))))",
+        "normalized": "Trò này mà thiếu nha đầu ngốc là sai sót lớn đó :))))"
+    },
+    {
+        "": "191",
+        "original": "Má thì ra đó h xem sai cách =))))",
+        "normalized": "Má thì ra đó giờ xem sai cách =))))"
+    },
+    {
+        "": "192",
+        "original": "Có cơm ăn, nhà ở, dc đào tạo nghề, ko tốn tiền bạc mà dc thêm tiền án, quá hời",
+        "normalized": "Có cơm ăn, nhà ở, được đào tạo nghề, không tốn tiền bạc mà được thêm tiền án, quá hời"
+    },
+    {
+        "": "193",
+        "original": "sút quả fifa cũng ko sút dc như thế thì bắt kiểu j",
+        "normalized": "sút quả fifa cũng không sút được như thế thì bắt kiểu gì"
+    },
+    {
+        "": "194",
+        "original": "cô thu vé mắng tui nói tui muốn đi miễn phí nên mới đưa tờ tiền như z, tui mún khóc lun áaaa",
+        "normalized": "cô thu vé mắng tui nói tui muốn đi miễn phí nên mới đưa tờ tiền như vậy, tui muốn khóc luôn á"
+    },
+    {
+        "": "195",
+        "original": "hông chừng ng iu còn học cấp ba nha",
+        "normalized": "không chừng người yêu còn học cấp ba nha"
+    },
+    {
+        "": "196",
+        "original": "A có nối vòng tay lớn trong phi vụ này ko a try",
+        "normalized": "Anh có nối vòng tay lớn trong phi vụ này không a trai"
+    },
+    {
+        "": "197",
+        "original": "chị bảo anh Hoàng sắm cho con đi dẫn đi v nè",
+        "normalized": "chị bảo anh Hoàng sắm cho con đi dẫn đi vậy nè"
+    },
+    {
+        "": "198",
+        "original": "nhìn cái hình r si nghĩ có đi hay hong :)))",
+        "normalized": "nhìn cái hình rồi suy nghĩ có đi hay không :)))"
+    },
+    {
+        "": "199",
+        "original": "điều tôi muốn biết bh là tk cc kia nó có bị xích chưa",
+        "normalized": "điều tôi muốn biết bây giờ là thằng con cặc kia nó có bị xích chưa"
+    },
+    {
+        "": "200",
+        "original": "ấn độ chưa bao h lm t thất vọng",
+        "normalized": "ấn độ chưa bao giờ làm tôi thất vọng"
+    },
+    {
+        "": "201",
+        "original": "mình mới 22 tuổi này, đang nghiêm túc học hành để có việc làm ổn định trong năm nay, đặt mục tiêu rõ ràng cho gđ thấy, vậy mà họ hàng có người muốn giới thiệu là sẽ liên tục ép mình dành thời gian tìm hiểu các kiểu",
+        "normalized": "mình mới 22 tuổi này, đang nghiêm túc học hành để có việc làm ổn định trong năm nay, đặt mục tiêu rõ ràng cho gia đình thấy, vậy mà họ hàng có người muốn giới thiệu là sẽ liên tục ép mình dành thời gian tìm hiểu các kiểu"
+    },
+    {
+        "": "202",
+        "original": "nhớ năm lớp 2 t ko tả m t tả Đức Huy m giận ko:)))))",
+        "normalized": "nhớ năm lớp 2 tao không tả mày tao tả Đức Huy mày giận không:)))))"
+    },
+    {
+        "": "203",
+        "original": "Gd 2 bên nội ngoại có kinh tế để 2 vck sống ăn bám còn nhọc, huống chi gd 2 bên ko có kte",
+        "normalized": "Gia đình 2 bên nội ngoại có kinh tế để 2 vợ chồng sống ăn bám còn nhọc, huống chi gia đình 2 bên không có kinh tế"
+    },
+    {
+        "": "204",
+        "original": "Đ lo ôm con đi viện",
+        "normalized": "Đéo lo ôm con đi viện"
+    },
+    {
+        "": "205",
+        "original": "10 kai áo thì 8 kai màu đen",
+        "normalized": "10 cái áo thì 8 cái màu đen"
+    },
+    {
+        "": "206",
+        "original": "rank đồng thật nma đừng đùa",
+        "normalized": "rank đồng thật nhưng mà đừng đùa"
+    },
+    {
+        "": "207",
+        "original": "khoan từ từ vụ này à vụ gì vậy mn ơi?",
+        "normalized": "khoan từ từ vụ này là vụ gì vậy mọi người ơi?"
+    },
+    {
+        "": "208",
+        "original": "Lực lượng CA cần nhiều hơn những người như anh",
+        "normalized": "Lực lượng công an cần nhiều hơn những người như anh"
+    },
+    {
+        "": "209",
+        "original": "Rất xin lũi nhưng “đòi cưng vô lây” có nghĩa là gì vậy anh em?",
+        "normalized": "Rất xin lỗi nhưng “đòi cưng vô lây” có nghĩa là gì vậy anh em?"
+    },
+    {
+        "": "210",
+        "original": "Kể cả có là 1/4 thì tôi cũng ko dám tỏ tình",
+        "normalized": "Kể cả có là 1/4 thì tôi cũng không dám tỏ tình"
+    },
+    {
+        "": "211",
+        "original": "đọc đi rồi kể vk nghe",
+        "normalized": "đọc đi rồi kể vợ nghe"
+    },
+    {
+        "": "212",
+        "original": "bài nài nâu dồi nhưng buần cười lắm =)))))))))))",
+        "normalized": "bài này lâu rồi nhưng buồn cười lắm =)))))))))))"
+    },
+    {
+        "": "213",
+        "original": "mốt nhà chị cry có đủ các yếu tố xã hội để đảm bảo sự riêng tư cho gđ c",
+        "normalized": "mốt nhà chị cry có đủ các yếu tố xã hội để đảm bảo sự riêng tư cho gia đình chị"
+    },
+    {
+        "": "214",
+        "original": "Thể loại này bên Hàn đc ưa chuộng lắm ,bên Trung có vẻ k thích tình yêu lớn tuổi nhỉ",
+        "normalized": "Thể loại này bên Hàn được ưa chuộng lắm ,bên Trung có vẻ không thích tình yêu lớn tuổi nhỉ"
+    },
+    {
+        "": "215",
+        "original": "Hic, hôm bữa mặc chiếc áo màu xanh, thèng em út nói nhìn mẹ như nước bồn cầu",
+        "normalized": "Hic, hôm bữa mặc chiếc áo màu xanh, thằng em út nói nhìn mẹ như nước bồn cầu"
+    },
+    {
+        "": "216",
+        "original": "tối nào cg v mới có một giấc ngủ ngon",
+        "normalized": "tối nào cũng vậy mới có một giấc ngủ ngon"
+    },
+    {
+        "": "217",
+        "original": "Muốn nuôi toà chia mỗi ng nuôi 1 được mà",
+        "normalized": "Muốn nuôi toà chia mỗi người nuôi 1 được mà"
+    },
+    {
+        "": "218",
+        "original": "thôi em dzai ơi em có tất cả mọi thứ trên đời, khiếm khuyết của em chỉ là k có chị thôi haizzzz",
+        "normalized": "thôi em trai ơi em có tất cả mọi thứ trên đời, khiếm khuyết của em chỉ là không có chị thôi haizzzz"
+    },
+    {
+        "": "219",
+        "original": "điều tra rồi ko có thì thả người ta thôi , sao lại có 1 số đứa dù không thù không oán lại muốn người ta chết mới chiệu ác vl nhỡ",
+        "normalized": "điều tra rồi không có thì thả người ta thôi , sao lại có 1 số đứa dù không thù không oán lại muốn người ta chết mới chịu ác vl nhỉ"
+    },
+    {
+        "": "220",
+        "original": "Alex Mahone ko truy tìm Michael Scotfield nữa mà sang dũ trụ khác r",
+        "normalized": "Alex Mahone không truy tìm Michael Scotfield nữa mà sang vũ trụ khác rồi"
+    },
+    {
+        "": "221",
+        "original": "duma đọc mà cay, gia đình thương yêu kiểu chim lồng cá chậu, cả cuộc đời hóa ra cuối cùng ko khác gì con rối cho người ta nắm người ta múa",
+        "normalized": "duma đọc mà cay, gia đình thương yêu kiểu chim lồng cá chậu, cả cuộc đời hóa ra cuối cùng không khác gì con rối cho người ta nắm người ta múa"
+    },
+    {
+        "": "222",
+        "original": "thíc k mai c dắt e đi",
+        "normalized": "thích không mai chị dắt em đi"
+    },
+    {
+        "": "223",
+        "original": "yên tâm t cap hết r m chối đằng trời",
+        "normalized": "yên tâm tao cap hết rồi mày chối đằng trời"
+    },
+    {
+        "": "224",
+        "original": "chúng nó bảo em là ctrai",
+        "normalized": "chúng nó bảo em là con trai"
+    },
+    {
+        "": "225",
+        "original": "Thay mặt ông 6 xin lỗi pé",
+        "normalized": "Thay mặt ông 6 xin lỗi bé"
+    },
+    {
+        "": "226",
+        "original": "mở con mắt ga mà dòm",
+        "normalized": "mở con mắt ra mà dòm"
+    },
+    {
+        "": "227",
+        "original": "Cháu phải ngồi lại nói chuyện nghiêm túc với Ck , và có quy định về kinh tế rõ ràng",
+        "normalized": "Cháu phải ngồi lại nói chuyện nghiêm túc với chồng , và có quy định về kinh tế rõ ràng"
+    },
+    {
+        "": "228",
+        "original": "sao mọi người đi hiến máu chỗ nào có cá heo này zạ, cho mình xin ké zúii",
+        "normalized": "sao mọi người đi hiến máu chỗ nào có cá heo này dạ, cho mình xin ké với"
+    },
+    {
+        "": "229",
+        "original": "2 c cận ko nhìn thấy biển báo",
+        "normalized": "2 cậu cận không nhìn thấy biển báo"
+    },
+    {
+        "": "230",
+        "original": "Vn mình ai cũng mua được trăm tỏi chứng khoán mà nguồn gốc số tiền ở đâu thì ko rõ",
+        "normalized": "Vn mình ai cũng mua được trăm tỉ chứng khoán mà nguồn gốc số tiền ở đâu thì không rõ"
+    },
+    {
+        "": "231",
+        "original": "Phản động thì chôn thôi chứ nói j nx",
+        "normalized": "Phản động thì chôn thôi chứ nói gì nữa"
+    },
+    {
+        "": "232",
+        "original": "Lúc trc tui dùng xong nhìn màu nước lúc nào cũng xanh tui cảm thấy rất gớm nên bỏ dùng.",
+        "normalized": "Lúc trước tui dùng xong nhìn màu nước lúc nào cũng xanh tui cảm thấy rất gớm nên bỏ dùng."
+    },
+    {
+        "": "233",
+        "original": "Xin vía yêu đc 1 ng chở che cho mình ngay cả trong giấc ngủ nv ạ huhu",
+        "normalized": "Xin vía yêu được 1 người chở che cho mình ngay cả trong giấc ngủ như vầy ạ huhu"
+    },
+    {
+        "": "234",
+        "original": "Sống hèngg cho đời thêm dui",
+        "normalized": "Sống hèn cho đời thêm vui"
+    },
+    {
+        "": "235",
+        "original": "Ăn miếng nào gắp miếng nấy, đừng có bới lên bới xuống…ảnh hưởng tới khẩu vị vị giác ng ta",
+        "normalized": "Ăn miếng nào gắp miếng nấy, đừng có bới lên bới xuống…ảnh hưởng tới khẩu vị vị giác người ta"
+    },
+    {
+        "": "236",
+        "original": "Nhận kèo với đội bạn ko",
+        "normalized": "Nhận kèo với đội bạn không"
+    },
+    {
+        "": "237",
+        "original": "V từ nay ĐBP kh còn kẹt xe nữa :)))))",
+        "normalized": "Vậy từ nay ĐBP không còn kẹt xe nữa :)))))"
+    },
+    {
+        "": "238",
+        "original": "rùi đó t biết con chuột 1m ai đó kể r đó :)))",
+        "normalized": "rồi đó tôi biết con chuột 1m ai đó kể rồi đó :)))"
+    },
+    {
+        "": "239",
+        "original": "phải bạn học k kìa",
+        "normalized": "phải bạn học không kìa"
+    },
+    {
+        "": "240",
+        "original": "thích thật thì ăn nói vụng về, sẽ lúng túng kbiet nói gì là phải, sợ nói sai ngta nghĩ mình ko tốt, ngta sẽ bớt thích mình,…",
+        "normalized": "thích thật thì ăn nói vụng về, sẽ lúng túng kbiet nói gì là phải, sợ nói sai người ta nghĩ mình không tốt, người ta sẽ bớt thích mình,…"
+    },
+    {
+        "": "241",
+        "original": "Chơi với bạn chỉ cần chất lượng chứ k cần số lượng",
+        "normalized": "Chơi với bạn chỉ cần chất lượng chứ không cần số lượng"
+    },
+    {
+        "": "242",
+        "original": "Nên làm ơn khen ng mình thích nhưng bớt đi lấy người người khác thích để làm bàn đạp nâng idol mình lên nha",
+        "normalized": "Nên làm ơn khen người mình thích nhưng bớt đi lấy người người khác thích để làm bàn đạp nâng idol mình lên nha"
+    },
+    {
+        "": "243",
+        "original": "K ăn được thịt mỡ thì k ăn thịt ăn món khác đi",
+        "normalized": "Không ăn được thịt mỡ thì không ăn thịt ăn món khác đi"
+    },
+    {
+        "": "244",
+        "original": "năm đó bọn miềng lạc nhau chỗ ni nì, a chạy phía dưới, mấy chú chạy trên đèo tới lúc gặp nhau chụp được bức này",
+        "normalized": "năm đó bọn mình lạc nhau chỗ này này, anh chạy phía dưới, mấy chú chạy trên đèo tới lúc gặp nhau chụp được bức này"
+    },
+    {
+        "": "245",
+        "original": "kêu ik hc 1 tuần mà thầy cô k lên dạy",
+        "normalized": "kêu đi học 1 tuần mà thầy cô không lên dạy"
+    },
+    {
+        "": "246",
+        "original": "zk nuôi khéo quá đúng hk",
+        "normalized": "vợ nuôi khéo quá đúng không"
+    },
+    {
+        "": "247",
+        "original": "Hết kẹt xe ĐBP r dui ghê :))",
+        "normalized": "Hết kẹt xe ĐBP rồi vui ghê :))"
+    },
+    {
+        "": "248",
+        "original": "bớt làm lại nhen boà",
+        "normalized": "bớt làm lại nhe bà"
+    },
+    {
+        "": "249",
+        "original": "thế 4 tháng biết làm j rồi?",
+        "normalized": "thế 4 tháng biết làm gì rồi?"
+    },
+    {
+        "": "250",
+        "original": "5,25 là qua môn gòi",
+        "normalized": "5,25 là qua môn rồi"
+    },
+    {
+        "": "251",
+        "original": "Ê vậy mà t cũng tính zoom ra đọc..",
+        "normalized": "Ê vậy mà tôi cũng tính zoom ra đọc."
+    },
+    {
+        "": "252",
+        "original": "Đi hk gì mà đc trợ cấp 5tr vậy, tui đi có 2tr vẫn đủ sống, tốt nghiệp bằng giỏi",
+        "normalized": "Đi học gì mà được trợ cấp 5tr vậy, tui đi có 2tr vẫn đủ sống, tốt nghiệp bằng giỏi"
+    },
+    {
+        "": "253",
+        "original": "10 năm trc tôi vẫn còn học và chơi",
+        "normalized": "10 năm trước tôi vẫn còn học và chơi"
+    },
+    {
+        "": "254",
+        "original": "chỉ công thức video cuối đuy anh",
+        "normalized": "chỉ công thức video cuối đi anh"
+    },
+    {
+        "": "255",
+        "original": "đi mát xa mát gần k",
+        "normalized": "đi mát xa mát gần không"
+    },
+    {
+        "": "256",
+        "original": "kìa sau vào đi nhà nc bao ăn bao ở",
+        "normalized": "kìa sau vào đi nhà nước bao ăn bao ở"
+    },
+    {
+        "": "257",
+        "original": "\" Ủa sao nằm trong đây z con trời đất cơi nay được học sinh j z con \" :)))))))",
+        "normalized": "\" Ủa sao nằm trong đây vậy con trời đất ơi nay được học sinh gì vậy con \" :)))))))"
+    },
+    {
+        "": "258",
+        "original": "Kể cả là đi ăn vs bạn bè bới thức ăn lên cũng là vô duyên rồi chứ nói gì ra mắt gđ nhà ny",
+        "normalized": "Kể cả là đi ăn với bạn bè bới thức ăn lên cũng là vô duyên rồi chứ nói gì ra mắt gia đình nhà người yêu"
+    },
+    {
+        "": "259",
+        "original": "hong biếc nói con mẹ gì hết lun á",
+        "normalized": "không biết nói con mẹ gì hết luôn á"
+    },
+    {
+        "": "260",
+        "original": "cgi vui vẻ thì mình ưu tiên :))",
+        "normalized": "cái gì vui vẻ thì mình ưu tiên :))"
+    },
+    {
+        "": "261",
+        "original": "số đào hoa ghê pa",
+        "normalized": "số đào hoa ghê ba"
+    },
+    {
+        "": "262",
+        "original": "chỉ coá thể là nhân văn",
+        "normalized": "chỉ có thể là nhân văn"
+    },
+    {
+        "": "263",
+        "original": "Ai chê ngấy z là chưa xem tình cảm của Út Phượng với anh Tèo rồi",
+        "normalized": "Ai chê ngấy vậy là chưa xem tình cảm của Út Phượng với anh Tèo rồi"
+    },
+    {
+        "": "264",
+        "original": "Anh ơi em cũng làm mà em báo chồng em với mẹ em quá chời r",
+        "normalized": "Anh ơi em cũng làm mà em báo chồng em với mẹ em quá trời rồi"
+    },
+    {
+        "": "265",
+        "original": "bà thứ 2 nói đúng gke :))",
+        "normalized": "bà thứ 2 nói đúng ghê :))"
+    },
+    {
+        "": "266",
+        "original": "ăn hong iem, thi xong gòi c bao nè =)))",
+        "normalized": "ăn không em, thi xong rồi thì chị bao nè =)))"
+    },
+    {
+        "": "267",
+        "original": "cta ko nói xấu cta chỉ nói sự thiệc về họ thâu",
+        "normalized": "chúng ta không nói xấu chúng ta chỉ nói sự thiệt về họ thôi"
+    },
+    {
+        "": "268",
+        "original": "tui có chục cái quần loe kiểu này nhma k có người như trên hình",
+        "normalized": "tui có chục cái quần loe kiểu này nhưng mà không có người như trên hình"
+    },
+    {
+        "": "269",
+        "original": "vậy cô ấy k thả thính mình nghĩa là cũng thích mình rồi",
+        "normalized": "vậy cô ấy không thả thính mình nghĩa là cũng thích mình rồi"
+    },
+    {
+        "": "270",
+        "original": "2 miếng dưa trong tủ lạnh á ăn ik",
+        "normalized": "2 miếng dưa trong tủ lạnh á ăn đi"
+    },
+    {
+        "": "271",
+        "original": "là ca sĩ dzữ gòi đó",
+        "normalized": "là ca sĩ dữ rồi đó"
+    },
+    {
+        "": "272",
+        "original": "Sao ko ai shout out tôi vậy",
+        "normalized": "Sao không ai shout out tôi vậy"
+    },
+    {
+        "": "273",
+        "original": "Thề đúng gout tui, thích kiểu đẹp sắc sảo tri thức  lắm luôn, nhan sắc có thể phai nhạt theo thời gian nhưng khí chất k bao giờ biến mất",
+        "normalized": "Thề đúng gout tui, thích kiểu đẹp sắc sảo tri thức  lắm luôn, nhan sắc có thể phai nhạt theo thời gian nhưng khí chất không bao giờ biến mất"
+    },
+    {
+        "": "274",
+        "original": "mới iu ga dẻ lắm",
+        "normalized": "mới yêu ra vẻ lắm"
+    },
+    {
+        "": "275",
+        "original": "Cảm dác mạnh đồ ó",
+        "normalized": "Cảm giác mạnh đồ á"
+    },
+    {
+        "": "276",
+        "original": "lâu lâu em khùng z",
+        "normalized": "lâu lâu em khùng vậy"
+    },
+    {
+        "": "277",
+        "original": "với bỏ đồ ăn vào tủ bọc lại chứ k nó nhiễm khuẩn nữa",
+        "normalized": "với bỏ đồ ăn vào tủ bọc lại chứ không nó nhiễm khuẩn nữa"
+    },
+    {
+        "": "278",
+        "original": "Có hình a RUỘT KO",
+        "normalized": "Có hình anh RUỘT Không"
+    },
+    {
+        "": "279",
+        "original": "mình đẹp nhưng ko giàu",
+        "normalized": "mình đẹp nhưng không giàu"
+    },
+    {
+        "": "280",
+        "original": "Makeup lên xí đc rồi",
+        "normalized": "Makeup lên xíu được rồi"
+    },
+    {
+        "": "281",
+        "original": "pass quần cho bạn m i",
+        "normalized": "pass quần cho bạn m đi"
+    },
+    {
+        "": "282",
+        "original": "mình trước khi 20t chưa có ny thì cứ gặng hỏi có ny chưa, rồi suốt ngày nói mấy câu nghi ngờ mình k phải straight nhưng đến lúc có ny rồi thì khó chịu, tỏ vẻ k thích mình có ny",
+        "normalized": "mình trước khi 20t chưa có người yêu thì cứ gặng hỏi có người yêu chưa, rồi suốt ngày nói mấy câu nghi ngờ mình không phải straight nhưng đến lúc có người yêu rồi thì khó chịu, tỏ vẻ không thích mình có người yêu"
+    },
+    {
+        "": "283",
+        "original": "nếu thu nhập bạn nữ cao hơn con số đó thì tìm kiếm ng phù hợp vs m hơn thôi",
+        "normalized": "nếu thu nhập bạn nữ cao hơn con số đó thì tìm kiếm người phù hợp với mình hơn thôi"
+    },
+    {
+        "": "284",
+        "original": "ko sao, hốt lại ăn vẫn dc",
+        "normalized": "không sao, hốt lại ăn vẫn được"
+    },
+    {
+        "": "285",
+        "original": "30t mà trung niên gì chời?",
+        "normalized": "30t mà trung niên gì trời?"
+    },
+    {
+        "": "286",
+        "original": "Đó hông phải là cá.",
+        "normalized": "Đó không phải là cá."
+    },
+    {
+        "": "287",
+        "original": "Tao cũng từng có bạn thân, cũng từng vào sinh ra tử cùng cho đến 1 ngày khi t cần thì họ lại bảo vì tình nghĩa t mới giúp m thôi",
+        "normalized": "Tao cũng từng có bạn thân, cũng từng vào sinh ra tử cùng cho đến 1 ngày khi tao cần thì họ lại bảo vì tình nghĩa tao mới giúp mày thôi"
+    },
+    {
+        "": "288",
+        "original": "Cha mẹ thế này thì bảo sao con n ko có phúc",
+        "normalized": "Cha mẹ thế này thì bảo sao con nó không có phúc"
+    },
+    {
+        "": "289",
+        "original": "4 bạn thăn cụa t tụi m biếc hơm =))",
+        "normalized": "4 bạn thân của tao tụi mày biết không =))"
+    },
+    {
+        "": "290",
+        "original": "nên với tinh thần “work smart not hard” và “think out side the box” thì tôi chia cuốn sách thành hẳn 3 phần, hôm nào lười thì tôi đ thèm mang sách luôn",
+        "normalized": "nên với tinh thần “work smart not hard” và “think out side the box” thì tôi chia cuốn sách thành hẳn 3 phần, hôm nào lười thì tôi đéo thèm mang sách luôn"
+    },
+    {
+        "": "291",
+        "original": "ừ thì cũng phiền lắm nma th vẫn nghe",
+        "normalized": "ừ thì cũng phiền lắm nhưng mà thôi vẫn nghe"
+    },
+    {
+        "": "292",
+        "original": "Toi khong dùng tiktok, hesavedfunvideos rồi mở cho tôi xem",
+        "normalized": "Tôi không dùng tiktok, hesavedfunvideos rồi mở cho tôi xem"
+    },
+    {
+        "": "293",
+        "original": "k đùa đâu có con nhỏ tốn đủ thứ đấy, t cày sml luôn đấy",
+        "normalized": "không đùa đâu có con nhỏ tốn đủ thứ đấy, tôi cày sml luôn đấy"
+    },
+    {
+        "": "294",
+        "original": "cột sống e ổn không",
+        "normalized": "cột sống em ổn không"
+    },
+    {
+        "": "295",
+        "original": "Nước dăng xuyên màn hình",
+        "normalized": "Nước văng xuyên màn hình"
+    },
+    {
+        "": "296",
+        "original": "cứ bình từ thoii bà chuỵ",
+        "normalized": "cứ bình từ thôi bà chị"
+    },
+    {
+        "": "297",
+        "original": "phim không dc có tình yêu :))",
+        "normalized": "phim không được có tình yêu :))"
+    },
+    {
+        "": "298",
+        "original": "Đang làm bà dà 80 tuổi đi đánh quái zật tự nhiên thức dậy biến thành 1 con nhỏ ất ơ nào đấy 17 tủi",
+        "normalized": "Đang làm bà già 80 tuổi đi đánh quái vật tự nhiên thức dậy biến thành 1 con nhỏ ất ơ nào đấy 17 tuổi"
+    },
+    {
+        "": "299",
+        "original": "may trg mik mùa hè còn phải mang áo khoác đi mặc",
+        "normalized": "may trường mình mùa hè còn phải mang áo khoác đi mặc"
+    },
+    {
+        "": "300",
+        "original": "Ngừi ta không quan tâm thôi chứ không phải vô tâm",
+        "normalized": "Người ta không quan tâm thôi chứ không phải vô tâm"
+    },
+    {
+        "": "301",
+        "original": "củm ơn bame ckồnq đã sank ckồnq ra để e đượk gặp zà iu tkươnq ckồnq",
+        "normalized": "cảm ơn ba mẹ chồng đã sinh chồng ra để em được gặp và yêu thương chồng"
+    },
+    {
+        "": "302",
+        "original": "Xong tương lai ko còn mặng cụt, với mảng cầu chín để ăn nữa",
+        "normalized": "Xong tương lai không còn măng cụt, với mảng cầu chín để ăn nữa"
+    },
+    {
+        "": "303",
+        "original": "Thế lúc cầm tiền ai cầm cho  dc cái này mất cái kia mà",
+        "normalized": "Thế lúc cầm tiền ai cầm cho  được cái này mất cái kia mà"
+    },
+    {
+        "": "304",
+        "original": "Cậu chỉ cần đẹp trai là đc:))",
+        "normalized": "Cậu chỉ cần đẹp trai là được:))"
+    },
+    {
+        "": "305",
+        "original": "chừng nèo đi coi xiếc dị",
+        "normalized": "chừng nào đi coi xiếc vậy"
+    },
+    {
+        "": "306",
+        "original": "Thời chẻ châu sóng gió các bác ạh, chúng ta giống nhau quá :))",
+        "normalized": "Thời trẻ trâu sóng gió các bác ạ, chúng ta giống nhau quá :))"
+    },
+    {
+        "": "307",
+        "original": "mình nói bác tài xe ben còn lũ báo đời đua xe thì đi luôn ko ai thương nhé",
+        "normalized": "mình nói bác tài xe ben còn lũ báo đời đua xe thì đi luôn không ai thương nhé"
+    },
+    {
+        "": "308",
+        "original": "ngăn rác di động trong cặp t :>>",
+        "normalized": "ngăn rác di động trong cặp tôi :>>"
+    },
+    {
+        "": "309",
+        "original": "Hải phòng k lòng vòng à",
+        "normalized": "Hải phòng không lòng vòng à"
+    },
+    {
+        "": "310",
+        "original": "kảnh xát trĩnh tã tới gòi đei",
+        "normalized": "cảnh sát chính tả tới rồi đây"
+    },
+    {
+        "": "311",
+        "original": "cái nết i sì i đúc =))",
+        "normalized": "cái nết y sì y đúc =))"
+    },
+    {
+        "": "312",
+        "original": ":)))) cứ làm dần ạ r sẽ có lúc nch th",
+        "normalized": ":)))) cứ làm dần ạ rồi sẽ có lúc nch thôi"
+    },
+    {
+        "": "313",
+        "original": "về a nuôi a cho đứa khác làm sao phải mếu máo :))",
+        "normalized": "về anh nuôi anh cho đứa khác làm sao phải mếu máo :))"
+    },
+    {
+        "": "314",
+        "original": "dô nghe tiếng thét đao đớn nè",
+        "normalized": "vô nghe tiếng thét đau đớn nè"
+    },
+    {
+        "": "315",
+        "original": "Chúc 2 bạn luôn như vậy, luôn bên nhau dù có chuyện j đi nữa",
+        "normalized": "Chúc 2 bạn luôn như vậy, luôn bên nhau dù có chuyện gì đi nữa"
+    },
+    {
+        "": "316",
+        "original": "học ngôn ngữ mới đy",
+        "normalized": "học ngôn ngữ mới đi"
+    },
+    {
+        "": "317",
+        "original": "Nhưng h toàn thất nghiệp ăn còn đéo đủ thì mua thế vẹo nào dc",
+        "normalized": "Nhưng giờ toàn thất nghiệp ăn còn đéo đủ thì mua thế vẹo nào được"
+    },
+    {
+        "": "318",
+        "original": "anh ben mà đấm thì thốn k trượt cái nào",
+        "normalized": "anh ben mà đấm thì thốn không trượt cái nào"
+    },
+    {
+        "": "319",
+        "original": "K hiểu sao mình k thích ún trà sữa  chaăc ún vô khó ngủ",
+        "normalized": "Không hiểu sao mình không thích uống trà sữa  chắc uống vô khó ngủ"
+    },
+    {
+        "": "320",
+        "original": "Mặp lắm gòi ông ơi",
+        "normalized": "Mập lắm rồi ông ơi"
+    },
+    {
+        "": "321",
+        "original": "Thế ck mình làm lương 8tr thì như nào nhể",
+        "normalized": "Thế chồng mình làm lương 8tr thì như nào nhỉ"
+    },
+    {
+        "": "322",
+        "original": "nhưng về nhà nói thì nó vã lại cả mình, choán",
+        "normalized": "nhưng về nhà nói thì nó vã lại cả mình, chán"
+    },
+    {
+        "": "323",
+        "original": "em lun mún làm cho bạn bè zui zẻ",
+        "normalized": "em luôn muốn làm cho bạn bè vui vẻ"
+    },
+    {
+        "": "324",
+        "original": "chắc mk tui khác quá xều à",
+        "normalized": "chắc mình tui khác quá xều à"
+    },
+    {
+        "": "325",
+        "original": "cái e kể lè chồng",
+        "normalized": "cái em kể nè chồng"
+    },
+    {
+        "": "326",
+        "original": "hnao cãi nhau to tí đi để t mua sổ số =))))))",
+        "normalized": "hôm nào cãi nhau to tí đi để tôi mua xổ số =))))))"
+    },
+    {
+        "": "327",
+        "original": "May quá mình lương 5 trịu",
+        "normalized": "May quá mình lương 5 triệu"
+    },
+    {
+        "": "328",
+        "original": "à thế ny t đang học mẫu giáo b ạ",
+        "normalized": "à thế người yêu tôi đang học mẫu giáo bạn ạ"
+    },
+    {
+        "": "329",
+        "original": "1 tô bún bò vẫn là nhứt ^^",
+        "normalized": "1 tô bún bò vẫn là nhất ^^"
+    },
+    {
+        "": "330",
+        "original": "đọc truyện ktx là màu hồng nhưg h ms bik nó còn đen hơn nc cống",
+        "normalized": "đọc truyện ký túc xá là màu hồng nhưng giờ mới biết nó còn đen hơn nước cống"
+    },
+    {
+        "": "331",
+        "original": "Người đang sống ở Nhật mở đt lên kiểu",
+        "normalized": "Người đang sống ở Nhật mở điện thoại lên kiểu"
+    },
+    {
+        "": "332",
+        "original": "Anh ấy vẫn 10đ nếu ảnh đz",
+        "normalized": "Anh ấy vẫn 10đ nếu ảnh đẹp trai"
+    },
+    {
+        "": "333",
+        "original": "hồi trc t cũng dụ bạn đi miết xong nhận ra là có những thứ ko cùng gu thì thôi ko bắt tội chúng bạn lgi:))",
+        "normalized": "hồi trước tôi cũng dụ bạn đi miết xong nhận ra là có những thứ không cùng gu thì thôi không bắt tội chúng bạn làm gì:))"
+    },
+    {
+        "": "334",
+        "original": "chúng ta đã bị thao túng dòi",
+        "normalized": "chúng ta đã bị thao túng rồi"
+    },
+    {
+        "": "335",
+        "original": "Hét xog cx có đứa nào im đou:))",
+        "normalized": "Hét xong cũng có đứa nào im đâu:))"
+    },
+    {
+        "": "336",
+        "original": "Chin lỗi chúng tôi chưa sẵn sàng làm mẹ =)))",
+        "normalized": "Xin lỗi chúng tôi chưa sẵn sàng làm mẹ =)))"
+    },
+    {
+        "": "337",
+        "original": "có đứa cũng bị thao túng giống t",
+        "normalized": "có đứa cũng bị thao túng giống tao"
+    },
+    {
+        "": "338",
+        "original": "hồi nhỏ a thích siêu nhưn này lắm ned",
+        "normalized": "hồi nhỏ anh thích siêu nhân này lắm nè"
+    },
+    {
+        "": "339",
+        "original": "thích văn học không anh zai?",
+        "normalized": "thích văn học không anh trai?"
+    },
+    {
+        "": "340",
+        "original": "ko ai khác con pé đùi gà lun ó",
+        "normalized": "không ai khác con bé đùi gà luôn đó"
+    },
+    {
+        "": "341",
+        "original": "nma anh cứ mua tiếp đi em bảo no chứ có bảo kh ăn nữa dou",
+        "normalized": "nhưng mà anh cứ mua tiếp đi em bảo no chứ có bảo không ăn nữa đâu"
+    },
+    {
+        "": "342",
+        "original": "m bị chuột như kia cắn đúng kh",
+        "normalized": "mày bị chuột như kia cắn đúng không"
+    },
+    {
+        "": "343",
+        "original": "Sau này, chồng tương lai của em phải mua 2 phần, 1 phần cho con, 1 phần cho em biết chưaaa",
+        "normalized": "Sau này, chồng tương lai của em phải mua 2 phần, 1 phần cho con, 1 phần cho em biết chưa"
+    },
+    {
+        "": "344",
+        "original": "mua bánh bhx bị quangthai phát hịn",
+        "normalized": "mua bánh bhx bị quangthai phát hiện"
+    },
+    {
+        "": "345",
+        "original": "vấn đề ko phải là mỡ nạc mà vấn đề là bới đồ ăn trong đĩa, bạn có thể gắp cả miếng thịt rồi bỏ phần mỡ trên miếng bạn gắp đó, ăn phần thịt nạc thôi là đc mà",
+        "normalized": "vấn đề không phải là mỡ nạc mà vấn đề là bới đồ ăn trong đĩa, bạn có thể gắp cả miếng thịt rồi bỏ phần mỡ trên miếng bạn gắp đó, ăn phần thịt nạc thôi là được mà"
+    },
+    {
+        "": "346",
+        "original": "v khổ cho gv trường mk quá, cx là trắc nghiệm nhg ko có chắc nghiệm mà phải tự vt ra theo ý hiểu của mk, giống như vt văn v.",
+        "normalized": "vậy khổ cho giáo viên trường mình quá, cũng là trắc nghiệm nhưng không có trắc nghiệm mà phải tự viết ra theo ý hiểu của mình, giống như viết văn vậy."
+    },
+    {
+        "": "347",
+        "original": "định đăng ký mà nick tóp tóp mình có 10 người pho lâu ai rảnh vào pho lâu êm cái",
+        "normalized": "định đăng ký mà nick tóp tóp mình có 10 người pho lâu ai rảnh vào pho lâu em cái"
+    },
+    {
+        "": "348",
+        "original": "Từ hồi ổng còn trẻ vẫn k thấy ổng đẹp trai chỗ nào mà ai cũng mê",
+        "normalized": "Từ hồi ổng còn trẻ vẫn không thấy ổng đẹp trai chỗ nào mà ai cũng mê"
+    },
+    {
+        "": "349",
+        "original": "Cái việc đầu tiên phải đưa thằng con đi khám, chụp chiếu xem có sao ko",
+        "normalized": "Cái việc đầu tiên phải đưa thằng con đi khám, chụp chiếu xem có sao không"
+    },
+    {
+        "": "350",
+        "original": "tự giác buông chứ hong kêu",
+        "normalized": "tự giác buông chứ không kêu"
+    },
+    {
+        "": "351",
+        "original": "hmmm, ngay từ khi biết sj sẽ về vn là t đã xác định book vé 1 thân 1 mình từ hn vào sg để đu rồi :)))",
+        "normalized": "hmmm, ngay từ khi biết sj sẽ về vn là tôi đã xác định book vé 1 thân 1 mình từ hn vào sg để đu rồi :)))"
+    },
+    {
+        "": "352",
+        "original": "qua cô thanh chụp bô vs ny chị ơi",
+        "normalized": "qua cô thanh chụp bô với người yêu chị ơi"
+    },
+    {
+        "": "353",
+        "original": "đọc truyện giải truý nè b :))))))))",
+        "normalized": "đọc truyện giải trí nè bạn :))))))))"
+    },
+    {
+        "": "354",
+        "original": "cơm tróa quá tr oi",
+        "normalized": "cơm chó quá trời ơi"
+    },
+    {
+        "": "355",
+        "original": "cx hơi giống r đó",
+        "normalized": "cũng hơi giống rồi đó"
+    },
+    {
+        "": "356",
+        "original": "Ủa ròy hình này ai chụp?? =))",
+        "normalized": "Ủa rồi hình này ai chụp?? =))"
+    },
+    {
+        "": "357",
+        "original": "Hấp thụ nhiệt với cản tia UV khác nhau nha mấy má ơi, bớt cãi điii",
+        "normalized": "Hấp thụ nhiệt với cản tia UV khác nhau nha mấy má ơi, bớt cãi đi"
+    },
+    {
+        "": "358",
+        "original": "chuyện là dì chị nghe em biện minh ý lộn giải thích cái",
+        "normalized": "chuyện là gì chị nghe em biện minh ý lộn giải thích cái"
+    },
+    {
+        "": "359",
+        "original": "Mới hùi sáng mình gọi bạn đây chứ âu",
+        "normalized": "Mới hồi sáng mình gọi bạn đây chứ đâu"
+    },
+    {
+        "": "360",
+        "original": "Cái nào quan trọng hơn thì giữ cái đó c nha",
+        "normalized": "Cái nào quan trọng hơn thì giữ cái đó cậu nha"
+    },
+    {
+        "": "361",
+        "original": "Nhân văn quá tui quen rồi",
+        "normalized": "Nhân văn quá tôi quen rồi"
+    },
+    {
+        "": "362",
+        "original": "2$ được ổ bánh mì với ly sinh tố là xong 1 bữa rồi í =)))",
+        "normalized": "2$ được ổ bánh mì với ly sinh tố là xong 1 bữa rồi ấy =)))"
+    },
+    {
+        "": "363",
+        "original": "Chứng tỏ xoài chua, ko ngon",
+        "normalized": "Chứng tỏ xoài chua, không ngon"
+    },
+    {
+        "": "364",
+        "original": "cũng sắp sinh nhật tôi chẳng mong gì nhiều mong b tặng tôi con ip14 được rồi :))",
+        "normalized": "cũng sắp sinh nhật tôi chẳng mong gì nhiều mong bạn tặng tôi con ip14 được rồi :))"
+    },
+    {
+        "": "365",
+        "original": "Ko thích mặc đồ kiểu này, khó chịu vãi",
+        "normalized": "Không thích mặc đồ kiểu này, khó chịu vãi"
+    },
+    {
+        "": "366",
+        "original": "Ở nhà ăn mà bới bới thức ăn như vầy mẹ t ụp nguyên mâm lên đầu luôn ấy chứ",
+        "normalized": "Ở nhà ăn mà bới bới thức ăn như vầy mẹ tôi ụp nguyên mâm lên đầu luôn ấy chứ"
+    },
+    {
+        "": "367",
+        "original": "t áo hồng dắt m đi dạo phố",
+        "normalized": "tao áo hồng dắt mày đi dạo phố"
+    },
+    {
+        "": "368",
+        "original": "Trời m vểnh tai lên nghe cho t :))",
+        "normalized": "Trời mày vểnh tai lên nghe cho tao :))"
+    },
+    {
+        "": "369",
+        "original": "mặc này là đẹp hơn nữ mặc r",
+        "normalized": "mặc này là đẹp hơn nữ mặc rồi"
+    },
+    {
+        "": "370",
+        "original": "bà nch dui xỉu nhưng bà ở Đống Đa tui ở Bình Thạnh",
+        "normalized": "bà nói chuyện vui xỉu nhưng bà ở Đống Đa tui ở Bình Thạnh"
+    },
+    {
+        "": "371",
+        "original": "Rất nhiều ng sẽ đồng cảm w hình này",
+        "normalized": "Rất nhiều người sẽ đồng cảm với hình này"
+    },
+    {
+        "": "372",
+        "original": "Gà said: 3 năm tam tai k bằng 1 năm thái tuế ..",
+        "normalized": "Gà said: 3 năm tam tai không bằng 1 năm thái tuế .."
+    },
+    {
+        "": "373",
+        "original": "tại cái này bcuoi quá nên tui tag  =))))))))",
+        "normalized": "tại cái này buồn cườii quá nên tui tag =))))))))"
+    },
+    {
+        "": "374",
+        "original": "Vụ bới đồ ăn là vô duyên thật, k bênh đc nha",
+        "normalized": "Vụ bới đồ ăn là vô duyên thật, không bênh được nha"
+    },
+    {
+        "": "375",
+        "original": "Để e khám phá vẻ đẹp tìm ẩn của a",
+        "normalized": "Để em khám phá vẻ đẹp tìm ẩn của anh"
+    },
+    {
+        "": "376",
+        "original": "dô nghe c iu xinh xẻo",
+        "normalized": "vô nghe cậu yêu xinh xẻo"
+    },
+    {
+        "": "377",
+        "original": "chưa ai qua đc màn 2 :)))",
+        "normalized": "chưa ai qua được màn 2 :)))"
+    },
+    {
+        "": "378",
+        "original": "t ngồi im mà drama nó tìm t chứ ai gảnh",
+        "normalized": "tôi ngồi im mà drama nó tìm tôi chứ ai rảnh"
+    },
+    {
+        "": "379",
+        "original": "đi sô 1 mình nè e",
+        "normalized": "đi số 1 mình nè em"
+    },
+    {
+        "": "380",
+        "original": "Chồng nhà người ta không bh làm mk thất vọng",
+        "normalized": "Chồng nhà người ta không bao giờ làm mình thất vọng"
+    },
+    {
+        "": "381",
+        "original": "ông này nch thú zị :))",
+        "normalized": "ông này nói chuyện thú vị :))"
+    },
+    {
+        "": "382",
+        "original": "chua chắc đã lm dc=))",
+        "normalized": "chưa chắc đã làm được=))"
+    },
+    {
+        "": "383",
+        "original": "Nhiều đậu phọng ngon quá",
+        "normalized": "Nhiều đậu phộng ngon quá"
+    },
+    {
+        "": "384",
+        "original": "nghe nói gọt ra còn ít xịu à",
+        "normalized": "nghe nói gọt ra còn ít xịt à"
+    },
+    {
+        "": "385",
+        "original": "Như này chắc bị đuổi lâu r c :))",
+        "normalized": "Như này chắc bị đuổi lâu rồi cậu :))"
+    },
+    {
+        "": "386",
+        "original": "Hồi nhỏ ăn ko sao mà giờ ăn tí tôm, cua, ghẹ, mực vào là trong người khó chịu + tức ngực + buồn nôn + môi thì bị ngứa rồi phồng rộp bên trong lòng môi",
+        "normalized": "Hồi nhỏ ăn không sao mà giờ ăn tí tôm, cua, ghẹ, mực vào là trong người khó chịu + tức ngực + buồn nôn + môi thì bị ngứa rồi phồng rộp bên trong lòng môi"
+    },
+    {
+        "": "387",
+        "original": "tới vùng đất của mình sống đi đồ nha đầu zô zụng",
+        "normalized": "tới vùng đất của mình sống đi đồ nha đầu vô vụng"
+    },
+    {
+        "": "388",
+        "original": "để t đổi đợt học sắp tới :)))",
+        "normalized": "để tôi đổi đợt học sắp tới :)))"
+    },
+    {
+        "": "389",
+        "original": "ế đúng tao lun tưởng ng ta bán đồ ăn nhanh",
+        "normalized": "ê đúng tao luôn tưởng người ta bán đồ ăn nhanh"
+    },
+    {
+        "": "390",
+        "original": "nào cũng có lí do ht đk ae.",
+        "normalized": "nào cũng có lí do hết đk anh em."
+    },
+    {
+        "": "391",
+        "original": "Diếc đúq trính tã đi goy qay lại đei nói chiệng",
+        "normalized": "Viết đúng chính tả đi rồi quay lại đây nói chuyện"
+    },
+    {
+        "": "392",
+        "original": "Đợt mình và ngyêu cũng bị tông xe, mấy anh đi đường dừng lại nhiều lắm, có anh nọ giúp mình giải quyết để bọn mình được đi",
+        "normalized": "Đợt mình và người yêu cũng bị tông xe, mấy anh đi đường dừng lại nhiều lắm, có anh nọ giúp mình giải quyết để bọn mình được đi"
+    },
+    {
+        "": "393",
+        "original": "Xin vé nàm công chúa =))",
+        "normalized": "Xin vé làm công chúa =))"
+    },
+    {
+        "": "394",
+        "original": "đội nón bảo hiểm luôn ms chịu à akakka",
+        "normalized": "đội nón bảo hiểm luôn mới chịu à akakka"
+    },
+    {
+        "": "395",
+        "original": "Mk cũng k ăn dk thịt mỡ nk thay vì bới mk chọn k ăn nữa",
+        "normalized": "Mình cũng không ăn được thịt mỡ nhưng thay vì bới mình chọn không ăn nữa"
+    },
+    {
+        "": "396",
+        "original": "cuối cùng cũng chụp ảnh màu đc gòi quá đã",
+        "normalized": "cuối cùng cũng chụp ảnh màu được rồi quá đã"
+    },
+    {
+        "": "397",
+        "original": "Quả này vừa đóng phạt vừa đền chắc ko ít đâu :)))))",
+        "normalized": "Quả này vừa đóng phạt vừa đền chắc không ít đâu :)))))"
+    },
+    {
+        "": "398",
+        "original": "gần giống với “có sữa chua trong tủ thg P ăn đi nhé, có bánh ruốc sáng mai đi làm lấy mà ăn”",
+        "normalized": "gần giống với “có sữa chua trong tủ thằng P ăn đi nhé, có bánh ruốc sáng mai đi làm lấy mà ăn”"
+    },
+    {
+        "": "399",
+        "original": "cách nói chuyện giống cô vs toi ghia",
+        "normalized": "cách nói chuyện giống cô với tôi ghê"
+    },
+    {
+        "": "400",
+        "original": "Ở đâu tuồng vào vn thì các ông lại chặn ko được.",
+        "normalized": "Ở đâu tuồn vào vn thì các ông lại chặn không được."
+    },
+    {
+        "": "401",
+        "original": "Rồi tăng ca nhiều lại ko có thời gian thành ra cũng gây nhau bị trách đủ thứ vậy đó",
+        "normalized": "Rồi tăng ca nhiều lại không có thời gian thành ra cũng gây nhau bị trách đủ thứ vậy đó"
+    },
+    {
+        "": "402",
+        "original": "T thuộc team nhan khống nên gái xinh mà mê trước đã rồi tính sau",
+        "normalized": "Tôi thuộc team nhan khống nên gái xinh mà mê trước đã rồi tính sau"
+    },
+    {
+        "": "403",
+        "original": "Sợ quá huhu, t hay mơ thấy mấy cảnh này lắm.",
+        "normalized": "Sợ quá huhu, tôi hay mơ thấy mấy cảnh này lắm."
+    },
+    {
+        "": "404",
+        "original": "thấy mâm nào thiếu thì nhảy vào chứ sao, k nhảy vào bàn họ cô dâu chú rể ngồi luôn",
+        "normalized": "thấy mâm nào thiếu thì nhảy vào chứ sao, không nhảy vào bàn họ cô dâu chú rể ngồi luôn"
+    },
+    {
+        "": "405",
+        "original": "Nhà mình có 2 wc tầng trên tầng dưới, lúc chỉ xài 1 viên thử cho 1 wc thôi thì thấy nó sạch hơn vs nó trắng lên so vs cái bồn cầu còn lại",
+        "normalized": "Nhà mình có 2 wc tầng trên tầng dưới, lúc chỉ xài 1 viên thử cho 1 wc thôi thì thấy nó sạch hơn với nó trắng lên so với cái bồn cầu còn lại"
+    },
+    {
+        "": "406",
+        "original": "Team đồ đen ko thíc mùa hè",
+        "normalized": "Team đồ đen không thích mùa hè"
+    },
+    {
+        "": "407",
+        "original": "để t chống mắt lên xem m cãi kiểu j",
+        "normalized": "để tao chống mắt lên xem mày cãi kiểu gì"
+    },
+    {
+        "": "408",
+        "original": "không, nhma bị đánh dấu bài :))))))",
+        "normalized": "không, nhưng mà bị đánh dấu bài :))))))"
+    },
+    {
+        "": "409",
+        "original": "Thôi thì cũng mong là MC năm nay ăn cúp đi cố lắm lòi cả tĩ r =)))",
+        "normalized": "Thôi thì cũng mong là MC năm nay ăn cúp đi cố lắm lòi cả trĩ rồi =)))"
+    },
+    {
+        "": "410",
+        "original": "Trc là đi học, sau là đi làm, không nên kì vọng vào bất kì mối quan hệ nào cả",
+        "normalized": "Trước là đi học, sau là đi làm, không nên kì vọng vào bất kì mối quan hệ nào cả"
+    },
+    {
+        "": "411",
+        "original": "C ấy lại ra phim để coi rồi",
+        "normalized": "Cậu ấy lại ra phim để coi rồi"
+    },
+    {
+        "": "412",
+        "original": "Thế mà k péo đc mới tài chứ",
+        "normalized": "Thế mà không béo được mới tài chứ"
+    },
+    {
+        "": "413",
+        "original": "Về đồn thì mềm xương vs chú.",
+        "normalized": "Về đồn thì mềm xương với chú."
+    },
+    {
+        "": "414",
+        "original": "xin it's chân gà cko hommie",
+        "normalized": "xin ít chân gà cho hommie"
+    },
+    {
+        "": "415",
+        "original": "Ăn không có ngon k mn? Có chua k?",
+        "normalized": "Ăn có không ngon không mọi người? Có chua không?"
+    },
+    {
+        "": "416",
+        "original": "trúng k mà sao k có quà vậy",
+        "normalized": "trúng không mà sao không có quà vậy"
+    },
+    {
+        "": "417",
+        "original": "Ngta dùng đi chợ đồ đó để bảo vệ mt cũng tốt mà",
+        "normalized": "Người ta dùng đi chợ đồ đó để bảo vệ môi trường cũng tốt mà"
+    },
+    {
+        "": "418",
+        "original": "Sorry tại thấy người ta cười vui quá cái nên cười theo í -\"-",
+        "normalized": "Sorry tại thấy người ta cười vui quá cái nên cười theo ý -\"-"
+    },
+    {
+        "": "419",
+        "original": "giống t kêu quán bán kẹo bông gòn k m",
+        "normalized": "giống tao kêu quán bán kẹo bông gòn không mày"
+    },
+    {
+        "": "420",
+        "original": "nhứt náck, chúm ta nợ bé Thu 1 lời syn lũi",
+        "normalized": "nhức nách, chúng ta nợ bé Thu 1 lời xin lỗi"
+    },
+    {
+        "": "421",
+        "original": "nhận vào làm nhưng lương bao nhiêu thì ko nói :)))))",
+        "normalized": "nhận vào làm nhưng lương bao nhiêu thì không nói :)))))"
+    },
+    {
+        "": "422",
+        "original": "Sao bít hay z tr",
+        "normalized": "Sao biết hay vậy trời"
+    },
+    {
+        "": "423",
+        "original": "tui quý bả vãi l luôn kiểu tui nghĩ mai mốt tui giàu tui sẽ kéo bả ra khỏi những cái toxic bả đang chịu",
+        "normalized": "tui quý bả vãi lồn luôn kiểu tui nghĩ mai mốt tui giàu tui sẽ kéo bả ra khỏi những cái toxic bả đang chịu"
+    },
+    {
+        "": "424",
+        "original": "như lúc ms yêu lun",
+        "normalized": "như lúc mới yêu luôn"
+    },
+    {
+        "": "425",
+        "original": "đúng ,ko cần nhiều bạn chỉ cần bạn tốt chứ bạn mà sống như c thì next",
+        "normalized": "đúng ,không cần nhiều bạn chỉ cần bạn tốt chứ bạn mà sống như cặc thì next"
+    },
+    {
+        "": "426",
+        "original": "Hướng nụi chớ hỏng có hiền",
+        "normalized": "Hướng nội chứ không có hiền"
+    },
+    {
+        "": "427",
+        "original": "lớp t khi nghe tin hc 3 tiết toán kỉu: thoy t đi dìa, đi dìa tụi bây ơi=)))",
+        "normalized": "lớp tôi khi nghe tin học 3 tiết toán kiểu: thôi tôi đi về, đi về tụi bây ơi=)))"
+    },
+    {
+        "": "428",
+        "original": "Xưng tôi với em là chưa gì đã thấy tuỵt giời r",
+        "normalized": "Xưng tôi với em là chưa gì đã thấy tuyệt vời rồi"
+    },
+    {
+        "": "429",
+        "original": "T vái lần sau qua như vậy nữa xe tải nó húc chết mẹ đi cho có nhân có quả :))",
+        "normalized": "Tôi vái lần sau qua như vậy nữa xe tải nó húc chết mẹ đi cho có nhân có quả :))"
+    },
+    {
+        "": "430",
+        "original": "tag và ko nói gì",
+        "normalized": "tag và không nói gì"
+    },
+    {
+        "": "431",
+        "original": ":)))) rủ đi nhậu, bạn mời bia, đồ ăn mn hùn, kiểu z, rẻ hơn thì mua nước mời đc r, 10 người cũng ko bao nhiêu",
+        "normalized": ":)))) rủ đi nhậu, bạn mời bia, đồ ăn mọi người hùn, kiểu vậy, rẻ hơn thì mua nước mời được rồi, 10 người cũng không bao nhiêu"
+    },
+    {
+        "": "432",
+        "original": "bữa t đưa tờ 100 thôi mà còn bị cằn nhằn rồi đó trừi huống hồ gì tờ này",
+        "normalized": "bữa tôi đưa tờ 100 thôi mà còn bị cằn nhằn rồi đó trời huống hồ gì tờ này"
+    },
+    {
+        "": "433",
+        "original": "Eyeliner sắc bén thì mới chém hết các đề thi đc",
+        "normalized": "Eyeliner sắc bén thì mới chém hết các đề thi được"
+    },
+    {
+        "": "434",
+        "original": "may quá em 3 k đi đường lộ",
+        "normalized": "may quá em 3 không đi đường lộ"
+    },
+    {
+        "": "435",
+        "original": "Nếu vậy áo 2 lớp lớp ngoài trắng để cách nhiệt, lớp trong đen để chống UV liệu có đc ko ta",
+        "normalized": "Nếu vậy áo 2 lớp lớp ngoài trắng để cách nhiệt, lớp trong đen để chống UV liệu có được không ta"
+    },
+    {
+        "": "436",
+        "original": "trong khi b tôi có quy tắc 45°",
+        "normalized": "trong khi bạn tôi có quy tắc 45°"
+    },
+    {
+        "": "437",
+        "original": "sao xoá bài kia rùi zay, đang có nhiệt mà ta",
+        "normalized": "sao xoá bài kia rồi vậy, đang có nhiệt mà ta"
+    },
+    {
+        "": "438",
+        "original": "Có nói quá ko zậy chời.",
+        "normalized": "Có nói quá không vậy trời."
+    },
+    {
+        "": "439",
+        "original": "Dương Thúy Vi là VĐV mở bát cho đoàn Việt Nam sáng nay  Riêng nội dung này thì nhiều người quan tâm ai được HCB nhiều hơn, vì HCV quá dễ đoán =))",
+        "normalized": "Dương Thúy Vi là vận động viên mở bát cho đoàn Việt Nam sáng nay Riêng nội dung này thì nhiều người quan tâm ai được huy chương bạc nhiều hơn, vì huy chương vàng quá dễ đoán =))"
+    },
+    {
+        "": "440",
+        "original": "Trương Gia Nghê xink quớ, vợ kaooooo",
+        "normalized": "Trương Gia Nghê xinh quá, vợ tao"
+    },
+    {
+        "": "441",
+        "original": "T không ăn thịt mỡ với da gà",
+        "normalized": "Tôi không ăn thịt mỡ với da gà"
+    },
+    {
+        "": "442",
+        "original": "Cái gì cũng phải dấp ngã 1 lần rồi đứng dậy làm lại cuộc đời đừng vì tất cả mà hại cho bản thân mình",
+        "normalized": "Cái gì cũng phải vấp ngã 1 lần rồi đứng dậy làm lại cuộc đời đừng vì tất cả mà hại cho bản thân mình"
+    },
+    {
+        "": "443",
+        "original": "Tui là tui móc tay zô ống tay áo luôn :))",
+        "normalized": "Tui là tui móc tay vô ống tay áo luôn :))"
+    },
+    {
+        "": "444",
+        "original": "nữa tháo ra đừng cười quài nha",
+        "normalized": "nữa tháo ra đừng cười hoài nha"
+    },
+    {
+        "": "445",
+        "original": "mà mai mốt đừng chia phần highnote cho chị nữa, để chị gánh phần visual là được ròi",
+        "normalized": "mà mai mốt đừng chia phần highnote cho chị nữa, để chị gánh phần visual là được rồi"
+    },
+    {
+        "": "446",
+        "original": "muốn ko làm mà vẫn có ăn như t thì chơi boc6",
+        "normalized": "muốn không làm mà vẫn có ăn như tao thì chơi bốc"
+    },
+    {
+        "": "447",
+        "original": "v là t vs m p đổi tên hay là nó vs nó p đổi tên?",
+        "normalized": "vậy là tao với mày phải đổi tên hay là nó với nó phải đổi tên?"
+    },
+    {
+        "": "448",
+        "original": "vào đọc đi để đỡ trầm kảm=)))",
+        "normalized": "vào đọc đi để đỡ trầm cảm=)))"
+    },
+    {
+        "": "449",
+        "original": "lấy chồng có để lại hâu quả này ko ạ:)",
+        "normalized": "lấy chồng có để lại hậu quả này không ạ:)"
+    },
+    {
+        "": "450",
+        "original": "con xinnn lũi mẹ cụa con",
+        "normalized": "con xin lỗi mẹ của con"
+    },
+    {
+        "": "451",
+        "original": "b.ọ.n đàn ông ngoại tình n.g.u n.g.ố.c v s tr, con nhỏ đó lm mấy cái hành động mắc ó.i v mà cũng yêu đc.",
+        "normalized": "bọn đàn ông ngoại tình ngu ngốc vậy sao trời, con nhỏ đó làm mấy cái hành động mắc ói vậy mà cũng yêu được."
+    },
+    {
+        "": "452",
+        "original": "mọi ngừi ôm mình 1 cái được hông?",
+        "normalized": "mọi người ôm mình 1 cái được không?"
+    },
+    {
+        "": "453",
+        "original": "lương 5tr vẫn lấy dc vợ",
+        "normalized": "lương 5tr vẫn lấy được vợ"
+    },
+    {
+        "": "454",
+        "original": "mặt xinh mới là xinhh",
+        "normalized": "mặt xinh mới là xinh"
+    },
+    {
+        "": "455",
+        "original": "kkkk ngủ như b iu khum có ny là đúng",
+        "normalized": "kkkk ngủ như bạn yêu không có người yêu là đúng"
+    },
+    {
+        "": "456",
+        "original": "doc cmt roi lua di ck iu",
+        "normalized": "đọc cmt rồi lựa đi chồng yêu"
+    },
+    {
+        "": "457",
+        "original": "sắp đến ngày hoàng đạo r đề nghị kiêng nhé",
+        "normalized": "sắp đến ngày hoàng đạo rồi đề nghị kiêng nhé"
+    },
+    {
+        "": "458",
+        "original": "em đừnk có bỏ ank đi màk",
+        "normalized": "em đừng có bỏ anh đi mà"
+    },
+    {
+        "": "459",
+        "original": "Ko đeo bao tay vào",
+        "normalized": "Không đeo bao tay vào"
+    },
+    {
+        "": "460",
+        "original": "Chụp HS thôi chứ sao cứ lấy cây xoài làm vật trang trí dị",
+        "normalized": "Chụp Học Sinh thôi chứ sao cứ lấy cây xoài làm vật trang trí vậy"
+    },
+    {
+        "": "461",
+        "original": "đi thăm bà khum kìa =)))",
+        "normalized": "đi thăm bà không kìa =)))"
+    },
+    {
+        "": "462",
+        "original": "tưởng mìnk là hoa quậu hã",
+        "normalized": "tưởng mình là hoa hậu hả"
+    },
+    {
+        "": "463",
+        "original": "bài viết gợi nhớ tuổi thơ dữ dội của các pé chẻ",
+        "normalized": "bài viết gợi nhớ tuổi thơ dữ dội của các bé trẻ"
+    },
+    {
+        "": "464",
+        "original": "y chang Starry Night của Van Gogh lun",
+        "normalized": "y chang Starry Night của Van Gogh luôn"
+    },
+    {
+        "": "465",
+        "original": "mốt hong chưi dị nha bạn mình ơi :))",
+        "normalized": "mốt không chơi vậy nha bạn mình ơi :))"
+    },
+    {
+        "": "466",
+        "original": "Đang nói tui đó hả tr",
+        "normalized": "Đang nói tui đó hả trời"
+    },
+    {
+        "": "467",
+        "original": "Có ai nghe tiếng lưới giống mình k ?",
+        "normalized": "Có ai nghe tiếng lưới giống mình không ?"
+    },
+    {
+        "": "468",
+        "original": "Nghe zui quá dô thôi",
+        "normalized": "Nghe vui quá vô thôi"
+    },
+    {
+        "": "469",
+        "original": "3 hôm nữa lại có bài thư kí trưởng hiệp hội xxx đi lên bằng quan hệ với các quan chức khác thì t cười ẻ",
+        "normalized": "3 hôm nữa lại có bài thư kí trưởng hiệp hội xxx đi lên bằng quan hệ với các quan chức khác thì tôi cười ỉa"
+    },
+    {
+        "": "470",
+        "original": "1 đàn  đực nhảy vô đ.ấ.m đ.á túi bụi 1 cô gái.",
+        "normalized": "1 đàn  đực nhảy vô đấm đá túi bụi 1 cô gái."
+    },
+    {
+        "": "471",
+        "original": "Zậy là ceo ùi đòi hỏi gì nữa bà chỉ có 4,75 còn thíu 0,5 nữa là có thể coi là trên trung bình r :))",
+        "normalized": "Vậy là cao rồi đòi hỏi gì nữa bà chỉ có 4,75 còn thiếu 0,5 nữa là có thể coi là trên trung bình rồi :))"
+    },
+    {
+        "": "472",
+        "original": "Thì cũng giống như mặt trời chiếu vào cửa sổ , nếu rèm màu sáng càng sáng thì vẫn trong phòng vẫn bị chiếu k thể cản hết đc , còn nếu rèm màu tối cụ thể màu đen xì thì cản tương đối đến 98% kiểu vậy ",
+        "normalized": "Thì cũng giống như mặt trời chiếu vào cửa sổ , nếu rèm màu sáng càng sáng thì vẫn trong phòng vẫn bị chiếu không thể cản hết được , còn nếu rèm màu tối cụ thể màu đen xì thì cản tương đối đến 98% kiểu vậy"
+    },
+    {
+        "": "473",
+        "original": "Má mỗi lần t thấy mấy cái meme này là đầu t auto nghĩ tới m lun á pé  =))))))))",
+        "normalized": "Má mỗi lần tao thấy mấy cái meme này là đầu tao auto nghĩ tới mày lôn á bé =))))))))"
+    },
+    {
+        "": "474",
+        "original": "Gà said \"kao khổ quá mà\"",
+        "normalized": "Gà said \"tao khổ quá mà\""
+    },
+    {
+        "": "475",
+        "original": "Này ngta gọi là mắt hủ nhìn người thấy gay hả",
+        "normalized": "Này người ta gọi là mắt hủ nhìn người thấy gay hả"
+    },
+    {
+        "": "476",
+        "original": "bé thu ác quá đy",
+        "normalized": "bé thu ác quá đi"
+    },
+    {
+        "": "477",
+        "original": "mi cx phải nghe nhx j t nghe",
+        "normalized": "mi cũng phải nghe những gì tao nghe"
+    },
+    {
+        "": "478",
+        "original": "Bh ngửi cái gì hơi nồng 1 tí thôi (thg là mùi thơm) là cái mũi tôi nó nhảy cha cha cha lun gòi",
+        "normalized": "Bây giờ ngửi cái gì hơi nồng 1 tí thôi (thường là mùi thơm) là cái mũi tôi nó nhảy cha cha cha luôn rồi"
+    },
+    {
+        "": "479",
+        "original": "r mặc áo trắng 1 bữa là như cháo lòng ngay",
+        "normalized": "rồi mặc áo trắng 1 bữa là như cháo lòng ngay"
+    },
+    {
+        "": "480",
+        "original": "Chứ bnh năm ko được bạn nào tặng quà",
+        "normalized": "Chứ bao nhiêu năm không được bạn nào tặng quà"
+    },
+    {
+        "": "481",
+        "original": "Mỗi lần mơ thấy cái gì tốt đẹp là cứ y như rằng nó là mơ, mơ như thật dị, tỉnh lại nhớ lại kí ức trong mơ muốn khủng hoảng thật sự",
+        "normalized": "Mỗi lần mơ thấy cái gì tốt đẹp là cứ y như rằng nó là mơ, mơ như thật vậy, tỉnh lại nhớ lại kí ức trong mơ muốn khủng hoảng thật sự"
+    },
+    {
+        "": "482",
+        "original": "Ăn thì hại thậc nhưng mà nó ngon lắm quý dị ạ",
+        "normalized": "Ăn thì hại thật nhưng mà nó ngon lắm quý vị ạ"
+    },
+    {
+        "": "483",
+        "original": ":)))))))) cô T tên là gì vậy mọi người mình đọc mà đoán hỏng ra",
+        "normalized": ":)))))))) cô T tên là gì vậy mọi người mình đọc mà đoán không ra"
+    },
+    {
+        "": "484",
+        "original": "Show hat như nhau thôi mình ủng hộ nhan sắc :)))))",
+        "normalized": "Show hả như nhau thôi mình ủng hộ nhan sắc :)))))"
+    },
+    {
+        "": "485",
+        "original": "balo t còn có ngăn để rác riêng",
+        "normalized": "balo tôi còn có ngăn để rác riêng"
+    },
+    {
+        "": "486",
+        "original": "đi thử xem giống review k",
+        "normalized": "đi thử xem giống review không"
+    },
+    {
+        "": "487",
+        "original": "Có khi nào rửa tiền không chứ nhà giàu cũng ko đến mức mù quáng như vậy chứ @@",
+        "normalized": "Có khi nào rửa tiền không chứ nhà giàu cũng không đến mức mù quáng như vậy chứ @@"
+    },
+    {
+        "": "488",
+        "original": "Bà Dĩnh càng ngày càng đẹp mặn mà đằm thắm, bâyh còn có cái khi chất thanh đạm dịu dàng như nước nữa",
+        "normalized": "Bà Dĩnh càng ngày càng đẹp mặn mà đằm thắm, bây giờ còn có cái khí chất thanh đạm dịu dàng như nước nữa"
+    },
+    {
+        "": "489",
+        "original": ":))) ngồi làm bài kế mấy anh chị chơi quánh bài tấu hài gáng nhịn k cười",
+        "normalized": ":))) ngồi làm bài kế mấy anh chị chơi đánh bài tấu hài ráng nhịn không cười"
+    },
+    {
+        "": "490",
+        "original": "me ta tâm lí quá thoi t miếng, m miéng ăn cho mẹ vui lòng",
+        "normalized": "mẹ ta tâm lí quá thôi tao miếng, mày miếng ăn cho mẹ vui lòng"
+    },
+    {
+        "": "491",
+        "original": "Câu nói làm ae hoang mang nha",
+        "normalized": "Câu nói làm anh em hoang mang nha"
+    },
+    {
+        "": "492",
+        "original": "phối lại nghe chán ẻ, mà giọng chi nghe hay hơn 3 bà tq",
+        "normalized": "phối lại nghe chán ỉa, mà giọng chi nghe hay hơn 3 bà tq"
+    },
+    {
+        "": "493",
+        "original": "mình phải tập tành cho sang lên nhoa :)))))",
+        "normalized": "mình phải tập tành cho sang lên nha :)))))"
+    },
+    {
+        "": "494",
+        "original": "t vs b chơi vs nhau đã lâu",
+        "normalized": "tôi với bạn chơi với nhau đã lâu"
+    },
+    {
+        "": "495",
+        "original": "Tự hạ thấp giá trị bản thân thì hỏi sao ngta lại k cần mình",
+        "normalized": "Tự hạ thấp giá trị bản thân thì hỏi sao người ta lại không cần mình"
+    },
+    {
+        "": "496",
+        "original": "Tóc như này thì phải xài serum nên tớ thoy",
+        "normalized": "Tóc như này thì phải xài serum nên tớ thôi"
+    },
+    {
+        "": "497",
+        "original": "Kiếp trước c gái cứu cả thế giới ạ:)))",
+        "normalized": "Kiếp trước chị gái cứu cả thế giới ạ:)))"
+    },
+    {
+        "": "498",
+        "original": "10tr mà ko có ý chí vươn lên thf đúng là không biết bao nhiêu cho đủ ",
+        "normalized": "10tr mà không có ý chí vươn lên thì đúng là không biết bao nhiêu cho đủ"
+    },
+    {
+        "": "499",
+        "original": "Rồi còn món gì làm được gỏi gà nữa hônggg",
+        "normalized": "Rồi còn món gì làm được gỏi gà nữa hông"
+    },
+    {
+        "": "500",
+        "original": "A ck và những người b đó thật sự rất tuyệt ạ.",
+        "normalized": "Anh chồng và những người bạn đó thật sự rất tuyệt ạ."
+    },
+    {
+        "": "501",
+        "original": "14.2 k quà ct nha",
+        "normalized": "14.2 không quà chia tay nha"
+    },
+    {
+        "": "502",
+        "original": "anh ấy 10 điểm… nhưng… k có nhưng",
+        "normalized": "anh ấy 10 điểm… nhưng… không có nhưng"
+    },
+    {
+        "": "503",
+        "original": "K sợ giận mà đòi hoài k trả.",
+        "normalized": "Không sợ giận mà đòi hoài không trả."
+    },
+    {
+        "": "504",
+        "original": "Mình tháng cũng kiếm đc 100triệu nhưng bị trừ đầu trừ cuối còn có 2tr thôi",
+        "normalized": "Mình tháng cũng kiếm được 100triệu nhưng bị trừ đầu trừ cuối còn có 2tr thôi"
+    },
+    {
+        "": "505",
+        "original": "Ko mơ mộng 1 thừa kế kết xù mà là ngày dài tháng rộng rơi rụng từ từ,đến khi ông chán hoặc ông ngủm ko có thừa kế thì bn này đã tích lũy 1 mớ rồi",
+        "normalized": "Không mơ mộng 1 thừa kế kết xù mà là ngày dài tháng rộng rơi rụng từ từ,đến khi ông chán hoặc ông ngủm không có thừa kế thì bạn này đã tích lũy 1 mớ rồi"
+    },
+    {
+        "": "506",
+        "original": "thưởng 2-3 năm đầu sẽ cảm giác 2 người k hợp nhau , muốn buông bỏ.",
+        "normalized": "thường 2-3 năm đầu sẽ cảm giác 2 người không hợp nhau , muốn buông bỏ."
+    },
+    {
+        "": "507",
+        "original": "khó thế cũng nghĩ ra dc",
+        "normalized": "khó thế cũng nghĩ ra được"
+    },
+    {
+        "": "508",
+        "original": "10tr vẫn sống được nhưg ở mức trug bình, muốn mua thứ mình thích, sèm ăn chi ăn thoải mái k cần nghic thì vẫn phải lăn ra mà làm",
+        "normalized": "10tr vẫn sống được nhưng ở mức trung bình, muốn mua thứ mình thích, thèm ăn chi ăn thoải mái không cần nghĩ thì vẫn phải lăn ra mà làm"
+    },
+    {
+        "": "509",
+        "original": "chúng ta cừi nguyên năm, cuối năm toàn 8-9.",
+        "normalized": "chúng ta cười nguyên năm, cuối năm toàn 8-9."
+    },
+    {
+        "": "510",
+        "original": "Chúc mừng e và gđ",
+        "normalized": "Chúc mừng em và gia đình"
+    },
+    {
+        "": "511",
+        "original": "Phần tiếp theo có chưa mọi ng",
+        "normalized": "Phần tiếp theo có chưa mọi người"
+    },
+    {
+        "": "512",
+        "original": "bánh bèo dành hết trơn, tức ak",
+        "normalized": "bánh bèo dành hết trơn, tức á"
+    },
+    {
+        "": "513",
+        "original": "hèng nhưng mà vẫn là nv chính của drama :)))",
+        "normalized": "hèn nhưng mà vẫn là nhân vật chính của drama :)))"
+    },
+    {
+        "": "514",
+        "original": "c-chắc hông té re đâu ha…",
+        "normalized": "chắc không té re đâu ha…"
+    },
+    {
+        "": "515",
+        "original": "mình thì ko uống sữa chứ những thứ còn lại ki bỏ sót cái nào",
+        "normalized": "mình thì không uống sữa chứ những thứ còn lại không bỏ sót cái nào"
+    },
+    {
+        "": "516",
+        "original": "mệc mỏi quá thì có thêm sự lựa chọn nè",
+        "normalized": "mệt mỏi quá thì có thêm sự lựa chọn nè"
+    },
+    {
+        "": "517",
+        "original": "đi đo kính liền cho t :))))",
+        "normalized": "đi đo kính liền cho tôi :))))"
+    },
+    {
+        "": "518",
+        "original": "Đúng vô duyên thật còn kêu nỗi gì nữa, nta nói tự nhiên như ở nhà chả lẽ ở nhà bà k mặc áo zú sang nhà ny ăn cơm cũng k mặc luôn",
+        "normalized": "Đúng vô duyên thật còn kêu nỗi gì nữa, người ta nói tự nhiên như ở nhà chả lẽ ở nhà bà không mặc áo vú sang nhà người yêu ăn cơm cũng không mặc luôn"
+    },
+    {
+        "": "519",
+        "original": "Bạn zới chú ai cũng dth hếc =)))",
+        "normalized": "Bạn với chú ai cũng dễ thương hết =)))"
+    },
+    {
+        "": "520",
+        "original": "tôi thấy bạn cg phải thấy!",
+        "normalized": "tôi thấy bạn cũng phải thấy!"
+    },
+    {
+        "": "521",
+        "original": "Cẩn thận ngy mình chưa đẻ ý :))))))",
+        "normalized": "Cẩn thận người yêu mình chưa đẻ ấy :))))))"
+    },
+    {
+        "": "522",
+        "original": "cuộc đời vô vị thì đọc đi cho có thêm tý gia vị",
+        "normalized": "cuộc đời vô vị thì đọc đi cho có thêm tí gia vị"
+    },
+    {
+        "": "523",
+        "original": "zay đó hả anh ở Úc",
+        "normalized": "vậy đó hả anh ở Úc"
+    },
+    {
+        "": "524",
+        "original": "Thuyền này t xin chèo",
+        "normalized": "Thuyền này tôi xin chèo"
+    },
+    {
+        "": "525",
+        "original": "Ở nghệ an hôm tôi về quê ở hưng nguyên nhà nào cũng có cây xoài trĩu quả, lý do ko bứt là gần như nhà nào cũng có, ngoài dọc đường cũng đầy ra :))",
+        "normalized": "Ở nghệ an hôm tôi về quê ở hưng nguyên nhà nào cũng có cây xoài trĩu quả, lý do không bứt là gần như nhà nào cũng có, ngoài dọc đường cũng đầy ra :))"
+    },
+    {
+        "": "526",
+        "original": "Ta nguyện ăn cơm chos này",
+        "normalized": "Ta nguyện ăn cơm chó này"
+    },
+    {
+        "": "527",
+        "original": "vk ở nhà thằng khác nó chơi con thì nó đánh",
+        "normalized": "vợ ở nhà thằng khác nó chơi con thì nó đánh"
+    },
+    {
+        "": "528",
+        "original": "Dạo này t thấy m hơi gảnk",
+        "normalized": "Dạo này tao thấy mày hơi rảnh"
+    },
+    {
+        "": "529",
+        "original": "Tự dưng giờ t ước chipu có thiên phú âm nhạc nhìu thêm chút ( ꈨຶ ˙̫̮ ꈨຶ )",
+        "normalized": "Tự dưng giờ tôi ước chipu có thiên phú âm nhạc nhiều thêm chút ( ꈨຶ ˙̫̮ ꈨຶ )"
+    },
+    {
+        "": "530",
+        "original": "hoá ra chấm máy là nnay",
+        "normalized": "hoá ra chấm máy là như này"
+    },
+    {
+        "": "531",
+        "original": "Rõ ràng cái hết dui áp lực",
+        "normalized": "Rõ ràng cái hết vui áp lực"
+    },
+    {
+        "": "532",
+        "original": "Đồ khô nó mới chụp hình đăng lên đc đó, chứ thử đồ nước xem, lại chả đi thay quần trước chứ tâm trí đâu chụp vs choẹt",
+        "normalized": "Đồ khô nó mới chụp hình đăng lên được đó, chứ thử đồ nước xem, lại chả đi thay quần trước chứ tâm trí đâu chụp với choẹt"
+    },
+    {
+        "": "533",
+        "original": "Có vay có trả vay xong kh muốn trả còn đi hành hung dô tù ăn cơm tù khỏi lo cơm áo gạo tiền khỏi cần đi vay nợ nữa",
+        "normalized": "Có vay có trả vay xong không muốn trả còn đi hành hung vô tù ăn cơm tù khỏi lo cơm áo gạo tiền khỏi cần đi vay nợ nữa"
+    },
+    {
+        "": "534",
+        "original": "Hỷ vọng nhận được nhà và xe",
+        "normalized": "Hy vọng nhận được nhà và xe"
+    },
+    {
+        "": "535",
+        "original": "Lấy e này e bực e ném tiền có mà nát mặt.",
+        "normalized": "Lấy em này em bực em ném tiền có mà nát mặt."
+    },
+    {
+        "": "536",
+        "original": "Bữa nhớ trg c2 c3 quá  quả k kịp lớn đúng bằng đầu ngón tay",
+        "normalized": "Bữa nhớ trường cấp 2 cấp 3 quá  quả không kịp lớn đúng bằng đầu ngón tay"
+    },
+    {
+        "": "537",
+        "original": "k biết giống của a lm k",
+        "normalized": "không biết giống của anh làm không"
+    },
+    {
+        "": "538",
+        "original": "Rồi coi mặt nó đi dạo phố có dui khum?",
+        "normalized": "Rồi coi mặt nó đi dạo phố có vui không?"
+    },
+    {
+        "": "539",
+        "original": "nếu là e ,e sẵn sàng lắng nghe từ những chuyện nhỏ nhất vk chia sẻ",
+        "normalized": "nếu là em ,em sẵn sàng lắng nghe từ những chuyện nhỏ nhất vợ chia sẻ"
+    },
+    {
+        "": "540",
+        "original": "ở đến năm 30t thì dki vào viện dưỡng lão nữa là vừa :))",
+        "normalized": "ở đến năm 30t thì đăng kí vào viện dưỡng lão nữa là vừa :))"
+    },
+    {
+        "": "541",
+        "original": "Chứ k phải vô làm khó xe con trang trí xe xíu cũng làm khó dkm",
+        "normalized": "Chứ không phải vô làm khó xe con trang trí xe xíu cũng làm khó dkm"
+    },
+    {
+        "": "542",
+        "original": "Dưa hấu sấy khô đấyy",
+        "normalized": "Dưa hấu sấy khô đấy"
+    },
+    {
+        "": "543",
+        "original": "chị thử xemmm, em phụ hoạ lai chim cho hhhhh",
+        "normalized": "chị thử xem, em phụ hoạ lai chim cho hhhhh"
+    },
+    {
+        "": "544",
+        "original": "Chị cuối dễ thưn haaaa",
+        "normalized": "chị cuối dẽ thương ha"
+    },
+    {
+        "": "545",
+        "original": "s nạ nùng dzữ dzị",
+        "normalized": "sao lạ lùng dữ vậy"
+    },
+    {
+        "": "546",
+        "original": "Thử mang tỏi theo người xem tn.",
+        "normalized": "Thử mang tỏi theo người xem thế nào."
+    },
+    {
+        "": "547",
+        "original": "Lại chuẩn bị: \"Kính thưa Hội Đồng xét xử,trong  lúc nóng giận bị cáo đã không nhận thức và kiểm soát đc hành vi của mình,gây hậu quả nghiêm trọng cho bị hại và cho XH",
+        "normalized": "Lại chuẩn bị: \"Kính thưa Hội Đồng xét xử,trong  lúc nóng giận bị cáo đã không nhận thức và kiểm soát được hành vi của mình,gây hậu quả nghiêm trọng cho bị hại và cho xã hội"
+    },
+    {
+        "": "548",
+        "original": "Ròi ròi cho em coi con cá thiệc đy",
+        "normalized": "Rồi rồi cho em coi con cá thiệt đi"
+    },
+    {
+        "": "549",
+        "original": "dạo này rảnh lm nên chấm cái",
+        "normalized": "dạo này rảnh lắm nên chấm cái"
+    },
+    {
+        "": "550",
+        "original": "Chúc b thật nhiều sức khỏe để chiến thắng bệnh tật",
+        "normalized": "Chúc bạn thật nhiều sức khỏe để chiến thắng bệnh tật"
+    },
+    {
+        "": "551",
+        "original": "hồi xưa ông bô đzai vãi ò",
+        "normalized": "hồi xưa ông bô đẹp trai vãi à"
+    },
+    {
+        "": "552",
+        "original": "Sống trong lo sợ đồng tiền, mua ko dám mua, ăn ko dám ăn,..",
+        "normalized": "Sống trong lo sợ đồng tiền, mua không dám mua, ăn không dám ăn,.."
+    },
+    {
+        "": "553",
+        "original": "Làm cũng như ko làm",
+        "normalized": "Làm cũng như không làm"
+    },
+    {
+        "": "554",
+        "original": "15p hơi ít, 45p ik",
+        "normalized": "15p hơi ít, 45p đi"
+    },
+    {
+        "": "555",
+        "original": "Chúc b mau khoẻ nhé, cám ơn chia sẻ của b",
+        "normalized": "Chúc bạn mau khoẻ nhé, cám ơn chia sẻ của bạn"
+    },
+    {
+        "": "556",
+        "original": "T luôn chủ động nhắn tin mà nhận lại sự phũ của nó thôi,kiểu như mình là cái j vs nó",
+        "normalized": "Tôi luôn chủ động nhắn tin mà nhận lại sự phũ của nó thôi,kiểu như mình là cái gì với nó"
+    },
+    {
+        "": "557",
+        "original": "anh t đỉnh vcl chớ đâu như đại sứ duma jack5tr",
+        "normalized": "anh tôi đỉnh vcl chứ đâu như đại sứ duma jack5tr"
+    },
+    {
+        "": "558",
+        "original": ":))) cần mượn Mi nơ kh em",
+        "normalized": ":))) cần mượn Mi nơ không em"
+    },
+    {
+        "": "559",
+        "original": "ko cười làm tróa =)))))))))))))",
+        "normalized": "không cười làm chó =)))))))))))))"
+    },
+    {
+        "": "560",
+        "original": "lâu lắm gòi khum đu cái nì",
+        "normalized": "lâu lắm rồi không đu cái này"
+    },
+    {
+        "": "561",
+        "original": "học hành đi pạn nhá, đừng truyện trò nx",
+        "normalized": "học hành đi bạn nhá, đừng truyện trò nữa"
+    },
+    {
+        "": "562",
+        "original": "Tóc tôi màu đen nhưng nó ko mượt",
+        "normalized": "Tóc tôi màu đen nhưng nó không mượt"
+    },
+    {
+        "": "563",
+        "original": "Lúc đó khu t mong mấy anh chụy trẻ nghé đừng có đi biểu tình đập phá để tạo cớ cho TQ bảo hộ dân nó mà khai hỏa.",
+        "normalized": "Lúc đó khu tôi mong mấy anh chị trẻ nghé đừng có đi biểu tình đập phá để tạo cớ cho TQ bảo hộ dân nó mà khai hỏa."
+    },
+    {
+        "": "564",
+        "original": "oke nhma 20k/h e nhé",
+        "normalized": "oke nhưng mà 20k/h em nhé"
+    },
+    {
+        "": "565",
+        "original": "34 t có 1800 cp flc ",
+        "normalized": "34 tuổi có 1800 cổ phiếu flc"
+    },
+    {
+        "": "566",
+        "original": "Thay vì đi hỏi wc ở đâu thì tôi ra quán cà phê gần đó mua 1 cốc r đi :)))",
+        "normalized": "Thay vì đi hỏi wc ở đâu thì tôi ra quán cà phê gần đó mua 1 cốc rồi đi :)))"
+    },
+    {
+        "": "567",
+        "original": "Ê viên này với t mới là đỉnh của chóp nha :)))))",
+        "normalized": "Ê viên này với tôi mới là đỉnh của chóp nha :)))))"
+    },
+    {
+        "": "568",
+        "original": "cảnh này quen v trời",
+        "normalized": "cảnh này quen vậy trời"
+    },
+    {
+        "": "569",
+        "original": "dành cho bạn iu",
+        "normalized": "dành cho bạn yêu"
+    },
+    {
+        "": "570",
+        "original": "Ăn này hong em làm cho",
+        "normalized": "Ăn này không em làm cho"
+    },
+    {
+        "": "571",
+        "original": "bảo bố e tổ chức snhat cho Bông đi",
+        "normalized": "bảo bố em tổ chức sinh nhật cho Bông đi"
+    },
+    {
+        "": "572",
+        "original": "tôi với bạn cặp đôi song sát, đ biết yên bình là gì =)))))))",
+        "normalized": "tôi với bạn cặp đôi song sát, đéo biết yên bình là gì =)))))))"
+    },
+    {
+        "": "573",
+        "original": "200k 1 quả bảo bố em cũng ko dám",
+        "normalized": "200k 1 quả bảo bố em cũng không dám"
+    },
+    {
+        "": "574",
+        "original": "anh cbi tâm lí dần nha",
+        "normalized": "anh chuẩn bị tâm lí dần nha"
+    },
+    {
+        "": "575",
+        "original": "giả bộ tao tung m hứng ik",
+        "normalized": "giả bộ tôi tung hứng mình đi"
+    },
+    {
+        "": "576",
+        "original": "vào xin ảnh kia hộ t cái =)))",
+        "normalized": "vào xin ảnh kia hộ tôi cái =)))"
+    },
+    {
+        "": "577",
+        "original": "nhìn mà nghẹt mũi dùm luôn é :))))",
+        "normalized": "nhìn mà nghẹt mũi giùm luôn á :))))"
+    },
+    {
+        "": "578",
+        "original": "Chắc ko nhớ lần thi trc thanh niên indo bị giã gạo khi định solo vs trưởng đoàn VN :))",
+        "normalized": "Chắc không nhớ lần thi trước thanh niên indo bị giã gạo khi định solo vs trưởng đoàn VN :))"
+    },
+    {
+        "": "579",
+        "original": "Bọc màng bọc tp vào",
+        "normalized": "Bọc màng bọc thực phẩm vào"
+    },
+    {
+        "": "580",
+        "original": "nhanh thiệt, t mới chỉ coi demo cái phim lật mặt lên đời này, mà đã nhìn page chế memes rồi",
+        "normalized": "nhanh thiệt, tôi mới chỉ coi demo cái phim lật mặt lên đời này, mà đã nhìn page chế memes rồi"
+    },
+    {
+        "": "581",
+        "original": "Trùm cuối ko bao h làm ta thất vọng",
+        "normalized": "Trùm cuối không bao giờ làm ta thất vọng"
+    },
+    {
+        "": "582",
+        "original": "Sợ nhất mấy loại trông con ko cẩn thận,trẻ con nó ko biết gì sang đường nguy hiểm cho cả nó cả người khác",
+        "normalized": "Sợ nhất mấy loại trông con không cẩn thận,trẻ con nó không biết gì sang đường nguy hiểm cho cả nó cả người khác"
+    },
+    {
+        "": "583",
+        "original": "\"Anh đây bé ơi\" chồi ôi dệ thưowngggggg",
+        "normalized": "\"Anh đây bé ơi\" trời ơi dễ thương"
+    },
+    {
+        "": "584",
+        "original": "hội ng hèn và tự kỉ vn",
+        "normalized": "hội người hèn và tự kỉ vn"
+    },
+    {
+        "": "585",
+        "original": "Zui khi eo của ck tôi = tôi ",
+        "normalized": "Vui khi eo của chồng tôi = tôi"
+    },
+    {
+        "": "586",
+        "original": "chắc ng ngồi trên xe cũng hú hồn dữ",
+        "normalized": "chắc người ngồi trên xe cũng hú hồn dữ"
+    },
+    {
+        "": "587",
+        "original": "điều quan trọng là bh bao cám cò được xuất khẩu",
+        "normalized": "điều quan trọng là bao giờ bao cám cò được xuất khẩu"
+    },
+    {
+        "": "588",
+        "original": "lúc làm chưa cưới vk, giờ lấy vk mới thêm 2 đứa con nữa mới xong.",
+        "normalized": "lúc làm chưa cưới vợ, giờ lấy vợ mới thêm 2 đứa con nữa mới xong."
+    },
+    {
+        "": "589",
+        "original": "Nếu b cứ ôm đồm 1 mình thì k ai hiểu dc sự vất vả của b đâu.",
+        "normalized": "Nếu bạn cứ ôm đồm 1 mình thì không ai hiểu được sự vất vả của bạn đâu."
+    },
+    {
+        "": "590",
+        "original": "Thu nhập c vững ko c",
+        "normalized": "Thu nhập cậu vững không cậu"
+    },
+    {
+        "": "591",
+        "original": "Đòi mà nta k rep thì ltn",
+        "normalized": "Đòi mà người ta không rep thì làm thế nào"
+    },
+    {
+        "": "592",
+        "original": "Chắc ny mình mới đang lớp 6, chị mắc võng ra nằm r e cứ lo học đi chị đợi dk",
+        "normalized": "Chắc người yêu mình mới đang lớp 6, chị mắc võng ra nằm rồi em cứ lo học đi chị đợi được"
+    },
+    {
+        "": "593",
+        "original": "chồng chất nỗi đau và con tim băng já",
+        "normalized": "chồng chất nỗi đau và con tim băng giá"
+    },
+    {
+        "": "594",
+        "original": "thảo nào ngyeu mình bắt nạt mình ghê z",
+        "normalized": "thảo nào người yêu mình bắt nạt mình ghê vậy"
+    },
+    {
+        "": "595",
+        "original": "tự dưng em nhớ đến con chuột lang nuớc lai trái kiwi trong lời p’freen quá chị em :)))",
+        "normalized": "tự dưng em nhớ đến con chuột lang nước lai trái kiwi trong lời p’freen quá chị em :)))"
+    },
+    {
+        "": "596",
+        "original": "nước mắt em lau bằng ngành học mới thui",
+        "normalized": "nước mắt em lau bằng ngành học mới thôi"
+    },
+    {
+        "": "597",
+        "original": "coai mà nchien lợi với tui",
+        "normalized": "coi mà nói chuyện lại với tui"
+    },
+    {
+        "": "598",
+        "original": "Nhưng công nhận bạn vô duyên thật éo phải là tự nhiên như ở nhà đâu",
+        "normalized": "Nhưng công nhận bạn vô duyên thật đéo phải là tự nhiên như ở nhà đâu"
+    },
+    {
+        "": "599",
+        "original": "Quá xứng đáng, chúc mừng e",
+        "normalized": "Quá xứng đáng, chúc mừng em"
+    },
+    {
+        "": "600",
+        "original": "ủa dị cuối cùng có ra được không",
+        "normalized": "ủa vậy cuối cùng có ra được không"
+    },
+    {
+        "": "601",
+        "original": "Thời tới gòi mấy cỵ ei cô dì chú bác ơi, thời tới cản hok kịp, cb đc làm diễn viên dòi",
+        "normalized": "Thời tới rồi mấy chị ơi cô dì chú bác ơi, thời tới cản không kịp, chuẩn bị được làm diễn viên rồi"
+    },
+    {
+        "": "602",
+        "original": "Coi phim của ck iu xong là sứt mẻ khỏi lành",
+        "normalized": "Coi phim của chồng yêu xong là sứt mẻ khỏi lành"
+    },
+    {
+        "": "603",
+        "original": "Làm z đi ku rồi bã cho m cái nịt",
+        "normalized": "Làm vậy đi cu rồi bã cho mày cái nịt"
+    },
+    {
+        "": "604",
+        "original": "Điên lắm mà chẳng giám lệch để mong n trả",
+        "normalized": "Điên lắm mà chẳng giám lệch để mong nó trả"
+    },
+    {
+        "": "605",
+        "original": "nu9 bản real day royyy",
+        "normalized": "nu9 bản real đây rồi"
+    },
+    {
+        "": "606",
+        "original": "ly tsua big size trong tủ lạnh đâu rùii",
+        "normalized": "ly trà sữa big size trong tủ lạnh đâu rồi"
+    },
+    {
+        "": "607",
+        "original": "T moq nhỏ kia hiểu =))",
+        "normalized": "Tôi mong nhỏ kia hiểu =))"
+    },
+    {
+        "": "608",
+        "original": "Tui zứi chị 2 cách nhao 7 tủi, đại chiến 800 hiệp mũi ngài:33333",
+        "normalized": "Tôi với chị 2 cách nhau 7 tuổi, đại chiến 800 hiệp mỗi ngày:33334"
+    },
+    {
+        "": "609",
+        "original": "Bởi z, balo lúc nào cũng có cái túi bóng để dành khi mua hàng ở ck, tiện bỏ rác vào",
+        "normalized": "Bởi vậy, balo lúc nào cũng có cái túi bóng để dành khi mua hàng ở chợ, tiện bỏ rác vào"
+    },
+    {
+        "": "610",
+        "original": "Vui ông nội t chứ vui",
+        "normalized": "Vui ông nội tôi chứ vui"
+    },
+    {
+        "": "611",
+        "original": "đáng lẽ xưa a nên đi du học ở TĐ mơid đúng",
+        "normalized": "đáng lẽ xưa anh nên đi du học ở TĐ mới đúng"
+    },
+    {
+        "": "612",
+        "original": "k biết ai mới là sếp haha",
+        "normalized": "không biết ai mới là sếp haha"
+    },
+    {
+        "": "613",
+        "original": "Này thì cướp vợ a này",
+        "normalized": "Này thì cướp vợ anh này"
+    },
+    {
+        "": "614",
+        "original": "là chốt 9h tối ngày 9.5 có kết quả cho cuộn phim về cuộc đời agency đúng ko ad",
+        "normalized": "là chốt 9h tối ngày 9.5 có kết quả cho cuộn phim về cuộc đời agency đúng không ad"
+    },
+    {
+        "": "615",
+        "original": "Thế nhà mình ngược lại , ng ko ăn đc mỡ là mẹ ck mình, ngồi bữa ăn bới bới , cầm đũa gảy hết đĩa thịt lại đến bát dưa sung, dưa sung cũng gảy bung bét , chả hiểu tìm quả sung gắn vàng hay gì ,nhìn khó chịu .",
+        "normalized": "Thế nhà mình ngược lại , người không ăn được mỡ là mẹ chồng mình, ngồi bữa ăn bới bới , cầm đũa gảy hết đĩa thịt lại đến bát dưa sung, dưa sung cũng gảy bung bét , chả hiểu tìm quả sung gắn vàng hay gì ,nhìn khó chịu ."
+    },
+    {
+        "": "616",
+        "original": "trong khi đó nó vẫn up ảnh lên wall và rep cmt của ngk rất lẹ nha  và r đó, chiện kết thúc lãng xẹt z à  hơn 3 năm r và t vẫn khs nó lại hành động nt, đúng là đời  hồi đó ngày nào t cũm nghĩ về chiện với nó xong ngồi khóc bù lu bù loa, đầu t còn hiện ra 7749 kịch bản yêu - hận giữa bb với nhau, và nvc tất nhiên là nhỏ đó với t r  giờ nhiều lúc nghĩ lại vẫn buồn á nma hok có khóc nữa, mà từ lúc ấy t cũm k dám thân thiết với ai như t từng thân với nó nữa r, sợ ma",
+        "normalized": "trong khi đó nó vẫn up ảnh lên wall và rep cmt của người khác rất lẹ nha  và rồi đó, chuyện kết thúc lãng xẹt vậy à  hơn 3 năm rồi và tôi vẫn khs nó lại hành động nt, đúng là đời  hồi đó ngày nào tôi cũng nghĩ về chuyện với nó xong ngồi khóc bù lu bù loa, đầu tôi còn hiện ra 7749 kịch bản yêu - hận giữa bạn bè với nhau, và nvc tất nhiên là nhỏ đó với tôi rồi  giờ nhiều lúc nghĩ lại vẫn buồn á nhưng mà không có khóc nữa, mà từ lúc ấy tôi cũng không dám thân thiết với ai như tôi từng thân với nó nữa rồi, sợ ma"
+    },
+    {
+        "": "617",
+        "original": "Chính tôi  đang nghèo kiết xác nhưng k dám hỏi nợ",
+        "normalized": "Chính tôi  đang nghèo kiết xác nhưng không dám hỏi nợ"
+    },
+    {
+        "": "618",
+        "original": "Lo mà học sang năm mà thi đại học nựa nhé  anh bé",
+        "normalized": "Lo mà học sang năm thi đại học nữa nhé anh bé"
+    },
+    {
+        "": "619",
+        "original": "đã kẹt gặp mấy cha xe lớn lane xe máy đi hàng 3 bố ai mà ko kẹt cho được .",
+        "normalized": "đã kẹt gặp mấy cha xe lớn lane xe máy đi hàng 3 bố ai mà không kẹt cho được ."
+    },
+    {
+        "": "620",
+        "original": "chứ k phải im lặng, block, cạch mặt họ đời đời hả?",
+        "normalized": "chứ không phải im lặng, block, cạch mặt họ đời đời hả?"
+    },
+    {
+        "": "621",
+        "original": "Ở VN mà như này t đi vội",
+        "normalized": "Ở VN mà như này tôi đi vội"
+    },
+    {
+        "": "622",
+        "original": "Ai bảo 2 ông nhẹ nhàng quá lmj :)))",
+        "normalized": "Ai bảo 2 ông nhẹ nhàng quá làm gì :)))"
+    },
+    {
+        "": "623",
+        "original": "Nè câu của b nè",
+        "normalized": "Nè câu của bạn nè"
+    },
+    {
+        "": "624",
+        "original": "tụi mình đi cast thôy pà ơiii, thời tới rrrrr",
+        "normalized": "tụi mình đi cast thôi bà ơi, thời tới rồi"
+    },
+    {
+        "": "625",
+        "original": "sạch thì chưa thấy đc cái đỡ bị mùi",
+        "normalized": "sạch thì chưa thấy được cái đỡ bị mùi"
+    },
+    {
+        "": "626",
+        "original": "mình nhịn ăn sáng cũng ko đói và thấy ko có vde gì cả.",
+        "normalized": "mình nhịn ăn sáng cũng không đói và thấy không có vấn đề gì cả."
+    },
+    {
+        "": "627",
+        "original": "cho mượn tiền đi du lịt",
+        "normalized": "cho mượn tiền đi du lịch"
+    },
+    {
+        "": "628",
+        "original": "Fb t không thấy cno spoil phim Lật mặt nk mà nhìn quá trời lật mặt memes",
+        "normalized": "Fb tôi không thấy chúng nó spoil phim Lật mặt nhưng mà nhìn quá trời lật mặt memes"
+    },
+    {
+        "": "629",
+        "original": "tnay thì chỉ có ng hèng mới sống thảnh thơi",
+        "normalized": "thế này thì chỉ có người hèn mới sống thảnh thơi"
+    },
+    {
+        "": "630",
+        "original": "bà lướt trúng bh chưa",
+        "normalized": "bà lướt trúng bao giờ chưa"
+    },
+    {
+        "": "631",
+        "original": "dạo này e phúc hậu gke",
+        "normalized": "dạo này em phúc hậu ghê"
+    },
+    {
+        "": "632",
+        "original": "t kiếm đc 5tr ở tuổi 16 là móc két mẹ",
+        "normalized": "tôi kiếm đc 5tr ở tuổi 16 là móc két mẹ"
+    },
+    {
+        "": "633",
+        "original": "K nhận Xin lỗi, giảng hòa bạn nhé",
+        "normalized": "Không nhận Xin lỗi, giảng hòa bạn nhé"
+    },
+    {
+        "": "634",
+        "original": "Quan trọng là mặt ng ta xinh",
+        "normalized": "Quan trọng là mặt người ta xinh"
+    },
+    {
+        "": "635",
+        "original": "dzô đi cho ổn định",
+        "normalized": "vô đi cho ổn định"
+    },
+    {
+        "": "636",
+        "original": "Năm nay ko có măng cụt chín ăn rồi",
+        "normalized": "Năm nay không có măng cụt chín ăn rồi"
+    },
+    {
+        "": "637",
+        "original": "bà nch vui qá bữa nào mình đi chơi hong",
+        "normalized": "bà nói chuyện vui quá bữa nào mình đi chơi không"
+    },
+    {
+        "": "638",
+        "original": "Bạn nên nhìn nhận lại bản thân để tự sữa chữa trước rồi vk ck ngồi lại tâm sự với nhau",
+        "normalized": "Bạn nên nhìn nhận lại bản thân để tự sữa chữa trước rồi vợ chồng ngồi lại tâm sự với nhau"
+    },
+    {
+        "": "639",
+        "original": "mấy năm trc mất điện nguyên ngày",
+        "normalized": "mấy năm trước mất điện nguyên ngày"
+    },
+    {
+        "": "640",
+        "original": "cứ bình tĩnh :)) 2 năm nữa chị mới gặp ny chị ",
+        "normalized": "cứ bình tĩnh :)) 2 năm nữa chị mới gặp người yêu chị"
+    },
+    {
+        "": "641",
+        "original": "Không có khók nha, nín nha",
+        "normalized": "Không có khóc nha, nín nha"
+    },
+    {
+        "": "642",
+        "original": "em vô nằm vs chị e như đr xg ngợp nước đau lòng",
+        "normalized": "em vô nằm với chị em như đr xong ngợp nước đau lòng"
+    },
+    {
+        "": "643",
+        "original": "gì vậy trđuuu 30t mà trung niên gì, t 35t gòi còn đi gắp thú bông với ck iu nè huhu ~",
+        "normalized": "gì vậy trđuuu 30t mà trung niên gì, tôi 35t rồi còn đi gắp thú bông với chồng yêu nè huhu ~"
+    },
+    {
+        "": "644",
+        "original": "Bảo bạn vô duyên vì bạn ăn mà bới bới chứ đâu phải vì bạn ko ăn thịt mỡ",
+        "normalized": "Bảo bạn vô duyên vì bạn ăn mà bới bới chứ đâu phải vì bạn không ăn thịt mỡ"
+    },
+    {
+        "": "645",
+        "original": "em còn thở dc hok z",
+        "normalized": "em còn thở được không vậy"
+    },
+    {
+        "": "646",
+        "original": ", ko bit cmt sao",
+        "normalized": ", không biết cmt sao"
+    },
+    {
+        "": "647",
+        "original": "người ae có làm dc việc k :))",
+        "normalized": "người anh em có làm được việc không :))"
+    },
+    {
+        "": "648",
+        "original": "Em chưa có kinh nghiệm, không uống được bia rượu, không biết cty mình lấy mấy điểm thanh lịch ạ??",
+        "normalized": "Em chưa có kinh nghiệm, không uống được bia rượu, không biết công ty mình lấy mấy điểm thanh lịch ạ??"
+    },
+    {
+        "": "649",
+        "original": "khỏi phải diễn nữa đy",
+        "normalized": "khỏi phải diễn nữa đi"
+    },
+    {
+        "": "650",
+        "original": "Đàn ông thích ngọt đôi khi thích được tán dương nên mình nghĩ bạn nên mở lòng với ck, ck làm gì tốt thì mình khen với động viên ck cũng chẳng mất mát gì mà ổng lại vui ổng sẽ thấy được người bạn đời mình ủng hộ",
+        "normalized": "Đàn ông thích ngọt đôi khi thích được tán dương nên mình nghĩ bạn nên mở lòng với chồng, chồng làm gì tốt thì mình khen với động viên chồng cũng chẳng mất mát gì mà ổng lại vui ổng sẽ thấy được người bạn đời mình ủng hộ"
+    },
+    {
+        "": "651",
+        "original": "Màu cam nâu supernova của Bobbi Brown vs màu đỏ ruby của Kiko ạ Ọ v Ọ",
+        "normalized": "Màu cam nâu supernova của Bobbi Brown với màu đỏ ruby của Kiko ạ Ọ v Ọ"
+    },
+    {
+        "": "652",
+        "original": "TLD vừa trong trẻo vừa ngọt ngào nhìn một lần liền ấn tượng đẹp điên đảo tâm hồn kao aaaaaa",
+        "normalized": "TLD vừa trong trẻo vừa ngọt ngào nhìn một lần liền ấn tượng đẹp điên đảo tâm hồn tao aaaaaa"
+    },
+    {
+        "": "653",
+        "original": "AE mà sao kỳ vậy.",
+        "normalized": "Anh em mà sao kỳ vậy."
+    },
+    {
+        "": "654",
+        "original": "ủa đcm vừa mới nói về cái này phải 0 anh",
+        "normalized": "ủa đcm vừa mới nói về cái này phải không anh"
+    },
+    {
+        "": "655",
+        "original": "tóc khong nhuộm nhưng vẫn cháy, ý là cháy nắng",
+        "normalized": "tóc không nhuộm nhưng vẫn cháy, ý là cháy nắng"
+    },
+    {
+        "": "656",
+        "original": "đang đói định đi ăn, nguyên chiếc xe du lịch tấp zô t muốn xĩu ngang",
+        "normalized": "đang đói định đi ăn, nguyên chiếc xe du lịch tấp vô tôi muốn xỉu ngang"
+    },
+    {
+        "": "657",
+        "original": "Hết nốt hôm nay unfollow page thứ 3 dô lại",
+        "normalized": "Hết nốt hôm nay unfollow page thứ 3 vô lại"
+    },
+    {
+        "": "658",
+        "original": "bạn ren mà hiểu đựt",
+        "normalized": "bạn ren mà hiểu được"
+    },
+    {
+        "": "659",
+        "original": "Đừng có hỏi em thít hay khum mà cứ tặng luôn đi nhá:))",
+        "normalized": "Đừng có hỏi em thích hay không mà cứ tặng luôn đi nhá:))"
+    },
+    {
+        "": "660",
+        "original": "Tẩy trang đi xem sao, chứ tin ko dc các muội muội trung",
+        "normalized": "Tẩy trang đi xem sao, chứ tin không được các muội muội trung"
+    },
+    {
+        "": "661",
+        "original": "Tôi đọc xong tôi cũng cừi nà xaoooo",
+        "normalized": "Tôi đọc xong tôi cũng cười là sao"
+    },
+    {
+        "": "662",
+        "original": "Hợp lý mà t có thấy Kiên sai chỗ nào đâu.",
+        "normalized": "Hợp lý mà tôi có thấy Kiên sai chỗ nào đâu."
+    },
+    {
+        "": "663",
+        "original": "tr bữa t đi vs bạn t, đang ngồi hiu hiu tnhien nó nói t là có 1 cặp nam nữ đang...nhau ở dưới hồ, mà t thấy tht nha, bà kia còn nhún nhún nữa",
+        "normalized": "trời bữa tôi đi với bạn tôi, đang ngồi hiu hiu tự nhiên nó nói tôi là có 1 cặp nam nữ đang...nhau ở dưới hồ, mà tôi thấy thật nha, bà kia còn nhún nhún nữa"
+    },
+    {
+        "": "664",
+        "original": ":)))))))) mốt mời lun zk ck cho đủ nhé",
+        "normalized": ":)))))))) mốt mời luôn vợ chồng cho đủ nhé"
+    },
+    {
+        "": "665",
+        "original": "địx cmm xẩy ra ở một làng quê bbr",
+        "normalized": "địt cmm xảy ra ở một làng quê bbr"
+    },
+    {
+        "": "666",
+        "original": "Eo thề ,em lướt vội mà em tưởng chị khum đó   , xin lỗi vì sợ vô tri này nhưng mà cho em há há đã",
+        "normalized": "Eo thề ,em lướt vội mà em tưởng chị không đó   , xin lỗi vì sự vô tri này nhưng mà cho em há há đã"
+    },
+    {
+        "": "667",
+        "original": "hồi c1 hay c2 t học thêm anh văn cũm có đề như này xong t vt về nhỏ \"bạn thân\" thiệc nè",
+        "normalized": "hồi c1 hay c2 tôi học thêm anh văn cũng có đề như này xong tôi viết về nhỏ \"bạn thân\" thiệt nè"
+    },
+    {
+        "": "668",
+        "original": "Ko ăn được thì né luôn đi",
+        "normalized": "Không ăn được thì né luôn đi"
+    },
+    {
+        "": "669",
+        "original": "Còn lên cả bản tin tv, t còn nói con nít giờ ghê vậy, nghĩ ra được trò này luôn",
+        "normalized": "Còn lên cả bản tin tv, tôi còn nói con nít giờ ghê vậy, nghĩ ra được trò này luôn"
+    },
+    {
+        "": "670",
+        "original": "các mẹ iu của mthu với",
+        "normalized": "các mẹ yêu của mthu với"
+    },
+    {
+        "": "671",
+        "original": "Tối nay ông tài xế sẽ đem luật sư qua nhà ad và live tream khóc lóc coi ai lòi trỹ",
+        "normalized": "Tối nay ông tài xế sẽ đem luật sư qua nhà ad và live tream khóc lóc coi ai lòi trĩ"
+    },
+    {
+        "": "672",
+        "original": "vừa phẻi thoi để chú còn thở",
+        "normalized": "vừa phải thôi để chú còn thở"
+    },
+    {
+        "": "673",
+        "original": "t có ny rồi ae",
+        "normalized": "tôi có người yêu rồi anh em"
+    },
+    {
+        "": "674",
+        "original": "chỉ muốn bít zay thui",
+        "normalized": "chỉ muốn biết vậy thôi"
+    },
+    {
+        "": "675",
+        "original": "khéo ít nữa đi qsu đợt 2 được khuyến mãi bạn này nhở :)))",
+        "normalized": "khéo ít nữa đi quân sự đợt 2 được khuyến mãi bạn này nhỉ :)))"
+    },
+    {
+        "": "676",
+        "original": "Hs mình thích mấy túi kiểu này lắm",
+        "normalized": "Học sinh mình thích mấy túi kiểu này lắm"
+    },
+    {
+        "": "677",
+        "original": "Ờ cứ nằm như này được sinh nhật to, cái đứa quét nhà rửa bát thì chả bao h được tổ chức",
+        "normalized": "Ờ cứ nằm như này được sinh nhật to, cái đứa quét nhà rửa bát thì chả bao giờ được tổ chức"
+    },
+    {
+        "": "678",
+        "original": "ny m chưa ra đời đâu",
+        "normalized": "người yêu mày chưa ra đời đâu"
+    },
+    {
+        "": "679",
+        "original": "thà vậy, bao nguyên phòng muốn làm j làm, nói chuyện ồn cũng đc, sợ mấy ng mất lịch sự, bjk mình ko bjk ng ta",
+        "normalized": "thà vậy, bao nguyên phòng muốn làm gì làm, nói chuyện ồn cũng được, sợ mấy người mất lịch sự, biết mình không biết người ta"
+    },
+    {
+        "": "680",
+        "original": "Hồi nhỏ sốt, bà má đem cái nhiệt kế ra chọt zô nách kèm thêm 1 câu, lỡ có bể thì xách đít mà chạy ra xa nhen con, nghe muốn hết sốt",
+        "normalized": "Hồi nhỏ sốt, bà má đem cái nhiệt kế ra chọt vô nách kèm thêm 1 câu, lỡ có bể thì xách đít mà chạy ra xa nhen con, nghe muốn hết sốt"
+    },
+    {
+        "": "681",
+        "original": "Chơi 77 49 lần ko qua màn 2....tứkkkk",
+        "normalized": "Chơi 77 49 lần không qua màn 2....tức"
+    },
+    {
+        "": "682",
+        "original": "May quá cũng hướng nội nhưng trong vai ng mượn tiền",
+        "normalized": "May quá cũng hướng nội nhưng trong vai người mượn tiền"
+    },
+    {
+        "": "683",
+        "original": "Mình cũng giải thích với ny mình 2 tiếng đồng hồ",
+        "normalized": "Mình cũng giải thích với người yêu mình 2 tiếng đồng hồ"
+    },
+    {
+        "": "684",
+        "original": "iu anh đi anh không đòi quà",
+        "normalized": "yêu anh đi anh không đòi quà"
+    },
+    {
+        "": "685",
+        "original": "Làm t tưởng tượng đến cảnh ck t mặc legging =))) chân dài phải biết",
+        "normalized": "Làm tôi tưởng tượng đến cảnh chồng tôi mặc legging =))) chân dài phải biết"
+    },
+    {
+        "": "686",
+        "original": "Mình củm thíc những người tử tế",
+        "normalized": "Mình cũng thích những người tử tế"
+    },
+    {
+        "": "687",
+        "original": "đọc xong het dám thức khuya",
+        "normalized": "đọc xong hết dám thức khuya"
+    },
+    {
+        "": "688",
+        "original": "Thực tế đấy, dành cho các bạn cgai, tình yêu thì mơ mộng được còn hôn nhân gia đình thì phải nhìn thực tế",
+        "normalized": "Thực tế đấy, dành cho các bạn con gái, tình yêu thì mơ mộng được còn hôn nhân gia đình thì phải nhìn thực tế"
+    },
+    {
+        "": "689",
+        "original": "làm cho mn trầm trồ",
+        "normalized": "làm cho mọi người trầm trồ"
+    },
+    {
+        "": "690",
+        "original": "Đừng bới bới như Gà thế E ạ, hãy tia miếng nào rồi gắp",
+        "normalized": "Đừng bới bới như Gà thế em ạ, hãy tia miếng nào rồi gắp"
+    },
+    {
+        "": "691",
+        "original": "K đẹp bằng họ chơ em khẳng định sau khi lấy gấy là nhông em đẹp hơn thật á chơ đùa",
+        "normalized": "Không đẹp bằng họ chứ em khẳng định sau khi lấy ráy là trông em đẹp hơn thật á chứ đùa"
+    },
+    {
+        "": "692",
+        "original": "Bớt làm trò hề đy mắ:)",
+        "normalized": "Bớt làm trò hề đi má:)"
+    },
+    {
+        "": "693",
+        "original": "Thôi còn hơn a ấy đi date với bạn nhưng a ấy để hình bạn gái a ấy làm hình nền đt",
+        "normalized": "Thôi còn hơn anh ấy đi date với bạn nhưng anh ấy để hình bạn gái anh ấy làm hình nền điện thoại"
+    },
+    {
+        "": "694",
+        "original": "Chưa biết tn đã lao vào đánh người thế thật ko chấp nhận đc",
+        "normalized": "Chưa biết thế nào đã lao vào đánh người thế thật không chấp nhận được"
+    },
+    {
+        "": "695",
+        "original": "Mk cũng có quần này mà mặc vs áo croptop ms đẹp",
+        "normalized": "Mình cũng có quần này mà mặc với áo croptop mới đẹp"
+    },
+    {
+        "": "696",
+        "original": "có loại ko phải thả vào phần nước phía sau mà là thả thẳng vào bồn cầu chờ 2 tiếng r xả trôi á, cái đó sạch cặn vàng thật nhe, sạch bất ngờ",
+        "normalized": "có loại không phải thả vào phần nước phía sau mà là thả thẳng vào bồn cầu chờ 2 tiếng rồi xả trôi á, cái đó sạch cặn vàng thật nhe, sạch bất ngờ"
+    },
+    {
+        "": "697",
+        "original": "Pay xuống gầm giường trốn thôiiiii",
+        "normalized": "Bay xuống gầm giường trốn thôi"
+    },
+    {
+        "": "698",
+        "original": "Hình ảnh t đâu đó, trong h thi mn làm bài t ngồi móc gương ra kẻ mắt :))",
+        "normalized": "Hình ảnh tôi đâu đó, trong giờ thi mọi người làm bài tôi ngồi móc gương ra kẻ mắt :))"
+    },
+    {
+        "": "699",
+        "original": "phải tn của m ko cháu",
+        "normalized": "phải tin nhắn của m không cháu"
+    },
+    {
+        "": "700",
+        "original": "tui đọc truyện chữa lành y chang z nè",
+        "normalized": "tui đọc truyện chữa lành y chang vậy nè"
+    },
+    {
+        "": "701",
+        "original": "công ziệc bộn bề quá dô cho có cảm giác gảnk nè",
+        "normalized": "công việc bộn bề quá vô cho có cảm giác rản nè"
+    },
+    {
+        "": "702",
+        "original": "Cố nhịn mà không đc",
+        "normalized": "Cố nhịn mà không được"
+    },
+    {
+        "": "703",
+        "original": "Cũng k giao tiếp với ai , giao tiếp vs AI , k lướt mạng , k hobbie , thỉnh thoảng đi bộ ",
+        "normalized": "Cũng không giao tiếp với ai , giao tiếp với AI , không lướt mạng , không hobbie , thỉnh thoảng đi bộ"
+    },
+    {
+        "": "704",
+        "original": "bóng dáng ai đó nhẹ nhàg vụt qua nơi đây",
+        "normalized": "bóng dáng ai đó nhẹ nhàng vụt qua nơi đây"
+    },
+    {
+        "": "705",
+        "original": "Này ms gọi là hào quang rực rỡ chữ nhảy",
+        "normalized": "Này mới gọi là hào quang rực rỡ chứ nhỉ"
+    },
+    {
+        "": "706",
+        "original": ":))) Hồi sv đợt đang bán hàng mấy má đó vô truyền đạo Chúa trời gì đó cho t.",
+        "normalized": ":))) Hồi sinh viên đợt đang bán hàng mấy má đó vô truyền đạo Chúa trời gì đó cho tôi."
+    },
+    {
+        "": "707",
+        "original": "hic đúng rùi hok kể mấy lần do mình lơ đãng tự gây hoạ thì ra đường mình cũm gặp nhìu ng tốt lắm hok hỉu sao tốt vs tin ng dữ v lun đó!",
+        "normalized": "hic đúng rồi không kể mấy lần do mình lơ đãng tự gây hoạ thì ra đường mình cũng gặp nhiều người tốt lắm không hiểu sao tốt với tin người dữ vậy luôn đó!"
+    },
+    {
+        "": "708",
+        "original": "hồi xưa mỗi đứa làm ra mỗi kq, rồi mỗi đứa trong đám trình bày ý làm rồi đứa nào cũng sai",
+        "normalized": "hồi xưa mỗi đứa làm ra mỗi kết quả, rồi mỗi đứa trong đám trình bày ý làm rồi đứa nào cũng sai"
+    },
+    {
+        "": "709",
+        "original": "Rồi nhà có 2 em bé nghe ko,t chuẩn bị ăn nhiều hơn con nhá, cứ chuẩn bị tinh thần",
+        "normalized": "Rồi nhà có 2 em bé nghe không,tôi chuẩn bị ăn nhiều hơn con nhá, cứ chuẩn bị tinh thần"
+    },
+    {
+        "": "710",
+        "original": "Sao hay ra zẻ qá",
+        "normalized": "Sao hay ra vẻ quá"
+    },
+    {
+        "": "711",
+        "original": "Càng ngày càng dô tri :)))",
+        "normalized": "Càng ngày càng vô tri :)))"
+    },
+    {
+        "": "712",
+        "original": "Ghét của nao trời cho của nấy đó nha",
+        "normalized": "Ghét của nào trời cho của nấy đó nha"
+    },
+    {
+        "": "713",
+        "original": "roi có kêu xe về ko hay đi bộ kk.",
+        "normalized": "rồi có kêu xe về không hay đi bộ kk."
+    },
+    {
+        "": "714",
+        "original": "Tài xế đuổi xuống là lúc ko có lơ xe ở đó rồi, có ông lơ xe ở đó có khi ông lại rụng hết hàng bắp :))",
+        "normalized": "Tài xế đuổi xuống là lúc không có lơ xe ở đó rồi, có ông lơ xe ở đó có khi ông lại rụng hết hàng bắp :))"
+    },
+    {
+        "": "715",
+        "original": "má voice nhiều hơn tn hay s á tính zoom ra đọc mà thấy đa số là voice k",
+        "normalized": "má voice nhiều hơn tin nhắn hay sao á tính zoom ra đọc mà thấy đa số là voice không"
+    },
+    {
+        "": "716",
+        "original": "Hẹn b kiếp sau chứ kiếp này b hãm quá cơ",
+        "normalized": "Hẹn bạn kiếp sau chứ kiếp này bạn hãm quá cơ"
+    },
+    {
+        "": "717",
+        "original": "Từ lúc lấy vk e thấy a đẹp hơn trước ý  ạ",
+        "normalized": "Từ lúc lấy vợ em thấy anh đẹp hơn trước ý ạ"
+    },
+    {
+        "": "718",
+        "original": "Kiểm tra ko làm đc bài cx ko lo",
+        "normalized": "Kiểm tra không làm được bài cũng không lo"
+    },
+    {
+        "": "719",
+        "original": "với t con gái cứ phải là đầy đặn có da có thịt mới thích ngực k cần to nhưng mông má ổn là đc",
+        "normalized": "với tôi con gái cứ phải là đầy đặn có da có thịt mới thích ngực không cần to nhưng mông má ổn là được"
+    },
+    {
+        "": "720",
+        "original": "nên zô hong chị tại cả ưu và nhược em đều có :)))",
+        "normalized": "nên vô không chị tại cả ưu và nhược em đều có :)))"
+    },
+    {
+        "": "721",
+        "original": "Gòi mày yếu đuối chưa",
+        "normalized": "Rồi mày yếu đuối chưa"
+    },
+    {
+        "": "722",
+        "original": "Có cái địa chỉ qtrg nhất thỳ làm mờ.",
+        "normalized": "Có cái địa chỉ quan trọng nhất thì làm mờ."
+    },
+    {
+        "": "723",
+        "original": "Ăn đc đó nhưng ải chỉa nha",
+        "normalized": "Ăn được đó nhưng ỉa chảy nha"
+    },
+    {
+        "": "724",
+        "original": "Dương Mịch nhìn xưa trong trẻo qaaaaa",
+        "normalized": "Dương Mịch nhìn xưa trong trẻo qúa"
+    },
+    {
+        "": "725",
+        "original": "Thôi đàm phán vs ông ý đẻ thêm 2 đứa nữa chia cho công bằng",
+        "normalized": "Thôi đàm phán với ông ấy đẻ thêm 2 đứa nữa chia cho công bằng"
+    },
+    {
+        "": "726",
+        "original": "Bởi cái tánh dễ mất tập trung và cuốn theo những câu chuyện phi lý nên ko bh ra quán cafe làm việc hay học bài",
+        "normalized": "Bởi cái tánh dễ mất tập trung và cuốn theo những câu chuyện phi lý nên không bao giờ ra quán cafe làm việc hay học bài"
+    },
+    {
+        "": "727",
+        "original": "T định lưu lại nhưng đ' biết bh ms dùng tới nên thôi",
+        "normalized": "Tôi định lưu lại nhưng đéo biết bao giờ mới dùng tới nên thôi"
+    },
+    {
+        "": "728",
+        "original": "nhiều lúc cx thấy tốn:))",
+        "normalized": "nhiều lúc cũng thấy tốn:))"
+    },
+    {
+        "": "729",
+        "original": "mỗi lần trực cờ đỏ bên khối 12 rất chán vì mấy a cj chăm quá ko có ra ngoài nhìu cx hog vi phạm cho mik bắt nữa",
+        "normalized": "mỗi lần trực cờ đỏ bên khối 12 rất chán vì mấy anh chị chăm quá không có ra ngoài nhiều cũng không vi phạm cho mình bắt nữa"
+    },
+    {
+        "": "730",
+        "original": "hai chị e cũng ko hết nổi bịch này",
+        "normalized": "hai chị em cũng không hết nổi bịch này"
+    },
+    {
+        "": "731",
+        "original": "T thấy kết cục kiểu này ở mấy truyện H lắm á :))",
+        "normalized": "Tôi thấy kết cục kiểu này ở mấy truyện H lắm á :))"
+    },
+    {
+        "": "732",
+        "original": "cái này đợi nó diễn gần hết concert mới hết run lag và nhìn rõ  kinh nghiệm để đời",
+        "normalized": "cái này đợi nó diễn gần hết concert mới hết rung lag và nhìn rõ  kinh nghiệm để đời"
+    },
+    {
+        "": "733",
+        "original": "Tất nhiên là có òi",
+        "normalized": "Tất nhiên là có rồi"
+    },
+    {
+        "": "734",
+        "original": "Ai kêu đẻ con chi r than",
+        "normalized": "Ai kêu đẻ con chi rồi than"
+    },
+    {
+        "": "735",
+        "original": "Đề nghị BHL Việt Nam cho VAR vào cuộc, ý em là VẢ luôn ạ",
+        "normalized": "Đề nghị Ban Huấn Luyện Việt Nam cho VAR vào cuộc, ý em là VẢ luôn ạ"
+    },
+    {
+        "": "736",
+        "original": "e cũng k biết ăn thịt mỡ :(((",
+        "normalized": "em cũng không biết ăn thịt mỡ :((("
+    },
+    {
+        "": "737",
+        "original": "nhìn là bt diễn chứ thg nào jk chộm cầm xe mấy trăm triệu jk trộm",
+        "normalized": "nhìn là biết diễn chứ thằng nào đi trộm cầm xe mấy trăm triệu đi trộm"
+    },
+    {
+        "": "738",
+        "original": "Ừ đúng là bới là hành động vô cùng xấu luôn đấy b à ;))",
+        "normalized": "Ừ đúng là bới là hành động vô cùng xấu luôn đấy bạn à ;))"
+    },
+    {
+        "": "739",
+        "original": "Tại trc chị sv thuê nhà mình nói dzị",
+        "normalized": "Tại trước chị sinh viên thuê nhà mình nói vậy"
+    },
+    {
+        "": "740",
+        "original": "bị ngta ăn hết thạch nhưng vẫn nghĩ là do họ quá đói nên quên xin phép",
+        "normalized": "bị người ta ăn hết thạch nhưng vẫn nghĩ là do họ quá đói nên quên xin phép"
+    },
+    {
+        "": "741",
+        "original": "thử hỏi có bền được ko :))))",
+        "normalized": "thử hỏi có bền được không :))))"
+    },
+    {
+        "": "742",
+        "original": "Người tàn ác rồi cuối cùng cũng sẽ bị khịa thôi, hông có gì phải bất ngờ hết á",
+        "normalized": "Người tàn ác rồi cuối cùng cũng sẽ bị khịa thôi, không có gì phải bất ngờ hết á"
+    },
+    {
+        "": "743",
+        "original": "Tự hào thiệt sự, đặc biệt là tinh thần ss chiến đấu của các bạn trong quân đội",
+        "normalized": "Tự hào thiệt sự, đặc biệt là tinh thần sẵn sàng chiến đấu của các bạn trong quân đội"
+    },
+    {
+        "": "744",
+        "original": "ny mình đang học mẫu giáo..",
+        "normalized": "người yêu mình đang học mẫu giáo.."
+    },
+    {
+        "": "745",
+        "original": "Về đây thằng bạn   của e nó có thể tặng chị đứa con khác",
+        "normalized": "Về đây thằng bạn   của em nó có thể tặng chị đứa con khác"
+    },
+    {
+        "": "746",
+        "original": "Vào coi xem gđ nhà nó đang thế nào?",
+        "normalized": "Vào coi xem gia đình nhà nó đang thế nào?"
+    },
+    {
+        "": "747",
+        "original": "Chị cũng mới có 31 thui à",
+        "normalized": "Chị cũng mới có 31 thôi à"
+    },
+    {
+        "": "748",
+        "original": "này h cấp 3 là phổ biến r 1 phần giúp hs làm quen vs dạng ktra tốt nghiệp nên là kì thi hay ktra nào cx sẽ làm như này để hs đỡ bỡ ngỡ",
+        "normalized": "này giờ cấp 3 là phổ biến rồi 1 phần giúp học sinh làm quen với dạng kiểm tra tốt nghiệp nên là kì thi hay kiểm tra nào cũng sẽ làm như này để học sinh đỡ bỡ ngỡ"
+    },
+    {
+        "": "749",
+        "original": "h mí bik ý nghĩa sâu xa của tác phẩm ngày xưa học =))))))))))",
+        "normalized": "giờ mới biết ý nghĩa sâu xa của tác phẩm ngày xưa học =))))))))))"
+    },
+    {
+        "": "750",
+        "original": "Ủa cả phụ huynh 2 bên đều thú nhận là con bé đó 0 có bầu mà, sao ông BisquickNinja còn kêu OP đi test DNA nữa",
+        "normalized": "Ủa cả phụ huynh 2 bên đều thú nhận là con bé đó không có bầu mà, sao ông BisquickNinja còn kêu OP đi test DNA nữa"
+    },
+    {
+        "": "751",
+        "original": "plan khởi nghiệp xiên bửn đến đâu rồi",
+        "normalized": "plan khởi nghiệp xiên bẩn đến đâu rồi"
+    },
+    {
+        "": "752",
+        "original": "gd và  em chúc em luôn  mạnh khỏe để  dat  thành  tich  hơn  nữa  em nhé",
+        "normalized": "gia đình và em chúc em luôn mạnh khỏe để đạt thành tích hơn nữa em nhé"
+    },
+    {
+        "": "753",
+        "original": "noi the thi chiu roi",
+        "normalized": "nói thế thì chịu rồi"
+    },
+    {
+        "": "754",
+        "original": "a áo đỏ hên gheee",
+        "normalized": "anh áo đỏ hên ghê"
+    },
+    {
+        "": "755",
+        "original": "năm đó mình ngồi học mà thấy phản lực bay điếc cà óc, sống 10 mấy năm ở tp Vinh  chưa bh thấy tập máy bay luôn",
+        "normalized": "năm đó mình ngồi học mà thấy phản lực bay điếc cả óc, sống 10 mấy năm ở thành phố Vinh  chưa bao giờ thấy tập máy bay luôn"
+    },
+    {
+        "": "756",
+        "original": "Sao kg im lặng giải quyết, cứ lên mạng kể làm gì có hiệp sĩ nào giúp thay đổi đc đâu",
+        "normalized": "Sao không im lặng giải quyết, cứ lên mạng kể làm gì có hiệp sĩ nào giúp thay đổi đượcđâu"
+    },
+    {
+        "": "757",
+        "original": "Mở mồm xin nó đôi giày còn bị chưởi thêm",
+        "normalized": "Mở mồm xin nó đôi giày còn bị chửi thêm"
+    },
+    {
+        "": "758",
+        "original": "Ra vẻ yangho vậy thôi chứ thực ra có võ gì đâu =))))",
+        "normalized": "Ra vẻ giang hồ vậy thôi chứ thực ra có võ gì đâu =))))"
+    },
+    {
+        "": "759",
+        "original": "Hay ko bằng hên kkk  chủ tiệm",
+        "normalized": "Hay không bằng hên kkk  chủ tiệm"
+    },
+    {
+        "": "760",
+        "original": "Gạ kèo ai ko gạ đi gạ đông lào là dở rồi =))",
+        "normalized": "Gạ kèo ai không gạ đi gạ đông lào là dở rồi =))"
+    },
+    {
+        "": "761",
+        "original": "t thấy m đâu đây",
+        "normalized": "tao thấy mày đâu đây"
+    },
+    {
+        "": "762",
+        "original": "Vđv đã thua thì đừng gạ kèo hlv",
+        "normalized": "Vận động viên đã thua thì đừng gạ kèo huấn luyện viên"
+    },
+    {
+        "": "763",
+        "original": "Đối với cô ny mà chấp nhận nghe m chỉnh ở nhà thì ra ngoài đường cổ sẽ không bao giờ chửi m.",
+        "normalized": "Đối với cô người yêu mà chấp nhận nghe mày chỉnh ở nhà thì ra ngoài đường cổ sẽ không bao giờ chửi mày."
+    },
+    {
+        "": "764",
+        "original": "cầm băng đóng nhau dc 0",
+        "normalized": "cầm băng đóng nhau được 0"
+    },
+    {
+        "": "765",
+        "original": "Sao giống cảnh ngộ toi thế này",
+        "normalized": "Sao giống cảnh ngộ tôi thế này"
+    },
+    {
+        "": "766",
+        "original": "làm này cho mày ăn nhoo",
+        "normalized": "làm này cho mày ăn nha"
+    },
+    {
+        "": "767",
+        "original": "Chúc 2 bạn thật hp nha",
+        "normalized": "Chúc 2 bạn thật hạnh phúc nha"
+    },
+    {
+        "": "768",
+        "original": "32 củ vẫn chưa có người iu, đọc xong đoạn thoại này thấy lạc quan yêu đời hẳn",
+        "normalized": "32 củ vẫn chưa có người yêu, đọc xong đoạn thoại này thấy lạc quan yêu đời hẳn"
+    },
+    {
+        "": "769",
+        "original": "Đã bao lâu b chưa về nhà??",
+        "normalized": "Đã bao lâu bạn chưa về nhà??"
+    },
+    {
+        "": "770",
+        "original": "Đấy là y đúng người r đấy",
+        "normalized": "Đấy là y đúng người rồi đấy"
+    },
+    {
+        "": "771",
+        "original": "Mứt zại zí cậu ba quá chời",
+        "normalized": "Mất dạy với cậu ba quá trời"
+    },
+    {
+        "": "772",
+        "original": "Hêhh team màu trắng điểm dnh",
+        "normalized": "Hêhh team màu trắng điểm danh"
+    },
+    {
+        "": "773",
+        "original": "Nhưng bả xinh sẵn r :))))))",
+        "normalized": "Nhưng bả xinh sẵn rồi :))))))"
+    },
+    {
+        "": "774",
+        "original": "eo của toii vs bạn như hai ae sinh đôi",
+        "normalized": "eo của tôi với bạn như hai anh em sinh đôi"
+    },
+    {
+        "": "775",
+        "original": "Thui đi zai tập trung mà học đi",
+        "normalized": "Thui đi trai tập trung mà học đi"
+    },
+    {
+        "": "776",
+        "original": "Mặt vs nước da, gánh body còng lưng",
+        "normalized": "Mặt với nước da, gánh body còng lưng"
+    },
+    {
+        "": "777",
+        "original": "c ăn cái này bh chưa",
+        "normalized": "cậu ăn cái này bao giờ chưa"
+    },
+    {
+        "": "778",
+        "original": "Chưa cần nghĩ ra drama đã thấy mình toàn vấn đề con thì khóc k dỗ đc, mẹ thì mệt, k biết cái kiếp khổ này bao giờ dừng lại nữa",
+        "normalized": "Chưa cần nghĩ ra drama đã thấy mình toàn vấn đề con thì khóc không dỗ được, mẹ thì mệt, không biết cái kiếp khổ này bao giờ dừng lại nữa"
+    },
+    {
+        "": "779",
+        "original": "bùn là bùn một chút hoy.",
+        "normalized": "buồn là buồn một chút thôi."
+    },
+    {
+        "": "780",
+        "original": "Có ô dù thích nhỉ mai đi chùa nhờ phật tổ phù hộ ms đc",
+        "normalized": "Có ô dù thích nhỉ mai đi chùa nhờ phật tổ phù hộ mới được"
+    },
+    {
+        "": "781",
+        "original": "aw mình cũng mới ngã xe, lúc ngã mn cũng xúm ra dựng xe với dìu mình vào lề đường.",
+        "normalized": "aw mình cũng mới ngã xe, lúc ngã mọi người cũng xúm ra dựng xe với dìu mình vào lề đường."
+    },
+    {
+        "": "782",
+        "original": "lên đây hẹn hò cho nó lãng manh ik ạ",
+        "normalized": "lên đây hẹn hò cho nó lãng mạng đi ạ"
+    },
+    {
+        "": "783",
+        "original": "chị em lưu ý nhâ",
+        "normalized": "chị em lưu ý nha"
+    },
+    {
+        "": "784",
+        "original": "Tôi muốn đc ăn măng cụt chín ạ",
+        "normalized": "Tôi muốn được ăn măng cụt chín ạ"
+    },
+    {
+        "": "785",
+        "original": "đã bảo bao lần r",
+        "normalized": "đã bảo bao lần rồi"
+    },
+    {
+        "": "786",
+        "original": "Ngóng chờ tiết mục của đội Ella nhưng lại ko đã như mong đợi, 4 người vừa dắt tay nhau vừa hát nhịp nhàng, an toàn nên tiết mục không gây ấn tượng, ko lôi cuốn, ko điểm nhấn",
+        "normalized": "Ngóng chờ tiết mục của đội Ella nhưng lại không đã như mong đợi, 4 người vừa dắt tay nhau vừa hát nhịp nhàng, an toàn nên tiết mục không gây ấn tượng, không lôi cuốn, không điểm nhấn"
+    },
+    {
+        "": "787",
+        "original": "đũa tre làm được khong ạk",
+        "normalized": "đũa tre làm được không ạ"
+    },
+    {
+        "": "788",
+        "original": "Tối về e mới khóc",
+        "normalized": "Tối về em mới khóc"
+    },
+    {
+        "": "789",
+        "original": "tr nó ám tới trên đây sợ thiệt chớ :)))",
+        "normalized": "trời nó ám tới trên đây sợ thiệt chứ :)))"
+    },
+    {
+        "": "790",
+        "original": "Khó zậy mà cũng nghĩ ra",
+        "normalized": "Khó vậy mà cũng nghĩ ra"
+    },
+    {
+        "": "791",
+        "original": "Đòi cx đ trả mới điên chứ",
+        "normalized": "Đòi cũng đéo trả mới điên chứ"
+    },
+    {
+        "": "792",
+        "original": "ăn gì lấy cho nàyy",
+        "normalized": "ăn gì lấy cho này"
+    },
+    {
+        "": "793",
+        "original": "e có làm gig sai đâu chời",
+        "normalized": "em có làm gì sai đâu trời"
+    },
+    {
+        "": "794",
+        "original": "ủa ghêk quá nè :(((",
+        "normalized": "ủa ghê quá nè :((("
+    },
+    {
+        "": "795",
+        "original": "Cơ hội này tốt wa phại tranh thủ hoii",
+        "normalized": "Cơ hội này tốt quá phải tranh thủ thôi"
+    },
+    {
+        "": "796",
+        "original": "Đỏ đậm, bóng nhẹ, trôi lớp bóng thì còn màu đỏ eo ơi xink lém",
+        "normalized": "Đỏ đậm, bóng nhẹ, trôi lớp bóng thì còn màu đỏ eo ơi xinh lắm"
+    },
+    {
+        "": "797",
+        "original": "Ủa mng mình coi trên website của mangoTV sao hôm nay ko thấy ? Mng cho mình link xem với",
+        "normalized": "Ủa mọi người mình coi trên website của mangoTV sao hôm nay không thấy ? Mọi người cho mình link xem với"
+    },
+    {
+        "": "798",
+        "original": "Chả nhẽ lại khai mỏ ngày hnay!",
+        "normalized": "Chả nhẽ lại khai mỏ ngày hôm nay!"
+    },
+    {
+        "": "799",
+        "original": "iem hạnh puck wa' nà ck iu ưiiii",
+        "normalized": "em hạnh phúc quá nè chồng yêu ơi"
+    },
+    {
+        "": "800",
+        "original": "gần nhà kao mà kao ch ik lần nào chỉ có ik ngang:))",
+        "normalized": "gần nhà tao mà tao chưa đi lần nào chỉ có đi ngang:))"
+    },
+    {
+        "": "801",
+        "original": "Giống tui,có lần dô bàn ngồi đợi r mà bị đuổi ra vì bàn đó muốn chú người quen dô ngồi lúc đó cũng biết đứng lên dề chứ kh thấy ai quen bt hết",
+        "normalized": "Giống tui,có lần vô bàn ngồi đợi rồi mà bị đuổi ra vì bàn đó muốn chú người quen vô ngồi lúc đó cũng biết đứng lên về chứ không thấy ai quen biết hết"
+    },
+    {
+        "": "802",
+        "original": "Ella vocal đỉnh ko phải bàn",
+        "normalized": "Ella vocal đỉnh không phải bàn"
+    },
+    {
+        "": "803",
+        "original": "K biết sạch k nhưng vẫn dùng",
+        "normalized": "Không biết sạch không nhưng vẫn dùng"
+    },
+    {
+        "": "804",
+        "original": "Tầm tiểu học chưa phát sinh sở thích với xoài xanh đc thử trường thcs và đặc biệt thpt xem",
+        "normalized": "Tầm tiểu học chưa phát sinh sở thích với xoài xanh được thử trường thcs và đặc biệt thpt xem"
+    },
+    {
+        "": "805",
+        "original": "Tui chỉ đc v khi apply làm sale cho vay :))",
+        "normalized": "Tui chỉ được vậy khi apply làm sale cho vay :))"
+    },
+    {
+        "": "806",
+        "original": "Ơ thế ko đúng à, kể cả có ăn ít  gặp bme t là biến",
+        "normalized": "Ơ thế không đúng à, kể cả có ăn ít  gặp ba mẹ tôi là biến"
+    },
+    {
+        "": "807",
+        "original": "Đc như vậy thì tốt",
+        "normalized": "Được như vậy thì tốt"
+    },
+    {
+        "": "808",
+        "original": "cậu lấy vk  đi cho béo",
+        "normalized": "cậu lấy vợ  đi cho béo"
+    },
+    {
+        "": "809",
+        "original": "mai kia nó phổ biến như bên tq thì chỉ có kiến thức ms kiếm đc thôi :)))",
+        "normalized": "mai kia nó phổ biến như bên tq thì chỉ có kiến thức mới kiếm được thôi :)))"
+    },
+    {
+        "": "810",
+        "original": ":))))) toy đã thấy kì nghỉ của bạn",
+        "normalized": ":))))) tôi đã thấy kì nghỉ của bạn"
+    },
+    {
+        "": "811",
+        "original": "Xin lỗi vì cứ nhìn thấy a là cười r",
+        "normalized": "Xin lỗi vì cứ nhìn thấy anh là cười rồi"
+    },
+    {
+        "": "812",
+        "original": "Chiếc blog này chứa nhiều sự đáng iu, hoan nghênh mn ghé thăm",
+        "normalized": "Chiếc blog này chứa nhiều sự đáng yêu, hoan nghênh mọi người ghé thăm"
+    },
+    {
+        "": "813",
+        "original": "Sin lõi zì đã cừi :))",
+        "normalized": "Xin lỗi vì đã cười :))"
+    },
+    {
+        "": "814",
+        "original": "Gì cũng bìn tĩnh đừng khox nhé",
+        "normalized": "Gì cũng bình tĩnh đừng khóc nhé"
+    },
+    {
+        "": "815",
+        "original": "Có thì cũng ít lắm và chỉ dành cho ng cực kỳ may mắn thôi",
+        "normalized": "Có thì cũng ít lắm và chỉ dành cho người cực kỳ may mắn thôi"
+    },
+    {
+        "": "816",
+        "original": "làng a toàn nhân tài",
+        "normalized": "làng anh toàn nhân tài"
+    },
+    {
+        "": "817",
+        "original": "Còn tốt chán, nó k đổ từa lưa mà đổ có kết cấu, hất vào ăn tiếp",
+        "normalized": "Còn tốt chán, nó không đổ từa lưa mà đổ có kết cấu, hất vào ăn tiếp"
+    },
+    {
+        "": "818",
+        "original": "Tại ch đủ tầm qtrong thoii=))",
+        "normalized": "Tại chưa đủ tầm quan trọng thôi=)"
+    },
+    {
+        "": "819",
+        "original": "Chánh Hưng e có quần này a thử hơm",
+        "normalized": "Chánh Hưng em có quần này anh thử không"
+    },
+    {
+        "": "820",
+        "original": "cái energy này chỉ có bà thui",
+        "normalized": "cái energy này chỉ có bà thôi"
+    },
+    {
+        "": "821",
+        "original": "Gì vậy trời,fan mong ngóng idol lấy đc vk ck tốt sống hạnh phúc mà giờ lại nghe tin idol li hôn",
+        "normalized": "Gì vậy trời,fan mong ngóng idol lấy được vợ chồng tốt sống hạnh phúc mà giờ lại nghe tin idol li hôn"
+    },
+    {
+        "": "822",
+        "original": "cùng đi mát xa hoii nàoooo",
+        "normalized": "cùng đi mát xa thôi nào"
+    },
+    {
+        "": "823",
+        "original": "Đang tuổi ăn tuổi lớn bị bắt lấy ck",
+        "normalized": "Đang tuổi ăn tuổi lớn bị bắt lấy chồng"
+    },
+    {
+        "": "824",
+        "original": "sao để bị chụp z",
+        "normalized": "sao để bị chụp vậy"
+    },
+    {
+        "": "825",
+        "original": "quãi chưởng cái cap kkk",
+        "normalized": "vãi chưởng cái cap kkk"
+    },
+    {
+        "": "826",
+        "original": "Moẹ con trai gì gầy như que thế :))",
+        "normalized": "Mẹ con trai gì gầy như que thế :))"
+    },
+    {
+        "": "827",
+        "original": "Thôi chuyển sang mãng cầu cũng đc để măng cụt chín t còn có cái bán, con t còn có măng mà ăn",
+        "normalized": "Thôi chuyển sang mãng cầu cũng được để măng cụt chín tôi còn có cái bán, con tôi còn có măng mà ăn"
+    },
+    {
+        "": "828",
+        "original": "E có chục cái trong tủ",
+        "normalized": "Em có chục cái trong tủ"
+    },
+    {
+        "": "829",
+        "original": "thế r ngta quên luôn hay sao ấy, 2-3-4 năm chắc lâu quá bị quên",
+        "normalized": "thế rồi người ta quên luôn hay sao ấy, 2-3-4 năm chắc lâu quá bị quên"
+    },
+    {
+        "": "830",
+        "original": "H mình mới được thông não khái niệm của hôn nhân",
+        "normalized": "Giờ mình mới được thông não khái niệm của hôn nhân"
+    },
+    {
+        "": "831",
+        "original": "Iu quá mà k có ai để công khai",
+        "normalized": "Yêu quá mà không có ai để công khai"
+    },
+    {
+        "": "832",
+        "original": "ai chia line mà ác độk quá z, để chị tao high note =))))))))))))))))))))))))",
+        "normalized": "ai chia line mà ác độc quá vậy, để chị tao high note =))))))))))))))))))))))))"
+    },
+    {
+        "": "833",
+        "original": "Nghĩ mãi mới dám ib đòi 1 lần mà nửa năm rồi người ta đọc nhưng ko rep",
+        "normalized": "Nghĩ mãi mới dám ib đòi 1 lần mà nửa năm rồi người ta đọc nhưng không rep"
+    },
+    {
+        "": "834",
+        "original": "làm sao để biết có lịch tổ chức để tgia vậy ạ",
+        "normalized": "làm sao để biết có lịch tổ chức để tham gia vậy ạ"
+    },
+    {
+        "": "835",
+        "original": "Chạy khét lẹt à ép xe ô tô luôn chứ ko đùa",
+        "normalized": "Chạy khét lẹt à ép xe ô tô luôn chứ không đùa"
+    },
+    {
+        "": "836",
+        "original": "mua mụt con dìa nuôi i chị=))",
+        "normalized": "mua một con về nuôi đi chị=))"
+    },
+    {
+        "": "837",
+        "original": "bạn thấy tôy có chiển zọng làm diễn viên Disney hôk vậy?",
+        "normalized": "bạn thấy tôi có triển vọng làm diễn viên Disney không vậy?"
+    },
+    {
+        "": "838",
+        "original": "trúk mừnk vanentin nka vk ju, m4~j m4~j ju 3m",
+        "normalized": "chúc mừng vanentin nha vợ yêu, mãi mãi yêu em"
+    },
+    {
+        "": "839",
+        "original": "Mấy ng vay tiền mình còn hướng nội hơn mình, mình nhắn tin đòi nhưng ko trả lời gì hết  chắc sợ mình giận",
+        "normalized": "Mấy người vay tiền mình còn hướng nội hơn mình, mình nhắn tin đòi nhưng không trả lời gì hết  chắc sợ mình giận"
+    },
+    {
+        "": "840",
+        "original": "trc khi lấy vk 65 kg sau khi lấy vk gần 85 kg",
+        "normalized": "trước khi lấy vợ 65 kg sau khi lấy vợ gần 85 kg"
+    },
+    {
+        "": "841",
+        "original": "Ko phải tôi nhé tôi 32t rồi chủ tus còn phải gọi tôi bằng a đấy",
+        "normalized": "Không phải tôi nhé tôi 32t rồi chủ tus còn phải gọi tôi bằng anh đấy"
+    },
+    {
+        "": "842",
+        "original": "Chưa chăc vào hôn nhân sẽ hp nhé.",
+        "normalized": "Chưa chắc vào hôn nhân sẽ hạnh phúc nhé."
+    },
+    {
+        "": "843",
+        "original": "khum biết giờ mình mượn tiền bạn cóa k ?",
+        "normalized": "không biết giờ mình mượn tiền bạn có không ?"
+    },
+    {
+        "": "844",
+        "original": "Cuối năm chs ném bóng nước xé bảng tên vs ôm nhau lầm cuối vì bị đúp",
+        "normalized": "Cuối năm chơi ném bóng nước xé bảng tên với ôm nhau lầm cuối vì bị đúp"
+    },
+    {
+        "": "845",
+        "original": "Đây nhà t ngay tân sơn nhất, năm đấy đg lon ton chạy xe đi ôn thi các kiểu với hay đi khuya trên xa lộ đại hàn lẫn quốc lộ 1a.",
+        "normalized": "Đây nhà tôi ngay tân sơn nhất, năm đấy đang lon ton chạy xe đi ôn thi các kiểu với hay đi khuya trên xa lộ đại hàn lẫn quốc lộ 1a."
+    },
+    {
+        "": "846",
+        "original": "Mình vn củng vậy kakka",
+        "normalized": "Mình vn cũng vậy kakka"
+    },
+    {
+        "": "847",
+        "original": "Tín hiệu zũ trụ, ngày 1 này t cũng đi coi concert nè, ở nước ngoài và là lần đầu tiên t đi, lúc đầu cũng phân vân suy nghĩ có nên đi ko do cũng hơi sợ nhưng sau thì t vẫn chốt vé, đặt phòng các thứ xong r.",
+        "normalized": "Tín hiệu vũ trụ, ngày 1 này tôi cũng đi coi concert nè, ở nước ngoài và là lần đầu tiên tôi đi, lúc đầu cũng phân vân suy nghĩ có nên đi không do cũng hơi sợ nhưng sau thì tôi vẫn chốt vé, đặt phòng các thứ xong rồi."
+    },
+    {
+        "": "848",
+        "original": "bị mượn tiền nhiều lần k thể lấy lại",
+        "normalized": "bị mượn tiền nhiều lần không thể lấy lại"
+    },
+    {
+        "": "849",
+        "original": "Tao còn chỉ ước gì ck tao chịu đi làm lương 5tr cũng đc",
+        "normalized": "Tao còn chỉ ước gì chồng tao chịu đi làm lương 5tr cũng được"
+    },
+    {
+        "": "850",
+        "original": "ít nhất thì cả 2 đứa cũng đủ thân để giãy bày",
+        "normalized": "ít nhất thì cả 2 đứa cũng đủ thân để giãi bày"
+    },
+    {
+        "": "851",
+        "original": "4 tháng tuổi tụi này bíc phán xét cả thiên hạ, tô đỏ bản thân gùi đó ?!",
+        "normalized": "4 tháng tuổi tụi này biết phán xét cả thiên hạ, tô đỏ bản thân rồi đó ?!"
+    },
+    {
+        "": "852",
+        "original": "ông áo đen chắc hỏn lọn lắm:)",
+        "normalized": "ông áo đen chắc hoảng loạn lắm:)"
+    },
+    {
+        "": "853",
+        "original": "Giống ce mh  mượn vài triệu thì lúc nào nó cũng sẵn còn hơn thì làm j có  toàn nghèo như nhau",
+        "normalized": "Giống chị em mình mượn vài triệu thì lúc nào nó cũng sẵn còn hơn thì làm gì có toàn nghèo như nhau"
+    },
+    {
+        "": "854",
+        "original": "Mình có vài người bạn, ai cx tốt nhưng trước sinh nhật bất kì đứa nào thì cx có cuộc cãi vã",
+        "normalized": "Mình có vài người bạn, ai cũng tốt nhưng trước sinh nhật bất kì đứa nào thì cũng có cuộc cãi vã"
+    },
+    {
+        "": "855",
+        "original": "Có cả mực Bento t mới ăn hôm qua",
+        "normalized": "Có cả mực Bento tôi mới ăn hôm qua"
+    },
+    {
+        "": "856",
+        "original": "các em thấy toi như lào",
+        "normalized": "các em thấy tôi như nào"
+    },
+    {
+        "": "857",
+        "original": "mai mặc thử váy body k ck",
+        "normalized": "mai mặc thử váy body không chị"
+    },
+    {
+        "": "858",
+        "original": "Sắp tới sn mình r liệu b có thể tặng tôi đôi giày đbong mớiii",
+        "normalized": "sắp tới sinh nhật mình rồi liệu bạn có thể tặng tôi đôi giày đá bóng mới"
+    },
+    {
+        "": "859",
+        "original": "có nhà khong mà phải sang nhà nó ngủ",
+        "normalized": "có nhà không mà phải sang nhà nó ngủ"
+    },
+    {
+        "": "860",
+        "original": "Nghe bảo phần sau đáng xợ lắm huhu",
+        "normalized": "Nghe bảo phần sau đáng sợ lắm huhu"
+    },
+    {
+        "": "861",
+        "original": "Trương Gia Nghê đẹp vãiiii",
+        "normalized": "Trương Gia Nghê đẹp vãi"
+    },
+    {
+        "": "862",
+        "original": "thứ t với m cần ngay lúc này",
+        "normalized": "thứ tao với mày cần ngay lúc này"
+    },
+    {
+        "": "863",
+        "original": "Đả ngu còn tỏ ra nguy hiểm",
+        "normalized": "Đã ngu còn tỏ ra nguy hiểm"
+    },
+    {
+        "": "864",
+        "original": "Vậy nên chúng ta là miếng ghép hoàn hảo của nhao",
+        "normalized": "Vậy nên chúng ta là miếng ghép hoàn hảo của nhau"
+    },
+    {
+        "": "865",
+        "original": "T thấy bọn đài nhiều người cụng mang túi này",
+        "normalized": "Tôi thấy bọn đài nhiều người cũng mang túi này"
+    },
+    {
+        "": "866",
+        "original": "Phấn đấu 3 năm lương từ 5tr lên 6tr5 thì ko biết bao giờ mới được hơn 10tr để lấy vợ đây :(((",
+        "normalized": "Phấn đấu 3 năm lương từ 5tr lên 6tr5 thì không biết bao giờ mới được hơn 10tr để lấy vợ đây :((("
+    },
+    {
+        "": "867",
+        "original": "Còn tui mới có 1 đứa thoi",
+        "normalized": "Còn tui mới có 1 đứa thôi"
+    },
+    {
+        "": "868",
+        "original": "Nhớ show quá, xem lại thoyyyy",
+        "normalized": "Nhớ show quá, xem lại thôi"
+    },
+    {
+        "": "869",
+        "original": "bạn môi của m đâu r",
+        "normalized": "bạn môi của mày đâu rồi"
+    },
+    {
+        "": "870",
+        "original": "k hỉu s lọt vào tai luôn á:))",
+        "normalized": "không hiểu sao lọt vào tai luôn á:))"
+    },
+    {
+        "": "871",
+        "original": "chất son thì kh xịn lắm với phải chịu khó tán kĩ nhưng được quả màu đánh lên chỉ có vibe dì ghẻ ák độk =))",
+        "normalized": "chất son thì không xịn lắm với phải chịu khó tán kĩ nhưng được quả màu đánh lên chỉ có vibe dì ghẻ ác độc =))"
+    },
+    {
+        "": "872",
+        "original": "Tôi vứt hoa xuống đất òa khók rồi pỏ chại sau đó là 7749 cảnh khók dưới mưa sâu đíp",
+        "normalized": "Tôi vứt hoa xuống đất òa khóc rồi bỏ chạy sau đó là 7749 cảnh khóc dưới mưa sâu đíp"
+    },
+    {
+        "": "873",
+        "original": "Đây còn đi đòi nợ hộ lão ck",
+        "normalized": "Đây còn đi đòi nợ hộ lão chồng"
+    },
+    {
+        "": "874",
+        "original": "nó đang lím đuýt :>",
+        "normalized": "nó đang liếm đít :>"
+    },
+    {
+        "": "875",
+        "original": "sao bằng thiếu 0.5 đậu đh hhaha",
+        "normalized": "sao bằng thiếu 0.5 đậu đại học hhaha"
+    },
+    {
+        "": "876",
+        "original": "rồi làm sao để đi concert của bà z ?",
+        "normalized": "rồi làm sao để đi concert của bà vậy ?"
+    },
+    {
+        "": "877",
+        "original": "rồi có dô nổi hok nếu có xin thánh nhân truyền lại",
+        "normalized": "rồi có vô nổi không nếu có xin thánh nhân truyền lại"
+    },
+    {
+        "": "878",
+        "original": "en nói xè lơ :)))",
+        "normalized": "ăn nói xà lơ :)))"
+    },
+    {
+        "": "879",
+        "original": "Mẹ lại quỳ xg xin lỗi sớm",
+        "normalized": "Mẹ lại quỳ xuống xin lỗi sớm"
+    },
+    {
+        "": "880",
+        "original": "Cây mãng cầu ở nhà tới công chiện với chuỵ",
+        "normalized": "Cây mãng cầu ở nhà tới công chuyện với chị"
+    },
+    {
+        "": "881",
+        "original": "tr ơi cx muốn dính lắm mà sợ ngt đục",
+        "normalized": "trời ơi cũng muốn dính lắm mà sợ người ta đục"
+    },
+    {
+        "": "882",
+        "original": "Thường mấy thằng mà vay Fe thì thường là mấy thằng ko có khả năng chi trả là nhiều nên tụi nó thường rất manh động và liều mạng",
+        "normalized": "Thường mấy thằng mà vay Fe thì thường là mấy thằng không có khả năng chi trả là nhiều nên tụi nó thường rất manh động và liều mạng"
+    },
+    {
+        "": "883",
+        "original": " e, phần thưởng quá xứng đáng cho sự nỗ lực ko ngừng",
+        "normalized": "em, phần thưởng quá xứng đáng cho sự nỗ lực không ngừng"
+    },
+    {
+        "": "884",
+        "original": "Gà said \" Ba năm tam tai không bằng năm này thái tuế, sao mâm nào cũng có tui hết dẫy\" :)))",
+        "normalized": "Gà nói \" Ba năm tam tai không bằng năm này thái tuế, sao mâm nào cũng có tui hết vậy\" :)))"
+    },
+    {
+        "": "885",
+        "original": "Nhất định phải có cviec riêng, để tiền muốn tiêu j thì tiêu, nhưng chuyện gđ, con cái ck k biết là dở r",
+        "normalized": "Nhất định phải có công việc riêng, để tiền muốn tiêu gì thì tiêu, nhưng chuyện gia đình, con cái chồng không biết là dở rồi"
+    },
+    {
+        "": "886",
+        "original": "cách đổi đời mau chóng mặt zậy lun nè",
+        "normalized": "cách đổi đời mau chóng mặt vậy luôn nè"
+    },
+    {
+        "": "887",
+        "original": "ấy cu e tôi cũng xịt hơi cay đấy nhưng k trộm",
+        "normalized": "ấy cu em tôi cũng xịt hơi cay đấy nhưng không trộm"
+    },
+    {
+        "": "888",
+        "original": "Dạo này thấy bố có vẻ tăng cân, \" mới uống ké  hết gần hộp sữa bột của Đậu thui \"",
+        "normalized": "Dạo này thấy bố có vẻ tăng cân, \" mới uống ké  hết gần hộp sữa bột của Đậu thôi \""
+    },
+    {
+        "": "889",
+        "original": "may quá lương mình 11 tr .",
+        "normalized": "may quá lương mình 11 triệu ."
+    },
+    {
+        "": "890",
+        "original": "mạnh dạn lên bạn êi",
+        "normalized": "mạnh dạn lên bạn ơi"
+    },
+    {
+        "": "891",
+        "original": "sàn vsinh 7 sắc cầu vồng",
+        "normalized": "sàn vệ sinh 7 sắc cầu vồng"
+    },
+    {
+        "": "892",
+        "original": "Hqua cầm 2$ mua bịch tráng trộn cùng ly hồng trà",
+        "normalized": "Hôm qua cầm 2$ mua bịch tráng trộn cùng ly hồng trà"
+    },
+    {
+        "": "893",
+        "original": "cbi tinh thần về quê thui tình yêu ơi",
+        "normalized": "chuẩn bị tinh thần về quê thôi tình yêu ơi"
+    },
+    {
+        "": "894",
+        "original": "phải lách luật mới đc",
+        "normalized": "phải lách luật mới được"
+    },
+    {
+        "": "895",
+        "original": "Th chọn 2 anh cho đỡ đao đầu",
+        "normalized": "Thôi chọn 2 anh cho đỡ đau đầu"
+    },
+    {
+        "": "896",
+        "original": "ngày hôm đó toi đã cừi thậc nhiều :)))))))))",
+        "normalized": "ngày hôm đó tôi đã cười thật nhiều :)))))))))"
+    },
+    {
+        "": "897",
+        "original": "Thằng óc chó này trông con thế ah.",
+        "normalized": "Thằng óc chó này trông con thế à."
+    },
+    {
+        "": "898",
+        "original": "Sao trước ce tung hô bảo chỉ cần lấy giống tây cho con đẹp là được, giờ thì khóc thuê làm gì",
+        "normalized": "Sao trước chị em tung hô bảo chỉ cần lấy giống tây cho con đẹp là được, giờ thì khóc thuê làm gì"
+    },
+    {
+        "": "899",
+        "original": "tui ngồi tui nghe thuiii",
+        "normalized": "tui ngồi tui nghe thôi"
+    },
+    {
+        "": "900",
+        "original": "Chỉ chờ có ai phốt j thì đc dịp tạo nghiệp k à",
+        "normalized": "Chỉ chờ có ai phốt gì thì được dịp tạo nghiệp không à"
+    },
+    {
+        "": "901",
+        "original": "Việc c cần làm không phải là thay đổi bản thân mà là đổi chồng",
+        "normalized": "Việc cậu cần làm không phải là thay đổi bản thân mà là đổi chồng"
+    },
+    {
+        "": "902",
+        "original": "Đề nghị đại xứ quán có công dân của mình căn nhắc dân mình chấp hành nghiêm chỉnh luật lệ giao thông ở VN.",
+        "normalized": "Đề nghị đại sứ quán có công dân của mình căn nhắc dân mình chấp hành nghiêm chỉnh luật lệ giao thông ở VN."
+    },
+    {
+        "": "903",
+        "original": "nghe chưa, dô tri hưởng thái bình",
+        "normalized": "nghe chưa, vô tri hưởng thái bình"
+    },
+    {
+        "": "904",
+        "original": "600k/kg phải t thì t cũng nguyện gọt 24h/ ngày nha",
+        "normalized": "600k/kg phải tôi thì tôi cũng nguyện gọt 24h/ ngày nha"
+    },
+    {
+        "": "905",
+        "original": "Kể ra cấp 3 vọc hóa banh nhiệt kế, thủy ngân bay vô mắt chứ k vô tay có tính là may k ta",
+        "normalized": "Kể ra cấp 3 vọc hóa banh nhiệt kế, thủy ngân bay vô mắt chứ không vô tay có tính là may không ta"
+    },
+    {
+        "": "906",
+        "original": "nghĩ về tương lai, cuộc sống sau nài",
+        "normalized": "nghĩ về tương lai, cuộc sống sau này"
+    },
+    {
+        "": "907",
+        "original": "Theo như kịch bản thì ny e đang học lớp 7",
+        "normalized": "Theo như kịch bản thì người yêu em đang học lớp 7"
+    },
+    {
+        "": "908",
+        "original": "sao nói như e vs c nói v",
+        "normalized": "sao nói như em với chị nói vậy"
+    },
+    {
+        "": "909",
+        "original": "19 tuổi tao đang vác vòi bơm btong ở nhà máy Xi Măng.!",
+        "normalized": "19 tuổi tao đang vác vòi bơm bê tông ở nhà máy Xi Măng.!"
+    },
+    {
+        "": "910",
+        "original": "Thì t nghĩ hầu hết đều kiểu nhan khống , t cx k ngoại lệ nên k thíc mấy kỉu phim này, chứ kể phim có tệ mấy mà tuấn nam mỹ nữ đóng t vẫn coi hahhaha",
+        "normalized": "Thì tôi nghĩ hầu hết đều kiểu nhan khống , tôi cũng không ngoại lệ nên không thích mấy kiểu phim này, chứ kể phim có tệ mấy mà tuấn nam mỹ nữ đóng tôi vẫn coi hahhaha"
+    },
+    {
+        "": "911",
+        "original": "Xe ôm bây giờ toàn cử nhân với thạc sĩ, ghê thặc",
+        "normalized": "Xe ôm bây giờ toàn cử nhân với thạc sĩ, ghê thật"
+    },
+    {
+        "": "912",
+        "original": "Vd nếu còn nhà thuê , sống ở tp , con cái học hành , thì 10tr là lương mặt bằng chung của các em ra trường rồi ấy , nuôi bản thân ko đủ lấy đâu ra lập gia đình .",
+        "normalized": "Ví dụ nếu còn nhà thuê , sống ở thành phố , con cái học hành , thì 10tr là lương mặt bằng chung của các em ra trường rồi ấy , nuôi bản thân không đủ lấy đâu ra lập gia đình ."
+    },
+    {
+        "": "913",
+        "original": "câu chuyện muôn thuở ko bao h thực hịn",
+        "normalized": "câu chuyện muôn thuở không bao giờ thực hiện"
+    },
+    {
+        "": "914",
+        "original": "nữa r cringe từ lúc mới ra đến giờ vẫn cringe",
+        "normalized": "nữa rồi cringe từ lúc mới ra đến giờ vẫn cringe"
+    },
+    {
+        "": "915",
+        "original": "so sánh khập khiễng thế thì chịu r",
+        "normalized": "so sánh khập khiễng thế thì chịu rồi"
+    },
+    {
+        "": "916",
+        "original": "em làm đc r nè ăn ngon lắm á",
+        "normalized": "em làm được rồi nè ăn ngon lắm á"
+    },
+    {
+        "": "917",
+        "original": "xai trính tã kó síu hoy mừ làm thí gke",
+        "normalized": "sai chính tả có xíu thôi mà làm thấy ghê"
+    },
+    {
+        "": "918",
+        "original": "hơi ngột ngạt chút nma được cái kh tốn tiền=))",
+        "normalized": "hơi ngột ngạt chút nhưng mà được cái không tốn tiền=))"
+    },
+    {
+        "": "919",
+        "original": "Z mà nhiều đứa lộn quài",
+        "normalized": "Vậy mà nhiều đứa lộn hoài"
+    },
+    {
+        "": "920",
+        "original": "hạt giống của vn thật tuyệt vời e xứng đáng nhận những phần quà của mạnh thường quân.",
+        "normalized": "hạt giống của vn thật tuyệt vời em xứng đáng nhận những phần quà của mạnh thường quân."
+    },
+    {
+        "": "921",
+        "original": "gớm qaa mà đòi mua",
+        "normalized": "gớm quá mà đòi mua"
+    },
+    {
+        "": "922",
+        "original": "T hồi xưa c1 đến trái bàng tụi t còn quất hết huống chi xoài",
+        "normalized": "Tôi hồi xưa c1 đến trái bàng tụi tôi còn quất hết huống chi xoài"
+    },
+    {
+        "": "923",
+        "original": "chủ thớt bịa chuyện đúng ko ng bình thường sao đạt nổi ts trình độ ni",
+        "normalized": "chủ thớt bịa chuyện đúng không người bình thường sao đạt nổi tới trình độ này"
+    },
+    {
+        "": "924",
+        "original": "kể ra kiếm đc chỗ mass ntn t đi mass suốt hí hí",
+        "normalized": "kể ra kiếm được chỗ mass ntn tôi đi mass suốt hí hí"
+    },
+    {
+        "": "925",
+        "original": "Chứ em t mà bới bới t cũng mắng cho ý ",
+        "normalized": "Chứ em tôi mà bới bới tôi cũng mắng cho ý"
+    },
+    {
+        "": "926",
+        "original": "Đồng cảm vs các nhân vật ở trên 1 thứ là bây h mình mà dừng lại, mình ko biết mình sẽ làm gì, khi mà cv nó là 1 phần trong cs của mình r",
+        "normalized": "Đồng cảm với các nhân vật ở trên 1 thứ là bây giờ mình mà dừng lại, mình không biết mình sẽ làm gì, khi mà công việc nó là 1 phần trong cuộc sống của mình rồi"
+    },
+    {
+        "": "927",
+        "original": "Còn mình biết thế thì k ăn món đó nữa",
+        "normalized": "Còn mình biết thế thì không ăn món đó nữa"
+    },
+    {
+        "": "928",
+        "original": "Mắc gì bới lên thế  đọc tiêu đề ko t tưởng ko ăn được thịt mỡ là vô duyên",
+        "normalized": "Mắc gì bới lên thế  đọc tiêu đề không tôi tưởng không ăn được thịt mỡ là vô duyên"
+    },
+    {
+        "": "929",
+        "original": "công thức nước sốt gồm những j ạ",
+        "normalized": "công thức nước sốt gồm những gì ạ"
+    },
+    {
+        "": "930",
+        "original": "ai dẫy tên j dẫy",
+        "normalized": "ai vậy tên gì vậy"
+    },
+    {
+        "": "931",
+        "original": "Ra đường giờ camera đầy đương , nên làm gì cũng cần dùng não ,,, chia buồn vs gia đình a zai lại phải quỳ lạy van xin rồi",
+        "normalized": "Ra đường giờ camera đầy đường , nên làm gì cũng cần dùng não ,,, chia buồn với gia đình anh trai lại phải quỳ lạy van xin rồi"
+    },
+    {
+        "": "932",
+        "original": "Tao hn ăn vs đi ship trà mãng cầu",
+        "normalized": "Tao hn ăn với đi ship trà mãng cầu"
+    },
+    {
+        "": "933",
+        "original": "Pkl k xấu ý thức mới xấu",
+        "normalized": "Pkl không xấu ý thức mới xấu"
+    },
+    {
+        "": "934",
+        "original": "Cần gì tưởng tưởng bởi vì toi đi tới đâu drama theo tới đó :))))",
+        "normalized": "Cần gì tưởng tưởng bởi vì tôi đi tới đâu drama theo tới đó :))))"
+    },
+    {
+        "": "935",
+        "original": "Hồi đó khách hỏi e đều trả lời em có 2 bé, còn giờ em sẵn sàng trả lời một câu chính xác thì không ai hỏi",
+        "normalized": "Hồi đó khách hỏi em đều trả lời em có 2 bé, còn giờ em sẵn sàng trả lời một câu chính xác thì không ai hỏi"
+    },
+    {
+        "": "936",
+        "original": "Sao tui thích nét của Ngô Thiến quá, nhìn hiền hiền đáng yêu kiểu gì í.",
+        "normalized": "Sao tôi thích nét của Ngô Thiến quá, nhìn hiền hiền đáng yêu kiểu gì í."
+    },
+    {
+        "": "937",
+        "original": "giữ sức khỏe các cậu nhó",
+        "normalized": "giữ sức khỏe các cậu nhé"
+    },
+    {
+        "": "938",
+        "original": "gà nhà k thiếu chỉ thiếu măng cuut",
+        "normalized": "gà nhà không thiếu chỉ thiếu măng cụt"
+    },
+    {
+        "": "939",
+        "original": "Toi không một mình, tới concert toi có họ, và tất cả những người ở đó đều chung tình yêu với họ giống toi, tôi sẵn sàng đi concert 1 mình và quẩy với 1300% năng lượng",
+        "normalized": "Tôi không một mình, tới concert tôi có họ, và tất cả những người ở đó đều chung tình yêu với họ giống tôi, tôi sẵn sàng đi concert 1 mình và quẩy với 1300% năng lượng"
+    },
+    {
+        "": "940",
+        "original": "Bày 1 mâm toàn món khoái khẩu trc mặt",
+        "normalized": "Bày 1 mâm toàn món khoái khẩu trước mặt"
+    },
+    {
+        "": "941",
+        "original": "t chia cuốn hoá pt của t cho dễ mang chứ ko phải nó rớt trang nha",
+        "normalized": "tôi chia cuốn hoá pt của tôi cho dễ mang chứ không phải nó rớt trang nha"
+    },
+    {
+        "": "942",
+        "original": "drama cuộc đời sau khi thi đh???",
+        "normalized": "drama cuộc đời sau khi thi đại học???"
+    },
+    {
+        "": "943",
+        "original": "nhiều khi cũng xi nghĩ",
+        "normalized": "nhiều khi cũng suy nghĩ"
+    },
+    {
+        "": "944",
+        "original": "nhanh dữ vậy mí bà tui bất ngờuln ấy",
+        "normalized": "nhanh dữ vậy mấy bà tui bất ngờ luôn ấy"
+    },
+    {
+        "": "945",
+        "original": "hỡi nhưng người bạn séc thiện lành :)))",
+        "normalized": "hỡi nhũng người bạn séc thiện lành :)))"
+    },
+    {
+        "": "946",
+        "original": "2521, là chữa lành dữ òi đó :))))))",
+        "normalized": "2521, là chữa lành dữ rồi đó :))))))"
+    },
+    {
+        "": "947",
+        "original": "Đến nhà ngkhac ăn mà có đĩa thịt cả nạc cả mỡ là k dám động vào, auto ăn rau",
+        "normalized": "Đến nhà ngkhac ăn mà có đĩa thịt cả nạc cả mỡ là không dám động vào, auto ăn rau"
+    },
+    {
+        "": "948",
+        "original": "Ê hok ấy mình đạp xe cho nhanh",
+        "normalized": "Ê không ấy mình đạp xe cho nhanh"
+    },
+    {
+        "": "949",
+        "original": "Đòi còn sợ hơn ng ta cướp",
+        "normalized": "Đòi còn sợ hơn người ta cướp"
+    },
+    {
+        "": "950",
+        "original": "ngủ nhiều ngủ zai ngủ dậy chuột rút",
+        "normalized": "ngủ nhiều ngủ dai ngủ dậy chuột rút"
+    },
+    {
+        "": "951",
+        "original": "Biết là nó k hay bằng bản gốc r, nhưng mà t cx hơi thất vọng chắc tại đặt nhiều kì vọng quá",
+        "normalized": "Biết là nó không hay bằng bản gốc rồi, nhưng mà tôi cũng hơi thất vọng chắc tại đặt nhiều kì vọng quá"
+    },
+    {
+        "": "952",
+        "original": "vào đọc giải trí bạn êi",
+        "normalized": "vào đọc giải trí bạn ơi"
+    },
+    {
+        "": "953",
+        "original": "đc mấy cái biết còn đâu ko hiểu cái j luôn",
+        "normalized": "được mấy cái biết còn đâu không hiểu cái gì luôn"
+    },
+    {
+        "": "954",
+        "original": "Lấy bọc thực phẩm bọc phần cắt rồi bỏ  ngăn mát ăn đến đâu bổ ra đến đấy nó ko bị hư",
+        "normalized": "Lấy bọc thực phẩm bọc phần cắt rồi bỏ  ngăn mát ăn đến đâu bổ ra đến đấy nó không bị hư"
+    },
+    {
+        "": "955",
+        "original": "đi thực tập bên này ik bạn, trông có vẻ hợp",
+        "normalized": "đi thực tập bên này đi bạn, trông có vẻ hợp"
+    },
+    {
+        "": "956",
+        "original": "cố gắng sửa để quen anh mới không tái phạm nhé mà thôi cố gắng xl anh ny đi chứ lỡ ra dính ..",
+        "normalized": "cố gắng sửa để quen anh mới không tái phạm nhé mà thôi cố gắng xin l ỗi anh người yêu đi chứ lỡ ra dính .."
+    },
+    {
+        "": "957",
+        "original": "chị là người vk tốt,nhưng mỗi người là mỗi cá thể riêng biệt nên có chuyện gì thì cứ nói thẳng với nhau,đè nén làm gì nhỉ.",
+        "normalized": "chị là người vợ tốt,nhưng mỗi người là mỗi cá thể riêng biệt nên có chuyện gì thì cứ nói thẳng với nhau,đè nén làm gì nhỉ."
+    },
+    {
+        "": "958",
+        "original": "Thức dậy xinh như những nàng công túa",
+        "normalized": "Thức dậy xinh như những nàng công chúa"
+    },
+    {
+        "": "959",
+        "original": "E đi đâu ai chả nói câu tự nhiên như ở nhà, vậy mà cũng tin",
+        "normalized": "Em đi đâu ai chả nói câu tự nhiên như ở nhà, vậy mà cũng tin"
+    },
+    {
+        "": "960",
+        "original": "Đây mới giống con mèo của t này :))))",
+        "normalized": "Đây mới giống con mèo của tôi này :))))"
+    },
+    {
+        "": "961",
+        "original": "ê ê, mqh mới này ok nè",
+        "normalized": "ê ê, mối quan hệ mới này ok nè"
+    },
+    {
+        "": "962",
+        "original": "Vào mình, mình sẽ gắp miếng đó cho ngêu xong gắp miếng thịt cho mình, vừa đuọc tiếng chiều nyêu",
+        "normalized": "Vào mình, mình sẽ gắp miếng đó cho người yêu xong gắp miếng thịt cho mình, vừa được tiếng chiều người yêu"
+    },
+    {
+        "": "963",
+        "original": "đến giờ ovtk r ó",
+        "normalized": "đến giờ ovtk rồi á"
+    },
+    {
+        "": "964",
+        "original": "ở mk cx có thì hay nhỉ",
+        "normalized": "ở mình cũng có thì hay nhỉ"
+    },
+    {
+        "": "965",
+        "original": "Mụt chút chec trong tim",
+        "normalized": "Một chút chết trong tim"
+    },
+    {
+        "": "966",
+        "original": "Còn dzú của tôi nữa",
+        "normalized": "Còn vú của tôi nữa"
+    },
+    {
+        "": "967",
+        "original": "Bà Ella gánh team về chất giọng mà nay bả để tóc dài nhìn khum quen so vs xưa, nhưng S.H.E mãi đỉnh nhâ",
+        "normalized": "Bà Ella gánh team về chất giọng mà nay bả để tóc dài nhìn không quen so với xưa, nhưng S.H.E mãi đỉnh nha"
+    },
+    {
+        "": "968",
+        "original": "c này hay xem mấy cái chữa lành lắm nè",
+        "normalized": "cậu này hay xem mấy cái chữa lành lắm nè"
+    },
+    {
+        "": "969",
+        "original": "cs hôn nhân ko có màu hồng đâu,cùng suy nghĩ lại biết đâu ông thay đổi lại hạnh phúc!",
+        "normalized": "cuộc sống hôn nhân không có màu hồng đâu,cùng suy nghĩ lại biết đâu ông thay đổi lại hạnh phúc!"
+    },
+    {
+        "": "970",
+        "original": "dị là hông đc r",
+        "normalized": "vậy là hông được rồi"
+    },
+    {
+        "": "971",
+        "original": "T có bà chị đi thi đh vào sg mang theo đủ bộ skincare các bước trang điểm nhưng quên mang giấy tờ để dự thi",
+        "normalized": "Tôi có bà chị đi thi đại học vào sg mang theo đủ bộ skincare các bước trang điểm nhưng quên mang giấy tờ để dự thi"
+    },
+    {
+        "": "972",
+        "original": "tui từng vậy trong thời gian ngắn, đi học về là đâm đầu đi làm, chạy bục mạng để kịp giờ cho cv tiếp theo",
+        "normalized": "tui từng vậy trong thời gian ngắn, đi học về là đâm đầu đi làm, chạy bục mạng để kịp giờ cho công việc tiếp theo"
+    },
+    {
+        "": "973",
+        "original": "hồi nhỏ đi theo gđ cúng mà sặc mùi nhang =))",
+        "normalized": "hồi nhỏ đi theo gia đình cúng mà sặc mùi nhang =))"
+    },
+    {
+        "": "974",
+        "original": "Cho xin cái địa chỉ face và thông tin nhà thằng chó này vào chửi cái, dc nó",
+        "normalized": "Cho xin cái địa chỉ face và thông tin nhà thằng chó này vào chửi cái, được nó"
+    },
+    {
+        "": "975",
+        "original": "Mới thi xong toán cao cấp mà sao nhìn khum hiểu gì hết vậy",
+        "normalized": "Mới thi xong toán cao cấp mà sao nhìn không hiểu gì hết vậy"
+    },
+    {
+        "": "976",
+        "original": "theo đúm kịch bản đê",
+        "normalized": "theo đúng kịch bản đi"
+    },
+    {
+        "": "977",
+        "original": "Thấy mn cứ tranh cãi xem mùa hè nên mặc màu áo màu đen hay trắng, theo mình là nên mặc cả hai màu nhé cụ thể là phối màu như này",
+        "normalized": "Thấy mọi người cứ tranh cãi xem mùa hè nên mặc màu áo màu đen hay trắng, theo mình là nên mặc cả hai màu nhé cụ thể là phối màu như này"
+    },
+    {
+        "": "978",
+        "original": "tôi thấy tôi trong này nhma tôi kh có ngiu",
+        "normalized": "tôi thấy tôi trong này nhưng mà tôi không có người yêu"
+    },
+    {
+        "": "979",
+        "original": "Bon vay tiền la bon đeo có liêm sỉ muốn ăn ko muốn ia",
+        "normalized": "Bọn vay tiền là bọn đéo có liêm sỉ muốn ăn không muốn ỉa"
+    },
+    {
+        "": "980",
+        "original": "Có con choá zà con meow á aiu",
+        "normalized": "Có con chó và con mèo á anh yêu"
+    },
+    {
+        "": "981",
+        "original": "Tifu dễ thương thế nài đúng là báu vật",
+        "normalized": "Tifu dễ thương thế này đúng là báu vật"
+    },
+    {
+        "": "982",
+        "original": "Khi nào a về làm thử xem ngon ko nha",
+        "normalized": "Khi nào anh về làm thử xem ngon không nha"
+    },
+    {
+        "": "983",
+        "original": ":(( t thích ăn cá điêu hồng lắm",
+        "normalized": ":(( tôi thích ăn cá điêu hồng lắm"
+    },
+    {
+        "": "984",
+        "original": "chời ơi đi tái khám huhu",
+        "normalized": "trời ơi đi tái khám huhu"
+    },
+    {
+        "": "985",
+        "original": "Báo dc nha b nhưng p có bằng chứng nha",
+        "normalized": "Báo được nha bạn nhưng phải có bằng chứng nha"
+    },
+    {
+        "": "986",
+        "original": "và có chị géi tỏ tình cơ mà =))))",
+        "normalized": "và có chị gái tỏ tình cơ mà =))))"
+    },
+    {
+        "": "987",
+        "original": "Mỗi lần khók lok ngoo ngok xong nghe lời tâm tình của cô Cẩm Lan nó thấm tới từng cục gạch ống luôn",
+        "normalized": "Mỗi lần khóc lóc ngu ngốc xong nghe lời tâm tình của cô Cẩm Lan nó thấm tới từng cục gạch ống luôn"
+    },
+    {
+        "": "988",
+        "original": "may quá, éo có tóp tóp trong máy",
+        "normalized": "may quá, đéo có tóp tóp trong máy"
+    },
+    {
+        "": "989",
+        "original": "ng ta mua vào và mua vào …",
+        "normalized": "người ta mua vào và mua vào …"
+    },
+    {
+        "": "990",
+        "original": "Xin 60 trịu đi thăm Anh mà mẹ cũng khum cho",
+        "normalized": "Xin 60 triệu đi thăm Anh mà mẹ cũng không cho"
+    },
+    {
+        "": "991",
+        "original": "Lại nhớ hồi học lớp 11, đc tiếng anh điểm rất cao mà cuối kỳ cô cho 7.8",
+        "normalized": "Lại nhớ hồi học lớp 11, được tiếng anh điểm rất cao mà cuối kỳ cô cho 7.8"
+    },
+    {
+        "": "992",
+        "original": "mấy năm ko yêu ai, đến bạn bè, người thân còn sốt ruột hộ, rồi bỗng 1 ngày vấp phải của nợ trẻ trâu",
+        "normalized": "mấy năm không yêu ai, đến bạn bè, người thân còn sốt ruột hộ, rồi bỗng 1 ngày vấp phải của nợ trẻ trâu"
+    },
+    {
+        "": "993",
+        "original": "T nhớ cái năn Indo đưa Pencaksilat vào thi đấu",
+        "normalized": "Tôi nhớ cái năm Indo đưa Pencaksilat vào thi đấu"
+    },
+    {
+        "": "994",
+        "original": "tương lai y z lun",
+        "normalized": "tương lai y vậy luôn"
+    },
+    {
+        "": "995",
+        "original": "Cứ như ck t dàn cảnh này đăng lên đây dằn mặt t z",
+        "normalized": "Cứ như chồng tôi dàn cảnh này đăng lên đây dằn mặt tôi vậy"
+    },
+    {
+        "": "996",
+        "original": "làm chiếc đi cho tình củm",
+        "normalized": "làm chiếc đi cho tình cảm"
+    },
+    {
+        "": "997",
+        "original": "Hướng ngờ chứ nội j",
+        "normalized": "Hướng ngờ chứ nội gì"
+    },
+    {
+        "": "998",
+        "original": "Nc ngoài lương nó x20 lần lương ở VN chả",
+        "normalized": "Nước ngoài lương nó x20 lần lương ở VN chả"
+    },
+    {
+        "": "999",
+        "original": "thấy mđ khó khăn trong chuyện thuê nhà",
+        "normalized": "thấy mấy đứa khó khăn trong chuyện thuê nhà"
+    },
+    {
+        "": "1000",
+        "original": "em cũng y thế nhma em bị đuổi gòi =))",
+        "normalized": "em cũng y thế nhưng mà em bị đuổi rồi =))"
+    },
+    {
+        "": "1001",
+        "original": "Mong rằng có nhiều đãi ngộ hơn nữa cho những vdv đã cố gắnh",
+        "normalized": "Mong rằng có nhiều đãi ngộ hơn nữa cho những vận động viên đã cố gắng"
+    },
+    {
+        "": "1002",
+        "original": "Tặng thì cứ tặng, hỏi làm gì mắc công gì cx k thích k biết rồi lại lm nhau khó chịu chỉ vì \"con gái các e thật khó chiều\" \"anh k hiểu e\" =))",
+        "normalized": "Tặng thì cứ tặng, hỏi làm gì mắc công gì cũng không thích khôgn biết rồi lại làm nhau khó chịu chỉ vì \"con gái các em thật khó chiều\" \"anh không hiểu em\" =))"
+    },
+    {
+        "": "1003",
+        "original": "Về mẹ thấy mắng t sấp mặt",
+        "normalized": "Về mẹ thấy mắng tôi sấp mặt"
+    },
+    {
+        "": "1004",
+        "original": "Gặp t thì 1 là k ăn luôn, 2 là ng khác gắp xong có miếng trên cùng là thịt nạc thì mình gắp",
+        "normalized": "Gặp tôi thì 1 là không ăn luôn, 2 là người khác gắp xong có miếng trên cùng là thịt nạc thì mình gắp"
+    },
+    {
+        "": "1005",
+        "original": "bảo sao tú dưa hông xem tóp tóp =))",
+        "normalized": "bảo sao tú dưa không xem tóp tóp =))"
+    },
+    {
+        "": "1006",
+        "original": "Má t cũng hướng nội =))))",
+        "normalized": "Má tôi cũng hướng nội =))))"
+    },
+    {
+        "": "1007",
+        "original": "Hổng nhớ lần cuối mình ăn sáng là khi nèo nựa",
+        "normalized": "Không nhớ lần cuối mình ăn sáng là khi nào nữa"
+    },
+    {
+        "": "1008",
+        "original": "Rui rốt cuộc nó có sạch thiệt không z",
+        "normalized": "Rồi rốt cuộc nó có sạch thiệt không vậy"
+    },
+    {
+        "": "1009",
+        "original": "Xưa thôi,giờ các cháu đầy đủ zui,ko thèm lấy đâu",
+        "normalized": "Xưa thôi,giờ các cháu đầy đủ vui,không thèm lấy đâu"
+    },
+    {
+        "": "1010",
+        "original": "Chuẩn quá ạ, cho ngta vay nhưng kiểu mình mắc nợ họ",
+        "normalized": "Chuẩn quá ạ, cho người ta vay nhưng kiểu mình mắc nợ họ"
+    },
+    {
+        "": "1011",
+        "original": "v là t có redflag to đùng luôn",
+        "normalized": "vậy là tôi có redflag to đùng luôn"
+    },
+    {
+        "": "1012",
+        "original": "Chắc chua quá ko ăn đc",
+        "normalized": "Chắc chua quá không ăn được"
+    },
+    {
+        "": "1013",
+        "original": "Suy nghĩ nên rep nnao nhiều quá nên tôi quyết định ghost luôn",
+        "normalized": "Suy nghĩ nên rep như nào nhiều quá nên tôi quyết định ghost luôn"
+    },
+    {
+        "": "1014",
+        "original": "Rứa mới đã cái nư tau",
+        "normalized": "Rứa mới đã cái nư tao"
+    },
+    {
+        "": "1015",
+        "original": "Tôi biet ơn số tiền 200 triệu sẽ đang tìm đến toi ngay bây giờ , cảm ơn , cảm ơn , cảm ơn",
+        "normalized": "Tôi biết ơn số tiền 200 triệu sẽ đang tìm đến tôi ngay bây giờ , cảm ơn , cảm ơn , cảm ơn"
+    },
+    {
+        "": "1016",
+        "original": "ủa sao bài kia bị xoá zị đang cmt hăng mà=))))",
+        "normalized": "ủa sao bài kia bị xoá vậy đang cmt hăng mà=))))"
+    },
+    {
+        "": "1017",
+        "original": "Xin vía trúng 1 tờ thôi cũm được ạ",
+        "normalized": "Xin vía trúng 1 tờ thôi cũng được ạ"
+    },
+    {
+        "": "1018",
+        "original": "Mà làm gì tới lượt các bạn chê CP ghê zị",
+        "normalized": "Mà làm gì tới lượt các bạn chê CP ghê vậy"
+    },
+    {
+        "": "1019",
+        "original": "có khi còn đàng ông hơn ngiu",
+        "normalized": "có khi còn đàn ông hơn người yêu"
+    },
+    {
+        "": "1020",
+        "original": "đu trend ni đc nề",
+        "normalized": "đu trend này đc nè"
+    },
+    {
+        "": "1021",
+        "original": "hồi trước thì hay thật bh cảm giác ông ấy cạn ý tưởng rồi nên nhạt",
+        "normalized": "hồi trước thì hay thật bây giờ cảm giác ông ấy cạn ý tưởng rồi nên nhạt"
+    },
+    {
+        "": "1022",
+        "original": "bữa t đng chạy xe đạp cái thấy con chó rược chạy mà cứ nhìn con chó bị chơn bánh té nó nghĩ rược luôn ÷)))",
+        "normalized": "bữa tôi đang chạy xe đạp cái thấy con chó rượt chạy mà cứ nhìn con chó bị trơn bánh té nó nghỉ rượt luôn ÷)))"
+    },
+    {
+        "": "1023",
+        "original": "M k có nhà à:)))",
+        "normalized": "Mày không có nhà à:)))"
+    },
+    {
+        "": "1024",
+        "original": "cb đón nhận 100 clip tiktok của tui nha pà",
+        "normalized": "chuẩn bị đón nhận 100 clip tiktok của tui nha bà"
+    },
+    {
+        "": "1025",
+        "original": "Nhiều b k thích ng lên thăm zô nói như thật,cái này là nta lên 1 buổi hoặc 1 lúc thôi,chả ai đi chăm mà đi cả nhà đâu ,ăn xong r về",
+        "normalized": "Nhiều bạn không thích người lên thăm vô nói như thật,cái này là người ta lên 1 buổi hoặc 1 lúc thôi,chả ai đi chăm mà đi cả nhà đâu ,ăn xong rồi về"
+    },
+    {
+        "": "1026",
+        "original": "Câu nói trend nhức nhoiis",
+        "normalized": "Câu nói trend nhức nhói"
+    },
+    {
+        "": "1027",
+        "original": "thiệt ra đi concert 1 mình quẫy với người chung fandom vui hơn nhiềuuu",
+        "normalized": "thiệt ra đi concert 1 mình quẩy với người chung fandom vui hơn nhiều"
+    },
+    {
+        "": "1028",
+        "original": "Mà bới 1 lần thì đc rồi này thấy bố mẹ ngta im im xong còn bới thêm 2 lần nữa thì nói thật bạn hơi bị thiếu tinh tế và kỹ năng sốngđấy",
+        "normalized": "Mà bới 1 lần thì được rồi này thấy bố mẹ người ta im im xong còn bới thêm 2 lần nữa thì nói thật bạn hơi bị thiếu tinh tế và kỹ năng sốngđấy"
+    },
+    {
+        "": "1029",
+        "original": "ăn thử chè hẻm đuy ạ=))",
+        "normalized": "ăn thử chè hẻm đi ạ=))"
+    },
+    {
+        "": "1030",
+        "original": "xong khóc lồi con mắt da",
+        "normalized": "xong khóc lồi con mắt ra"
+    },
+    {
+        "": "1031",
+        "original": "ai khai ra nè mng",
+        "normalized": "ai khai ra nè mọi người"
+    },
+    {
+        "": "1032",
+        "original": "Battle dí ba để học kinh tế thay vì sư phạm",
+        "normalized": "Battle với ba để học kinh tế thay vì sư phạm"
+    },
+    {
+        "": "1033",
+        "original": "balo t là thùng rác r",
+        "normalized": "balo tôi là thùng rác rồi"
+    },
+    {
+        "": "1034",
+        "original": "nhìn giống ae mình thế nhờ",
+        "normalized": "nhìn giống anh em mình thế nhờ"
+    },
+    {
+        "": "1035",
+        "original": "@ Anh  ôg mặc đi Hjhaaaaa",
+        "normalized": "@ Anh  ông mặc đi Hjhaaaaa"
+    },
+    {
+        "": "1036",
+        "original": "sao giờ TQ nhiều mỹ nữ quá z",
+        "normalized": "sao giờ TQ nhiều mỹ nữ quá vậy"
+    },
+    {
+        "": "1037",
+        "original": "ê mình mà bị leak là giống v nè",
+        "normalized": "ê mình mà bị leak là giống vậy nè"
+    },
+    {
+        "": "1038",
+        "original": "Cho hỏi s c này bị chửi thế ạ",
+        "normalized": "Cho hỏi sao cậu này bị chửi thế ạ"
+    },
+    {
+        "": "1039",
+        "original": "Thế mà là cái oto trước thì....",
+        "normalized": "Thế mà là cái ô tô trước thì...."
+    },
+    {
+        "": "1040",
+        "original": "vô tìm phim chữa lành nhaaa=)))",
+        "normalized": "vô tìm phim chữa lành nha=)))"
+    },
+    {
+        "": "1041",
+        "original": "Cắt dây phơi trc cửa nhà b đi",
+        "normalized": "Cắt dây phơi trước cửa nhà bạn đi"
+    },
+    {
+        "": "1042",
+        "original": "liên hệ anh hồi chìu lẹ",
+        "normalized": "liên hệ anh hồi chiều lẹ"
+    },
+    {
+        "": "1043",
+        "original": "Sao lại dành cả 2 đứa dk.",
+        "normalized": "Sao lại dành cả 2 đứa được."
+    },
+    {
+        "": "1044",
+        "original": "chồng t lấy t từ lúc lương 8tr, t lươnv 4tr sao t vẫn thấy ok nhỉ?",
+        "normalized": "chồng tôi lấy tôi từ lúc lương 8tr, tôi lương 4tr sao tôi vẫn thấy ok nhỉ?"
+    }
+]
